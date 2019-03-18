@@ -5,7 +5,7 @@
                 "name": "abase",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
-                "alphabet" : "male",
+                "alphabet" : "A",
                 "phone": {
                     "meaning": "humiliate;cause to feel shame",
                     "home": "besatti karna",
@@ -15,14 +15,14 @@
         },
         {
                 "id": "c201",
-                "name": "Johnny Depp",
-                "sentence": "johnny_depp@gmail.com",
+                "name": "babble",
+                "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
-                "alphabet" : "male",
+                "alphabet" : "B",
                 "phone": {
-                    "meaning": "+91 0000000000",
-                    "home": "00 000000",
-                    "bangla": "00 000000"
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
                 }
         }
     ]
