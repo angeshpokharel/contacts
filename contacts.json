@@ -3,7 +3,7 @@
         {
                 "id": "c200",
                 "name": "abase",
-                "email": "Don't abase your cousin by making fun of his accent.",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "gender" : "male",
                 "phone": {
@@ -16,7 +16,7 @@
         {
                 "id": "c201",
                 "name": "Johnny Depp",
-                "email": "johnny_depp@gmail.com",
+                "sentence": "johnny_depp@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "gender" : "male",
                 "phone": {
