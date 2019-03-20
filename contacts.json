@@ -2,7 +2,7 @@
     "contacts": [
         {
                 "id": "c200",
-                "name": "abase",
+                "name": "Abase",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
@@ -15,7 +15,7 @@
         },
          {
                 "id": "c201",
-                "name": "abash",
+                "name": "Abash",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
@@ -28,7 +28,20 @@
         },
          {
                 "id": "c202",
-                "name": "abate",
+                "name": "Abate",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
+                }
+        },
+        {
+                "id": "c202",
+                "name": "Abdicate",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
@@ -82,7 +95,7 @@
         
          {
                 "id": "c203",
-                "name": "abhor",
+                "name": "Abhor",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
@@ -96,6 +109,19 @@
         {
                 "id": "c202",
                 "name": "Abide",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
+                }
+        },
+        {
+                "id": "c202",
+                "name": "Abject",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
@@ -160,6 +186,19 @@
         },
         {
                 "id": "c202",
+                "name": "Abscission",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
+                }
+        },
+        {
+                "id": "c202",
                 "name": "Abscond",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -186,6 +225,19 @@
         },
         {
                 "id": "c202",
+                "name": "Abstinence",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
+                }
+        },
+        {
+                "id": "c202",
                 "name": "Abstruse",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -206,6 +258,19 @@
                 "phone": {
                     "meaning": "humiliate;cause to feel shame",
                     "home": "besatti karna",
+                    "bangla": "মানহানি করা
+"
+                }
+        },
+        {
+                "id": "c202",
+                "name": "Abysmal",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
                     "bangla": "মানহানি করা
 "
                 }
@@ -257,6 +322,32 @@
                     "meaning": "humiliate;cause to feel shame",
                     "home": "besatti karna",
                     "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c202",
+                "name": "Accretion",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
+                }
+        },
+        {
+                "id": "c202",
+                "name": "Accrue",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
                 }
         },
         {
@@ -341,6 +432,19 @@
                     "meaning": "humiliate;cause to feel shame",
                     "home": "besatti karna",
                     "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c202",
+                "name": "Adjunct",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
                 }
         },
         {
@@ -454,6 +558,32 @@
                 }
         },
         {
+                "id": "c202",
+                "name": "Affected",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
+                }
+        },
+        {
+                "id": "c202",
+                "name": "Affinity",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
+                }
+        },
+        {
                 "id": "c204",
                 "name": "Afflict",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
@@ -479,6 +609,19 @@
         },
         {
                 "id": "c202",
+                "name": "Aggrandize",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
+                }
+        },
+        {
+                "id": "c202",
                 "name": "Aggregate",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -500,6 +643,19 @@
                     "meaning": "humiliate;cause to feel shame",
                     "home": "besatti karna",
                     "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c202",
+                "name": "Alchemy",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
                 }
         },
         {
@@ -539,8 +695,21 @@
                 }
         },
         {
+                "id": "c202",
+                "name": "Alloy",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
+                }
+        },
+        {
                 "id": "c204",
-                "name": "Allude",
+                "name": "Allure",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
@@ -613,6 +782,19 @@
                 }
         },
         {
+                "id": "c202",
+                "name": "Ambrosia",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
+                }
+        },
+        {
                 "id": "c204",
                 "name": "Ameliorate",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
@@ -622,6 +804,32 @@
                     "meaning": "humiliate;cause to feel shame",
                     "home": "besatti karna",
                     "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c202",
+                "name": "Amenable",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
+                }
+        },
+        {
+                "id": "c202",
+                "name": "Amenity",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
                 }
         },
         {
@@ -662,7 +870,33 @@
         },
         {
                 "id": "c202",
+                "name": "Amulet",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
+                }
+        },
+        {
+                "id": "c202",
                 "name": "Anachronism",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
+                }
+        },
+        {
+                "id": "c202",
+                "name": "Analgesic",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
@@ -723,6 +957,19 @@
                     "bangla": "মানহানি করা"
                 }
         },
+        {
+                "id": "c202",
+                "name": "Anodyne",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
+                }
+        },
                 {
                 "id": "c204",
                 "name": "Anomaly",
@@ -733,6 +980,32 @@
                     "meaning": "humiliate;cause to feel shame",
                     "home": "besatti karna",
                     "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c202",
+                "name": "Antecedent",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
+                }
+        },
+        {
+                "id": "c202",
+                "name": "Antediluvian",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
                 }
         },
         {
@@ -797,7 +1070,43 @@
         },
         {
                 "id": "c204",
+                "name": "Apex",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c204",
+                "name": "Apogee",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c204",
                 "name": "Apostate",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c204",
+                "name": "Apothegm",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
@@ -835,6 +1144,18 @@
         {
                 "id": "c204",
                 "name": "Appellation",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c204",
+                "name": "Apposite",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
@@ -885,6 +1206,30 @@
         },
         {
                 "id": "c204",
+                "name": "Appropos",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c204",
+                "name": "Arabesque",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c204",
                 "name": "Arbiter",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -921,6 +1266,18 @@
         },
         {
                 "id": "c204",
+                "name": "Archeology",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c204",
                 "name": "Ardent",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -933,7 +1290,31 @@
         },
         {
                 "id": "c204",
+                "name": "Ardor",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c204",
                 "name": "Arduous",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c204",
+                "name": "Argot",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
@@ -1113,7 +1494,43 @@
         },
         {
                 "id": "c204",
+                "name": "Astringent",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c204",
                 "name": "Astute",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c204",
+                "name": "Asylum",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c204",
+                "name": "Atavism",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
@@ -1279,9 +1696,9 @@
                     "bangla": "মানহানি করা"
                 }
         },
-                {
+        {
                 "id": "c204",
-                "name": "Awesome",
+                "name": "Avocation",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
@@ -1291,7 +1708,30 @@
                     "bangla": "মানহানি করা"
                 }
         },
-        
+        {
+                "id": "c204",
+                "name": "Avuncular",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
+                }
+        },
+                {
+                "id": "c204",
+                "name": "Axiomatic",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
+                }
+        },
         {
                 "id": "c9999",
                 "name": "Babble",
@@ -1365,6 +1805,30 @@
                 }
         },
         {
+                "id": "c204",
+                "name": "Banter",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "B",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c204",
+                "name": "Bard",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "B",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
+                }
+        },
+        {
                 "id": "c9999",
                 "name": "Barometer",
                 "sentence": "The old man is only babbling--don't pay attention",
@@ -1398,6 +1862,30 @@
                     "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
                     "home": "बकना; प्रलाप",
                     "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c204",
+                "name": "Beatify",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "B",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c204",
+                "name": "Bedizen",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "B",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
                 }
         },
         {
@@ -1593,6 +2081,18 @@
                 }
         },
         {
+                "id": "c204",
+                "name": "Blandishment",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "B",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
+                }
+        },
+        {
                 "id": "c9999",
                 "name": "Blase",
                 "sentence": "The old man is only babbling--don't pay attention",
@@ -1773,6 +2273,18 @@
                 }
         },
         {
+                "id": "c204",
+                "name": "Bucolic",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "B",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "besatti karna",
+                    "bangla": "মানহানি করা"
+                }
+        },
+        {
                 "id": "c9999",
                 "name": "Bulwark",
                 "sentence": "The old man is only babbling--don't pay attention",
@@ -1847,18 +2359,6 @@
         {
                 "id": "c9999",
                 "name": "Cadge",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "alphabet" : "C",
-                "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "bangla": "কলধ্বনি করা"
-                }
-        },
-        {
-                "id": "c9999",
-                "name": "Cajole",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "C",
@@ -1966,6 +2466,18 @@
         },
         {
                 "id": "c9999",
+                "name": "Cantankerous",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Capitulate",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -1979,6 +2491,18 @@
         {
                 "id": "c9999",
                 "name": "Capricious",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Captious",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "C",
@@ -2014,7 +2538,67 @@
         },
         {
                 "id": "c9999",
+                "name": "Carnal",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Carping",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Cartography",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Caste",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Castigate",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Cataclysm",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "C",
@@ -2039,6 +2623,42 @@
         {
                 "id": "c9999",
                 "name": "Catastrophic",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Categorical",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Caucus",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Causal",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "C",
@@ -2086,6 +2706,30 @@
         },
         {
                 "id": "c9999",
+                "name": "Centrifugal",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Centripetal",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Cessation",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -2099,6 +2743,18 @@
         {
                 "id": "c9999",
                 "name": "Chagrin",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Champion",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "C",
@@ -2134,6 +2790,18 @@
         },
         {
                 "id": "c9999",
+                "name": "Chasten",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Chicanery",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -2147,6 +2815,54 @@
         {
                 "id": "c9999",
                 "name": "Chimerical",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Chivalry",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Churlish",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Circuitous",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Clairvoyant",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "C",
@@ -2205,6 +2921,18 @@
                 }
         },
         {
+                "id": "c9999",
+                "name": "Cloister",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
                 "id": "c204",
                 "name": "Coagulate",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
@@ -2217,6 +2945,18 @@
                 }
         },
         {
+                "id": "c9999",
+                "name": "Coalesce",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
                 "id": "c204",
                 "name": "Coda",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
@@ -2226,6 +2966,18 @@
                     "meaning": "humiliate;cause to feel shame",
                     "home": "besatti karna",
                     "bangla": "মানহানি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Codify",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
                 }
         },
         {
@@ -2255,6 +3007,18 @@
         {
                 "id": "c9999",
                 "name": "Cognizant",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Collage",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "C",
@@ -2423,6 +3187,18 @@
         {
                 "id": "c9999",
                 "name": "Comprehensive",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Compunction",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "C",
@@ -2626,6 +3402,30 @@
         },
         {
                 "id": "c9999",
+                "name": "Conscript",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Consecrate",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Consternation",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -2673,6 +3473,18 @@
                 }
         },
         {
+                "id": "c9999",
+                "name": "Contend",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
                 "id": "c204",
                 "name": "Contention",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
@@ -2698,6 +3510,30 @@
         },
         {
                 "id": "c9999",
+                "name": "Contiguous",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Continence",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Contrite",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -2711,6 +3547,18 @@
         {
                 "id": "c9999",
                 "name": "Controversial",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Contumacious",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "C",
@@ -3071,6 +3919,18 @@
         },
         {
                 "id": "c9999",
+                "name": "Debauchery",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "D",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Debilitate",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -3168,6 +4028,18 @@
         {
                 "id": "c9999",
                 "name": "Deem",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "D",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Defame",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "D",
@@ -3287,6 +4159,18 @@
         },
         {
                 "id": "c9999",
+                "name": "Demotic",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "D",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Demur",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -3324,6 +4208,18 @@
         {
                 "id": "c9999",
                 "name": "Denote",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "D",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Denouement",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "D",
@@ -3432,6 +4328,18 @@
         {
                 "id": "c9999",
                 "name": "Desist",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "D",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Desuetude",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "D",
@@ -3575,6 +4483,18 @@
         },
         {
                 "id": "c9999",
+                "name": "Diffuse",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "D",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Dilettante",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -3660,6 +4580,18 @@
         {
                 "id": "c9999",
                 "name": "Disciple",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "D",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Discomfit",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "D",
@@ -4055,6 +4987,18 @@
         },
         {
                 "id": "c9999",
+                "name": "Doggerel",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "D",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Dogmatic",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -4104,6 +5048,18 @@
         {
                 "id": "c9999",
                 "name": "Dregs",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "D",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Dross",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "D",
@@ -4235,6 +5191,18 @@
         },
         {
                 "id": "c9999",
+                "name": "Effervescene",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "E",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Efficacy",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -4260,6 +5228,30 @@
         {
                 "id": "c9999",
                 "name": "Effrontery",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "E",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Egoism",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "E",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Egotistical",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "E",
@@ -4308,6 +5300,18 @@
         {
                 "id": "c9999",
                 "name": "Elicit",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "E",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Elixir",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "E",
@@ -4403,7 +5407,7 @@
         },
         {
                 "id": "c9999",
-                "name": "Empirical",
+                "name": "Emollient",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "E",
@@ -4415,7 +5419,7 @@
         },
         {
                 "id": "c9999",
-                "name": "Emulate",
+                "name": "Emprical",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "E",
@@ -4583,6 +5587,18 @@
         },
         {
                 "id": "c9999",
+                "name": "Epistemology",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "E",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Epithet",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -4631,7 +5647,7 @@
         },
         {
                 "id": "c9999",
-                "name": "Eradicate",
+                "name": "Errant",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "E",
@@ -4691,7 +5707,7 @@
         },
         {
                 "id": "c9999",
-                "name": "Ethics",
+                "name": "Etymology",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "E",
