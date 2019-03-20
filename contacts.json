@@ -54,6 +54,20 @@
         },
         {
                 "id": "c202",
+                "name": "Abet",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
+                    "bangla": "মানহানি করা
+"
+                }
+        },
+        
+        {
+                "id": "c202",
                 "name": "Abeyance",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -75,6 +89,19 @@
                 "phone": {
                     "meaning": "humiliate;cause to feel shame",
                     "home": "besatti karna",
+                    "bangla": "মানহানি করা
+"
+                }
+        },
+        {
+                "id": "c202",
+                "name": "Abide",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
                     "bangla": "মানহানি করা
 "
                 }
@@ -153,6 +180,19 @@
                 "phone": {
                     "meaning": "humiliate;cause to feel shame",
                     "home": "besatti karna",
+                    "bangla": "মানহানি করা
+"
+                }
+        },
+        {
+                "id": "c202",
+                "name": "Abstruse",
+                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "A",
+                "phone": {
+                    "meaning": "humiliate;cause to feel shame",
+                    "home": "abate in hindi",
                     "bangla": "মানহানি করা
 "
                 }
@@ -1278,6 +1318,18 @@
         },
         {
                 "id": "c9999",
+                "name": "Baffle",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "B",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Balk",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -1326,6 +1378,30 @@
         },
         {
                 "id": "c9999",
+                "name": "Bask",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "B",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Bawdy",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "B",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Bedlam",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -1339,6 +1415,18 @@
         {
                 "id": "c9999",
                 "name": "Begrudge",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "B",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Behemoth",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "B",
@@ -1482,6 +1570,18 @@
         },
         {
                 "id": "c9999",
+                "name": "Bifurcate",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "B",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Bizarre",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -1602,6 +1702,18 @@
         },
         {
                 "id": "c9999",
+                "name": "Bovine",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "B",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Brash",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -1626,7 +1738,31 @@
         },
         {
                 "id": "c9999",
+                "name": "Brazen",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "B",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Bristle",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "B",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Broach",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "B",
@@ -1699,6 +1835,18 @@
         {
                 "id": "c9999",
                 "name": "Cacophony",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Cadge",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "C",
@@ -1842,6 +1990,18 @@
         },
         {
                 "id": "c9999",
+                "name": "Cardinal",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Carnage",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -1914,6 +2074,18 @@
         },
         {
                 "id": "c9999",
+                "name": "Celestial",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Cessation",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -1975,6 +2147,18 @@
         {
                 "id": "c9999",
                 "name": "Chimerical",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Clamor",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "C",
@@ -2561,6 +2745,18 @@
                 }
         },
         {
+                "id": "c9999",
+                "name": "Convival",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
                 "id": "c204",
                 "name": "Convoluted",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
@@ -2682,7 +2878,31 @@
         },
         {
                 "id": "c9999",
+                "name": "Cozen",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Crave",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "C",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Credence",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "C",
@@ -3091,6 +3311,18 @@
         },
         {
                 "id": "c9999",
+                "name": "Denizen",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "D",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Denote",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -3247,6 +3479,18 @@
         },
         {
                 "id": "c9999",
+                "name": "Detraction",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "D",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Devout",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -3272,6 +3516,18 @@
         {
                 "id": "c9999",
                 "name": "Dexterity",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "D",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Diaphanous",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "D",
@@ -3643,6 +3899,18 @@
         },
         {
                 "id": "c9999",
+                "name": "Dissident",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "D",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Dissolution",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -3944,6 +4212,18 @@
         {
                 "id": "c9999",
                 "name": "Edifice",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "E",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Effete",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "E",
@@ -4951,6 +5231,18 @@
         },
         {
                 "id": "c9999",
+                "name": "Feral",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "F",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Ferment",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -5144,6 +5436,18 @@
         {
                 "id": "c9999",
                 "name": "Forestall",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "F",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Formidable",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "F",
@@ -5587,6 +5891,18 @@
         },
         {
                 "id": "c9999",
+                "name": "Grouse",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "G",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
                 "name": "Guileless",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -5744,6 +6060,18 @@
         {
                 "id": "c9999",
                 "name": "Heresy",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "H",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Hermetic",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "H",
@@ -5915,6 +6243,18 @@
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "I",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Imbroglio",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "E",
                 "phone": {
                     "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
                     "home": "बकना; प्रलाप",
@@ -7211,6 +7551,18 @@
                 "sentence": "The old man is only babbling--don't pay attention",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "L",
+                "phone": {
+                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "home": "बकना; प्रलाप",
+                    "bangla": "কলধ্বনি করা"
+                }
+        },
+        {
+                "id": "c9999",
+                "name": "Lascivious",
+                "sentence": "The old man is only babbling--don't pay attention",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "alphabet" : "E",
                 "phone": {
                     "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
                     "home": "बकना; प्रलाप",
