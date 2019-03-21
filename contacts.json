@@ -13676,25 +13676,25 @@
         {
                 "id": "c9999",
                 "name": "Usurp",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Is your ambition driving you to usurp your boss?",
+                "pronounciation": "/jʊˈzəːp/",
                 "alphabet" : "U",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to take over; to seize or use something without authority",
+                    "home": "हड़पना; की जगह ले लेना",
+                    "synonym": "seize, take over, expropriate"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Utopia",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "This world is not a utopia because it contains too much crime and starvation.",
+                "pronounciation": "/juːˈtəʊpɪə/",
                 "alphabet" : "U",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "an imagined place or state of things in which everything is perfect.",
+                    "home": "आदर्शलोक; काल्पनिक लोक",
+                    "synonym": "paradise, heaven, heaven on earth, Eden"
                 }
         },
         {
