@@ -14156,13 +14156,13 @@
         {
                 "id": "c9999",
                 "name": "Wheedle",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "My daughter will pretend to cry if she thinks it will allow her to wheedle out of a consequence.",
+                "pronounciation": "/ˈwiːd(ə)l/",
                 "alphabet" : "W",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to try and persuade using flattery",
+                    "home": "किसी को मनाना",
+                    "synonym": "coax, cajole, inveigle, lure, induce, persuade"
                 }
         },
         {
