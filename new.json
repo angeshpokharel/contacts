@@ -200,38 +200,38 @@
         {
                 "id": "c202",
                 "name": "Abscond",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The robbers’ plan was to abscond with all of the millionaire’s valuable paintings and jewels.",
+                "pronounciation": "/əbˈskɒnd,abˈskɒnd/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "depart secretly and hide",
-                    "home": "abate in hindi",
-                    "synonym": "make off, run off,absquatulate,bolt 
+                    "home": "फरार होना;प्रपलायन करना",
+                    "synonym": "make off, run off,bolt 
 "
                 }
         },
         {
                 "id": "c208",
                 "name": "Abstemious",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Because I was abstemious with alcohol when I was younger, I am still quite healthy in my later years.",
+                "pronounciation": "/əbˈstiːmɪəs/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "home": "मिताहारी;संयमी",
+                    "synonym": "temperate, strict, severe
 "
                 }
         },
         {
                 "id": "c202",
                 "name": "Abstinence",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Abstinence from smoking is now mandatory on commercial airlines.",
+                "pronounciation": "/ˈabstɪnəns/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "the practice of restraining oneself from indulging in something, typically alcohol or sex",
-                    "home": "abate in hindi",
+                    "home": "परिवर्जन;परहेज",
                     "synonym": "abstention,sobriety
 "
                 }
@@ -239,25 +239,25 @@
         {
                 "id": "c202",
                 "name": "Abstruse",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Because I am not a computer programmer, I find most programming languages abstruse.",
+                "pronounciation": "/əbˈstruːs/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "obscure; profound; difficult to understand",
-                    "home": "abate in hindi",
-                    "synonym": "deep,recondite
+                    "home": "कठिन;गहन",
+                    "synonym": "deep,recondite,mysterious
 "
                 }
         },
         {
                 "id": "c209",
                 "name": "Absurd",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Jared is completely absurd for wearing a heavy coat and earmuffs in triple-digit heat.",
+                "pronounciation": "/əbˈsəːd/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "wildly unreasonable, illogical, or inappropriate.",
-                    "home": "besatti karna",
+                    "home": "ऊटपटांग;अनर्थक",
                     "synonym": "laughable, risible,ridiculous
 "
                 }
@@ -265,51 +265,51 @@
         {
                 "id": "c202",
                 "name": "Abysmal",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The movie’s plot was so abysmal the critic left the theater after five minutes.",
+                "pronounciation": "/əˈbɪzm(ə)l/",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "bottomless;limitless",
-                    "home": "abate in hindi",
-                    "synonym": "abyssal, unfathomable
+                    "meaning": "very bad;bottomless;limitless",
+                    "home": "अगाध;बहुत खराब",
+                    "synonym": "abyssal, unfathomable,unsatisfactory
 "
                 }
         },
         {
                 "id": "c210",
                 "name": "Access",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "She could no longer access her bank account because there had been too many suspicious purchases.",
+                "pronounciation": "/ˈaksɛs/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "the right to enter",
-                    "home": "besatti karna",
-                    "synonym": "approach
+                    "home": "अधिगम;प्रवेश ",
+                    "synonym": "approach,entrance
 "
                 }
         },
         {
                 "id": "c211",
                 "name": "Accommodate",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "When the new prison is built, it will accommodate eight hundred inmates.",
+                "pronounciation": "/əˈkɒmədeɪt/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "adjust or bring into harmony; adapt; make enough space for",
-                    "home": "besatti karna",
-                    "synonym": "adapt"
+                    "home": "सुविधा करना;स्थान देना",
+                    "synonym": "adapt,indulge"
                 }
         },
         {
                 "id": "c212",
                 "name": "Accomplice",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The police are hoping the accomplice will lead them to the mastermind of the crime. ",
+                "pronounciation": "/əˈkʌmplɪs,əˈkɒmplɪs/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "partner in crime",
-                    "home": "besatti karna",
-                    "synonym": "confederate"
+                    "home": "जुर्म में साथी;सहकारी",
+                    "synonym": "associate,confederate"
                 }
         },
         {
@@ -327,25 +327,25 @@
         {
                 "id": "c202",
                 "name": "Accretion",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The gradual accretion of terror over many years left hundred dead and thousands wounded. ",
+                "pronounciation": "/əˈkriːʃ(ə)n/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "growth or increase in size by gradual addition;",
-                    "home": "abate in hindi",
-                    "synonym": "accumulation
+                    "home": " वृद्धि;अनुवृद्धि",
+                    "synonym": "mushrooming,rise,accumulation
 "
                 }
         },
         {
                 "id": "c202",
                 "name": "Accrue",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The benefits of following a healthy lifestyle will accrue over time. ",
+                "pronounciation": "/əˈkruː/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "come to one as a gain; accumulate over time;",
-                    "home": "abate in hindi",
+                    "home": "बढ़ना;लाभ होना",
                     "synonym": " arise, follow,gather
 "
                 }
@@ -353,207 +353,207 @@
         {
                 "id": "c204",
                 "name": "Acknowledge",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Jim will acknowledge receipt of your email even if he cannot immediately respond to it. ",
+                "pronounciation": "/əkˈnɒlɪdʒ/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "recognize; admit",
-                    "home": "besatti karna",
+                    "home": " धन्यवाद देना;प्राप्ति-सूचना देना",
                     "synonym": "admit,notice"
                 }
         },
         {
                 "id": "c204",
                 "name": "Acme",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The team reached its acme when it won the national championship.",
+                "pronounciation": "/ˈakmi/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "peak; pinnacle; highest point",
-                    "home": "besatti karna",
-                    "synonym": "apex peak vertex"
+                    "home": "शिखर;चरम बिन्दु",
+                    "synonym": "apex,peak, vertex"
                 }
         },
         {
                 "id": "c204",
                 "name": "Acquiesce",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The administration decided to acquiesce and let the students have a dance.",
+                "pronounciation": "/ˌakwɪˈɛs/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "assent; agree passively; comply without protest",
-                    "home": "besatti karna",
-                    "synonym": "accede assent"
+                    "home": " सहमति देना;संतुष्ट होना;",
+                    "synonym": "accede,permit, assent"
                 }
         },
         {
                 "id": "c204",
                 "name": "Acrimonious",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "We could avoid this acrimonious situation altogether by agreeing to disagree on the issue.",
+                "pronounciation": "/ˌakrɪˈməʊnɪəs/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "stinging; caustic; bitter in words or manner",
-                    "home": "besatti karna",
-                    "synonym": "bitter"
+                    "home": "कटु;उग्र",
+                    "synonym": "bitter,sarcastic"
                 }
         },
         {
                 "id": "c204",
                 "name": "Acute",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Jim will not live much longer because he has an acute case of brain cancer. ",
+                "pronounciation": "/əˈkjuːt/",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "sharp; quickly perceptive;brief and severe; ",
-                    "home": "besatti karna",
-                    "synonym": "acute accent ague intense"
+                    "meaning": "sharp; quickly perceptive;brief and severe;extremely pressing;  ",
+                    "home": "तेज़;विकट",
+                    "synonym": "critical, accent,ague, intense"
                 }
         },
         {
                 "id": "c204",
                 "name": "Adamant",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "He is adamant that he is not going to resign.",
+                "pronounciation": "/ˈadəm(ə)nt/",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "refusing to be persuaded or to change one's mind.",
+                    "home": "अटल;",
+                    "synonym": "unshakeable,determined"
                 }
         },
         {
                 "id": "c204",
                 "name": "Adherent",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "More people these days are choosing not to be adherent to a particular religious denomination.",
+                "pronounciation": "/ədˈhɪər(ə)nt/",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "conform to or follow rules exactly;stick to firmly",
+                    "home": "निर्भर; समर्थक",
+                    "synonym": "	follower, supporter,cohesive"
                 }
         },
         {
                 "id": "c202",
                 "name": "Adjunct",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "My math teacher was adjunct faculty and did not work for the school full time.",
+                "pronounciation": "/ˈadʒʌŋ(k)t/",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "meaning": "of or relating to a person who is subordinate to another",
+                    "home": "सहायक;अनुबंध",
+                    "synonym": "supplement, addition, accompaniment
 "
                 }
         },
         {
                 "id": "c204",
                 "name": "Admonish",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I hope my boss does not admonish me for being late. ",
+                "pronounciation": "/ədˈmɒnɪʃ/",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "to scold; to warn strongly",
+                    "home": "  चेताना; डाँटना",
+                    "synonym": "reproach, lecture, criticize"
                 }
         },
         {
                 "id": "c204",
                 "name": "Adroit",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The child was an adroit pianist at an early age.",
+                "pronounciation": "/əˈdrɔɪt/",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "clever or skilful",
+                    "home": "चतुर,धूर्त",
+                    "synonym": "dexterous, deft, agile"
                 }
         },
         {
                 "id": "c202",
                 "name": "Adulterate",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The restaurant was fined for trying to adulterate the beef with cheap meats.",
+                "pronounciation": "/əˈdʌltəreɪt/",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "meaning": "mixed with impurities",
+                    "home": "मिलावटी;खोट मिलाना",
+                    "synonym": "degrade, debase, spoil
 "
                 }
         },
         {
                 "id": "c204",
                 "name": "Advent",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "With the advent of the internet, working from home has become a real phenomenon. ",
+                "pronounciation": "/ˈadv(ə)nt,ˈadvɛnt/",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "the arrival of a notable person or thing",
+                    "home": "अवतार;आगमन",
+                    "synonym": "arrival, appearance, emergence"
                 }
         },
         {
                 "id": "c204",
                 "name": "Adversary",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": " you don’t believe in yourself, then you are your worst adversary.",
+                "pronounciation": "/ˈadvəs(ə)ri/",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "someone who offers opposition",
+                    "home": "अरि;प्रतिवादी ",
+                    "synonym": "opponent, antagonist, combatant"
                 }
         },
         {
                 "id": "c204",
                 "name": "Adverse",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Jim’s adverse reaction to the drug was so intense that we rushed him to the hospital.",
+                "pronounciation": "/ˈadvəːs/",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "negative, harmful, or unpleasant",
+                    "home": "अभागा;दरिद्र",
+                    "synonym": "unfavourable, disadvantageous, inauspicious"
                 }
         },
         {
                 "id": "c204",
                 "name": "Advocate",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Any good doctor will advocate healthy eating for his patients. ",
+                "pronounciation": "/ˈadvəkət/",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "to publicly support a particular policy or way of doing things",
+                    "home": "पक्षसमर्थक; मध्यस्थ",
+                    "synonym": "champion,exponent, protector"
                 }
         },
         {
                 "id": "c204",
                 "name": "Aegis",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
+                "sentence": "The knight was under the aegis of the king so he was not punished for his crimes against the villagers.",
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "under the influence or protection of a specific individual, body, or government",
+                    "home": "बचाव;रक्षा",
+                    "synonym": "sponsorship, backing, protection"
                 }
         },
         {
                 "id": "c202",
                 "name": "Aesthetic",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Would you mind giving me your aesthetic opinion of my new handbag? ",
+                "pronounciation": "/iːsˈθɛtɪk,ɛsˈθɛtɪk/",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "meaning": "concerning or characterized by an appreciation of beauty or good taste",
+                    "home": "सौंदर्य सिद्धांत",
+                    "synonym": "decorative,lovely
 "
                 }
         },
