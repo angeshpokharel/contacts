@@ -14108,49 +14108,49 @@
         {
                 "id": "c9999",
                 "name": "Wane",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "John asked his wife for a divorce when his feelings for her started to wane.",
+                "pronounciation": "/weɪn/",
                 "alphabet" : "W",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a gradual decline (in size or strength or power or number)",
+                    "home": "कमी;ढलना;पतन",
+                    "synonym": "disappear, decrease, diminish"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Warranted",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "In the case of the serial killer, the death penalty is warranted as a punishment.",
+                "pronounciation": "/ˈwɒr(ə)ntəd/",
                 "alphabet" : "W",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to make a particular activity necessary; justify or necessitate (a course of action)",
+                    "home": "अनुबद्ध,जमानत;प्रमाणित",
+                    "synonym": "justify, vindicate,guaranteed,allowable,assured"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Wary",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Fluffy gave her owners a wary look when they walked in the door with a new puppy.",
+                "pronounciation": "/ˈwɛːri/",
                 "alphabet" : "W",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "feeling or showing caution; guarded; careful",
+                    "home": "होशियार;सजग;ख़बरदार",
+                    "synonym": "careful, circumspect, alert"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Welter",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The classroom was in a welter when the teacher did not show up for class.",
+                "pronounciation": "/ˈwɛltə/",
                 "alphabet" : "W",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "move in a turbulent fashion; a large number of items in no order; a confused mass",
+                    "home": "झमेलाा;छटपटाना;घालमेल",
+                    "synonym": "confusion, jumble, tangle, clutter"
                 }
         },
         {
