@@ -1,80 +1,80 @@
 {
-    "contacts": [
+   "contacts": [
         {
                 "id": "c200",
                 "name": "Abase",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xy-xy-xxxx,x - street, x - country",
+                "sentence": "My jealous sister tried to abase me by making fun of my reading glasses.",
+                "pronounciation": "/əˈbeɪs/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "home": "तिरस्कृत;नीचा दिखान",
+                    "synonym": "humble, humiliate,disgrace
 "
                 }
         },
          {
                 "id": "c201",
                 "name": "Abash",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The officer tried to abash the inmates, humiliating them and treating them like dogs.",
+                "pronounciation": "/əˈbaʃ/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "cause to be embarrassed; cause to feel self-conscious",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "home": "शर्मिंदा करना;शरमाना;",
+                    "synonym": "embarrass,distressed,remorseful
 "
                 }
         },
          {
                 "id": "c202",
                 "name": "Abate",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I hope this medicine will abate the pain in my leg.",
+                "pronounciation": "/əˈbeɪt",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "meaning": "To reduce in amount;Put an end to; subside or moderate",
+                    "home": "कम;काटना",
+                    "synonym": "decrease, slake,fade
 "
                 }
         },
         {
                 "id": "c202",
                 "name": "Abdicate",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The young prince became king after his older brother decided to abdicate the throne. ",
+                "pronounciation": "/ˈabdɪkeɪt/",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "meaning": "renounce; give up (position, right, or responsibility)",
+                    "home": "त्यागना;तजना",
+                    "synonym": "resign,renounce,refuse
 "
                 }
         },
         {
                 "id": "c202",
                 "name": "Aberrant",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "If my aunt does not take her medication, she will have aberrant mood swings.",
+                "pronounciation": "/əˈbɛr(ə)nt/",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "meaning": "abnormal or deviant",
+                    "home": "विपथगामी;भटका हुआ",
+                    "synonym": "deviant, deviate,anomalous
 "
                 }
         },
         {
                 "id": "c202",
                 "name": "Abet",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The photo editing software is sure to abet my odds of winning the photo competition.",
+                "pronounciation": "/əˈbɛt/",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "meaning": "assist usually in doing something wrong; encourage",
+                    "home": "बढ़ावा देना;उकसाना",
+                    "synonym": "assist, aid
 "
                 }
         },
@@ -86,9 +86,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "suspended action",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "synonym": "suspension
 "
                 }
         },
@@ -100,9 +100,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "detest; hate",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "synonym": "abominate execrate loathe
 "
                 }
         },
@@ -113,9 +113,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "dwell; put up with; tolerate;",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "synonym": "bide stay
 "
                 }
         },
@@ -126,9 +126,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "as low as possible; lacking pride; very humble; ",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "synonym": "low low-down miserable scummy scurvy
 "
                 }
         },
@@ -139,9 +139,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "renounce upon oath",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "synonym": "forswear recant resile retract
 "
                 }
         },
@@ -152,9 +152,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "unsuccessful; fruitless",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "synonym": "stillborn unsuccessful
 "
                 }
         },
@@ -165,9 +165,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "be abundant or plentiful; exist in large quantities",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "synonym": "bristle , burst
 "
                 }
         },
@@ -178,9 +178,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "abolish",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "synonym": "cancel,void,revoke
 "
                 }
         },
@@ -191,9 +191,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "cutting off; separation",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "synonym": "cutting off
 "
                 }
         },
@@ -204,9 +204,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "depart secretly and hide",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "synonym": "make off, run off,absquatulate,bolt 
 "
                 }
         },
@@ -230,9 +230,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "the practice of restraining oneself from indulging in something, typically alcohol or sex",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "synonym": "abstention,sobriety
 "
                 }
         },
@@ -243,9 +243,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "obscure; profound; difficult to understand",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "synonym": "deep,recondite
 "
                 }
         },
@@ -256,9 +256,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "wildly unreasonable, illogical, or inappropriate.",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "synonym": "laughable, risible,ridiculous
 "
                 }
         },
@@ -269,9 +269,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "bottomless;limitless",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "synonym": "abyssal, unfathomable
 "
                 }
         },
@@ -282,9 +282,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "the right to enter",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "synonym": "approach
 "
                 }
         },
@@ -295,9 +295,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "adjust or bring into harmony; adapt; make enough space for",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "synonym": "adapt"
                 }
         },
         {
@@ -307,9 +307,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "partner in crime",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "synonym": "confederate"
                 }
         },
         {
@@ -319,9 +319,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "approach and speak first to a person",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "synonym": "pronounciation, come up to"
                 }
         },
         {
@@ -331,9 +331,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "growth or increase in size by gradual addition;",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "synonym": "accumulation
 "
                 }
         },
@@ -344,9 +344,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "come to one as a gain; accumulate over time;",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "synonym": " arise, follow,gather
 "
                 }
         },
@@ -357,9 +357,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "recognize; admit",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "synonym": "admit,notice"
                 }
         },
         {
@@ -369,9 +369,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "peak; pinnacle; highest point",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "synonym": "apex peak vertex"
                 }
         },
         {
@@ -381,9 +381,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "assent; agree passively; comply without protest",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "synonym": "accede assent"
                 }
         },
         {
@@ -393,9 +393,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "stinging; caustic; bitter in words or manner",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "synonym": "bitter"
                 }
         },
         {
@@ -405,9 +405,9 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "sharp; quickly perceptive;brief and severe; ",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "synonym": "acute accent ague intense"
                 }
         },
         {
