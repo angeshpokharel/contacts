@@ -4,24 +4,24 @@
                 "id": "c200",
                 "name": "Abase",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "pronounciation": "/əˈbeɪs/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "humiliate;cause to feel shame",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "synonym": "humble, humiliate, demean, lower, degrade
 "
                 }
         },
          {
                 "id": "c201",
                 "name": "Abash",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Harry looked slightly abashed.",
+                "pronounciation": "/əˈbaʃ/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "cause to be embarrassed; cause to feel self-conscious",
-                    "home": "besatti karna",
+                    "home": "शरमाना; लज्जित कर देना",
                     "synonym": "মানহানি করা
 "
                 }
