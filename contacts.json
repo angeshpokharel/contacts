@@ -14228,49 +14228,49 @@
         {
                 "id": "c9999",
                 "name": "Yen",
-                "sentence": "The old man is only babbling--don't pay attention",
+                "sentence": "It's no use yenning for the old simplicities.",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "Y",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "bangla": "কলধ্বনি করা"
+                    "meaning": "have a desire for something or someone who is not present;feel a longing or yearning",
+                    "home": "तरसना;लालायित होना",
+                    "bangla": "ache, languish, pine, yearn"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Zealot",
                 "sentence": "The old man is only babbling--don't pay attention",
-                "address": "xx-xx-xxxx,x - street, x - country",
+                "address": "/ˈzɛlət/",
                 "alphabet" : "Z",
                 "phone": {
                     "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "bangla": "কলধ্বনি করা"
+                    "home": "कट्टरपंथी;समर्थक",
+                    "bangla": "fanatic, enthusiast, extremist, radical"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Zealous",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "address": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Asoka was a Buddhist and a zealous propagator of Buddhism.",
+                "address": "/ˈzɛləs/",
                 "alphabet" : "Z",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "bangla": "কলধ্বনি করা"
+                    "meaning": "marked by active interest and enthusiasm",
+                    "home": "उत्साही",
+                    "bangla": "fervent, ardent, fervid, fiery, passionate"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Zenith",
-                "sentence": "The old man is only babbling--don't pay attention",
+                "sentence": "In 1977, punk was at its zenith.",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "Z",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "bangla": "কলধ্বনি করা"
+                    "meaning": "the time at which something is most powerful or successful; the point in the sky above the observer",
+                    "home": "शीर्षबिंदुा; सर्वोच्च शिखर"
+                    "bangla": "acme, peak, pinnacle, apex"
                 }
         }
         
