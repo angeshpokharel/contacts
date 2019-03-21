@@ -1,15 +1,15 @@
 {
-    "contacts": [
+   "contacts": [
         {
                 "id": "c200",
                 "name": "Abase",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "humiliate;cause to feel shame",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "bangla": "মানহানি করা
 "
                 }
         },
@@ -17,12 +17,12 @@
                 "id": "c201",
                 "name": "Abash",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "cause to be embarrassed; cause to feel self-conscious",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "bangla": "embarrass
 "
                 }
         },
@@ -30,12 +30,12 @@
                 "id": "c202",
                 "name": "Abate",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "To reduce in amount;Put an end to; subside or moderate",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "bangla": "slack slake
 "
                 }
         },
@@ -43,12 +43,12 @@
                 "id": "c202",
                 "name": "Abdicate",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "renounce; give up (position, right, or responsibility)",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "bangla": "renounce
 "
                 }
         },
@@ -56,12 +56,12 @@
                 "id": "c202",
                 "name": "Aberrant",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "abnormal or deviant",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "bangla": "deviant deviate
 "
                 }
         },
@@ -69,12 +69,12 @@
                 "id": "c202",
                 "name": "Abet",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "assist usually in doing something wrong; encourage",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "bangla": "assist, aid
 "
                 }
         },
@@ -83,12 +83,12 @@
                 "id": "c202",
                 "name": "Abeyance",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "suspended action",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "bangla": "suspension
 "
                 }
         },
@@ -97,12 +97,12 @@
                 "id": "c203",
                 "name": "Abhor",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "detest; hate",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "bangla": "abominate execrate loathe
 "
                 }
         },
@@ -110,12 +110,12 @@
                 "id": "c202",
                 "name": "Abide",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "dwell; put up with; tolerate;",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "bangla": "bide stay
 "
                 }
         },
@@ -123,12 +123,12 @@
                 "id": "c202",
                 "name": "Abject",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "as low as possible; lacking pride; very humble; ",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "bangla": "low low-down miserable scummy scurvy
 "
                 }
         },
@@ -136,12 +136,12 @@
                 "id": "c204",
                 "name": "Abjure",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "renounce upon oath",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "bangla": "forswear recant resile retract
 "
                 }
         },
@@ -149,12 +149,12 @@
                 "id": "c205",
                 "name": "Abortive",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "unsuccessful; fruitless",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "bangla": "stillborn unsuccessful
 "
                 }
         },
@@ -162,12 +162,12 @@
                 "id": "c206",
                 "name": "Abound",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "be abundant or plentiful; exist in large quantities",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "bangla": "bristle , burst
 "
                 }
         },
@@ -175,12 +175,12 @@
                 "id": "c207",
                 "name": "Abrogate",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "abolish",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "bangla": "cancel,void,revoke
 "
                 }
         },
@@ -188,12 +188,12 @@
                 "id": "c202",
                 "name": "Abscission",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "cutting off; separation",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "bangla": "cutting off
 "
                 }
         },
@@ -201,12 +201,12 @@
                 "id": "c202",
                 "name": "Abscond",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "depart secretly and hide",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "bangla": "make off, run off,absquatulate,bolt 
 "
                 }
         },
@@ -214,12 +214,12 @@
                 "id": "c208",
                 "name": "Abstemious",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "humiliate;cause to feel shame",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "bangla": "মানহানি করা
 "
                 }
         },
@@ -227,12 +227,12 @@
                 "id": "c202",
                 "name": "Abstinence",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "the practice of restraining oneself from indulging in something, typically alcohol or sex",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "bangla": "abstention,sobriety
 "
                 }
         },
@@ -240,12 +240,12 @@
                 "id": "c202",
                 "name": "Abstruse",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "obscure; profound; difficult to understand",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "bangla": "deep,recondite
 "
                 }
         },
@@ -253,12 +253,12 @@
                 "id": "c209",
                 "name": "Absurd",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "wildly unreasonable, illogical, or inappropriate.",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "bangla": "laughable, risible,ridiculous
 "
                 }
         },
@@ -266,12 +266,12 @@
                 "id": "c202",
                 "name": "Abysmal",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "bottomless;limitless",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "bangla": "abyssal, unfathomable
 "
                 }
         },
@@ -279,12 +279,12 @@
                 "id": "c210",
                 "name": "Access",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "the right to enter",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা
+                    "bangla": "approach
 "
                 }
         },
@@ -292,48 +292,48 @@
                 "id": "c211",
                 "name": "Accommodate",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "adjust or bring into harmony; adapt; make enough space for",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "bangla": "adapt"
                 }
         },
         {
                 "id": "c212",
                 "name": "Accomplice",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "partner in crime",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "bangla": "confederate"
                 }
         },
         {
                 "id": "c213",
                 "name": "Accost",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "approach and speak first to a person",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "bangla": "address, come up to"
                 }
         },
         {
                 "id": "c202",
                 "name": "Accretion",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "growth or increase in size by gradual addition;",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "bangla": "accumulation
 "
                 }
         },
@@ -341,12 +341,12 @@
                 "id": "c202",
                 "name": "Accrue",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "come to one as a gain; accumulate over time;",
                     "home": "abate in hindi",
-                    "synonym": "মানহানি করা
+                    "bangla": " arise, follow,gather
 "
                 }
         },
@@ -354,60 +354,60 @@
                 "id": "c204",
                 "name": "Acknowledge",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "recognize; admit",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "bangla": "admit,notice"
                 }
         },
         {
                 "id": "c204",
                 "name": "Acme",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "peak; pinnacle; highest point",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "bangla": "apex peak vertex"
                 }
         },
         {
                 "id": "c204",
                 "name": "Acquiesce",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "assent; agree passively; comply without protest",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "bangla": "accede assent"
                 }
         },
         {
                 "id": "c204",
                 "name": "Acrimonious",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "stinging; caustic; bitter in words or manner",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "bangla": "bitter"
                 }
         },
         {
                 "id": "c204",
                 "name": "Acute",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "address": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
+                    "meaning": "sharp; quickly perceptive;brief and severe; ",
                     "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "bangla": "acute accent ague intense"
                 }
         },
         {
