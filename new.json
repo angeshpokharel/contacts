@@ -82,13 +82,13 @@
         {
                 "id": "c202",
                 "name": "Abeyance",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The vote is to be held in abeyance until all committee members are present.",
+                "pronounciation": "/əˈbeɪəns/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "suspended action",
-                    "home": "abate in hindi",
-                    "synonym": "suspension
+                    "home": "रुकाव;दुविधा",
+                    "synonym": "suspension,remission, reserve
 "
                 }
         },
@@ -96,90 +96,90 @@
          {
                 "id": "c203",
                 "name": "Abhor",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "If you abhor mathematics so much, why not switch majors?",
+                "pronounciation": "/əbˈhɔː/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "detest; hate",
-                    "home": "besatti karna",
-                    "synonym": "abominate execrate loathe
+                    "home": "घृणा करना;झिझकना",
+                    "synonym": "abominate,execrate, hate,loathe
 "
                 }
         },
         {
                 "id": "c202",
                 "name": "Abide",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Although my daughter hates the school dress code, she knows she must abide by it.",
+                "pronounciation": "/əˈbʌɪd/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "dwell; put up with; tolerate;",
-                    "home": "abate in hindi",
-                    "synonym": "bide stay
+                    "home": "प्रतीक्षा करना;बरदाश्त करना",
+                    "synonym": "bide, stay,accept
 "
                 }
         },
         {
                 "id": "c202",
                 "name": "Abject",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The football player was abject after being cut from the team.",
+                "pronounciation": "/ˈabdʒɛkt/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "as low as possible; lacking pride; very humble; ",
-                    "home": "abate in hindi",
-                    "synonym": "low low-down miserable scummy scurvy
+                    "home": "कमीना;दयनीय",
+                    "synonym": "miserable, scummy,creeping,scurvy
 "
                 }
         },
          {
                 "id": "c204",
                 "name": "Abjure",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "In order to marry the peasant he loved, the prince made the decision to abjure his title.",
+                "pronounciation": "/əbˈdʒʊə,əbˈdʒɔː/",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "renounce upon oath",
-                    "home": "besatti karna",
-                    "synonym": "forswear recant resile retract
+                    "meaning": "to give up a belief or an activity;renounce upon oath",
+                    "home": "त्यागना;शपथपूर्वक त्यागना",
+                    "synonym": "renounce, resile,abandon
 "
                 }
         },
         {
                 "id": "c205",
                 "name": "Abortive",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The surgery was abortive and did not repair the damage to the man’s heart.",
+                "pronounciation": "/əˈbɔːtɪv/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "unsuccessful; fruitless",
-                    "home": "besatti karna",
-                    "synonym": "stillborn unsuccessful
+                    "home": "अकालिक;अधूरा",
+                    "synonym": "vain,stillborn, unsuccessful
 "
                 }
         },
         {
                 "id": "c206",
                 "name": "Abound",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "At the beginning of the school year, computer deals abound on the Internet.",
+                "pronounciation": "/əˈbaʊnd/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "be abundant or plentiful; exist in large quantities",
-                    "home": "besatti karna",
-                    "synonym": "bristle , burst
+                    "home": "भरपूर;विपुल",
+                    "synonym": "flourish,bristle , burst
 "
                 }
         },
         {
                 "id": "c207",
                 "name": "Abrogate",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "If you talk out loud in class, I will abrogate your right to choose where to sit.",
+                "pronounciation": "/ˈabrəɡeɪt/",
                 "alphabet" : "A",
                 "phone": {
-                    "meaning": "abolish",
-                    "home": "besatti karna",
+                    "meaning": "abolish;revoke formally",
+                    "home": "रद्द करना;तोड़ देना",
                     "synonym": "cancel,void,revoke
 "
                 }
@@ -187,12 +187,12 @@
         {
                 "id": "c202",
                 "name": "Abscission",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "In zoology, abscission is the shedding of a body part, such as the claw or husk.",
+                "pronounciation": "/əbˈsɪʃ(ə)n/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "cutting off; separation",
-                    "home": "abate in hindi",
+                    "home": "अलगाव;विगलन",
                     "synonym": "cutting off
 "
                 }
