@@ -14168,61 +14168,61 @@
         {
                 "id": "c9999",
                 "name": "Whet",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "As I went to the kitchen, I realized the smell of food was enough to whet my appetite.",
+                "pronounciation": "/wɛt/",
                 "alphabet" : "W",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to trigger or make desire;sharpen the blade of (a tool or weapon)",
+                    "home": "तेज करना;उत्तेजित करना;धार करना",
+                    "synonym": "sharpen, hone, grind, excite, inspire"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Whimsical",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The whimsical music made me feel like a little kid again.",
+                "pronounciation": "/ˈwɪmzɪk(ə)l/",
                 "alphabet" : "W",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "in an amusing or playful manner;acting or behaving in a capricious manner",
+                    "home": "तरंगी;अस्थिर;सनकी",
+                    "synonym": "fanciful, playful, mischievous,volatile, capricious, temperamental"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Wince",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "As soon as the coach saw his star football player wince, he removed him from the game.",
+                "pronounciation": "/wɪns/",
                 "alphabet" : "W",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a reflex response to sudden pain;draw back, as with fear or pain",
+                    "home": "चौंक जान;घबरा जानाा",
+                    "synonym": "flinch, blench, start, draw back"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Wistful",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I became wistful when I saw my ex-boyfriend with his new love.",
+                "pronounciation": "ˈwɪs(t)fʊl,ˈwɪs(t)f(ə)l/",
                 "alphabet" : "W",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "having or showing a feeling of vague or regretful longing; showing pensive sadness",
+                    "home": "उदास;चिन्तित",
+                    "synonym": "regretful, nostalgic, yearning, longing"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Wrest",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "She tried to wrest her arm from my hold.",
+                "pronounciation": "/rɛst/",
                 "alphabet" : "W",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "forcibly pull (something) from a person's grasp",
+                    "home": "छीन लेना;मुश्किल से प्राप्त करना",
+                    "synonym": "wrench, snatch, seize, grab"
                 }
         },
         {
@@ -14240,11 +14240,11 @@
         {
                 "id": "c9999",
                 "name": "Zealot",
-                "sentence": "The old man is only babbling--don't pay attention",
+                "sentence": "The political zealot walked over a thousand miles to get people to sign his petition.",
                 "pronounciation": "/ˈzɛlət/",
                 "alphabet" : "Z",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "meaning": "a person who has very strong opinions about something, and tries to make other people have them too",
                     "home": "कट्टरपंथी;समर्थक",
                     "synonym": "fanatic, enthusiast, extremist, radical"
                 }
