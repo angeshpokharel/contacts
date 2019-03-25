@@ -13412,37 +13412,37 @@
         {
                 "id": "c9999",
                 "name": "Transgression",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The judge will decide the penalty for my transgression.",
+                "pronounciation": "/trɑːnsˈɡrɛʃn,tranzˈɡrɛʃn/",
                 "alphabet" : "T",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "an act that goes against a law; violation of a duty, law, or moral principle",
+                    "home": "अतिक्रमण;उल्लंघन;पाप",
+                    "synonym": "offence, crime, sin, wrongdoing, misdemeanour, felony"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Transient",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The snow is transient and will melt as soon as the sun appears.",
+                "pronounciation": "/ˈtranzɪənt/",
                 "alphabet" : "T",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "lasting only for a short time; impermanent",
+                    "home": "अस्थायी; अनित्य",
+                    "synonym": "transitory, temporary, short-lived, short-term, ephemera"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Tremulous",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Her voice was weak and tremulous, but the audience clapped politely when she finished the aria.",
+                "pronounciation": "/ˈtrɛmjʊləs/",
                 "alphabet" : "T",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "shaking or quivering; nervous",
+                    "home": "काँपता हुआ",
+                    "synonym": "trembling, unsteady, quavering, timid, shy"
                 }
         },
         {
