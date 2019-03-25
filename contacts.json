@@ -13340,61 +13340,61 @@
         {
                 "id": "c9999",
                 "name": "Tolerate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "How could she tolerate such a terrible noise?",
+                "pronounciation": "/ˈtɒləreɪt/",
                 "alphabet" : "T",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to put up with or withstand; allow the existence, occurrence of",
+                    "home": "धैर्य धारण करना; सहना; भुगतना",
+                    "synonym": "allow, sanction, condone, indulge, digest"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Torpor",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "After overeating on Christmas, I fell into a satisfied torpor.",
+                "pronounciation": "/ˈtɔːpə/",
                 "alphabet" : "T",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the state of being motionless or inactive",
+                    "home": "आलस; उदासीनता; सुस्ती; सो हो जाना",
+                    "synonym": "lethargy, narcosis, sluggishness, dullness"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Tortuous",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "After being in the rain, his tortuous hair looked like a big frizz ball.",
+                "pronounciation": "/ˈtɔːtʃʊəs,ˈtɔːtjʊəs/",
                 "alphabet" : "T",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "containing coils, turns and curves; excessively lengthy and complex",
+                    "home": "जटिल;टेढ़ा-मेढ़ा;चक्करदार;घुमावदार",
+                    "synonym": "winding, verbose, curvy, sinuous,complex, confusing"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Tractable",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "If the project becomes too large, it will no longer be tractable by a single manager.",
+                "pronounciation": "/ˈtraktəb(ə)l/",
                 "alphabet" : "T",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "controlled or directed with ease",
+                    "home": "विनयशील; सुविधाजनक; आसानी से प्रभावित होने वाला",
+                    "synonym": "controllable, manageable, malleable, amenable"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Tradition",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "A folk song is inherited and perpetuated by oral tradition from one generation to another.",
+                "pronounciation": "/trəˈdɪʃ(ə)n/",
                 "alphabet" : "T",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a cultural custom, ritual, or practice",
+                    "home": "रिवाज;परंपरागत प्रथा",
+                    "synonym": "custom, practice, convention, ritual"
                 }
         },
         {
