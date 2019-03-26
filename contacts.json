@@ -12428,79 +12428,79 @@
         {
                 "id": "c9999",
                 "name": "Solicit",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The prostitute was arrested when she tried to solicit an undercover officer.",
+                "pronounciation": "/səˈlɪsɪt/",
                 "alphabet" : "S",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "ask for or try to obtain (something) from someone; accost someone",
+                    "home": "विनती करन; फँसानाा; यौन संबंधों के लिये आग्रह करना; माँगना",
+                    "synonym": "crave, seek, beg, hustle"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Somber",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The funeral hall was filled with somber faces.",
+                "pronounciation": "/ˈsɒmbə/",
                 "alphabet" : "S",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "grim or miserable;grave or gloomy in character;lacking brightness or color",
+                    "home": "निराशाजनक;अंधकारमय;मलिन ",
+                    "synonym": "solemn, earnest, serious, grave, dull, dark"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Sophistry",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "John tried to use sophistry to hide his illegal actions from the tax agency.",
+                "pronounciation": "/ˈsɒfɪstri/",
                 "alphabet" : "S",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a reason or argument that sounds correct but is actually false",
+                    "home": "सत्य का आभासा; कुतर्क ",
+                    "synonym": "fallaciousness, sophism, casuistry, quibbling, equivocation"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Soporific",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The professor’s boring speech was soporific and had everyone in the audience yawning.",
+                "pronounciation": "/ˌsɒpəˈrɪfɪk/",
                 "alphabet" : "S",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "causing or tending to cause sleep",
+                    "home": "निद्राजनक; ऊंघता हुआ",
+                    "synonym": "narcotic, sedative, calmative, tranquillizer"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Sordid",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "To get publicity, the actress created a sordid but fake tale about childhood abuse.",
+                "pronounciation": "/ˈsɔːdɪd/",
                 "alphabet" : "S",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "very bad or dirty",
+                    "home": "कमीना; लालची; अनैतिक",
+                    "synonym": "sleazy, seedy, seamy, unsavoury"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Spate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "A spate of new homes has popped up in the area due to a boom in population.",
+                "pronounciation": "/speɪt/",
                 "alphabet" : "S",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a series or large amounts of;a sudden forceful flow or rain",
+                    "home": "बड़ी संख्या में; मूसलधार बारिश; चढ़ाव; नदी का बाढ़",
+                    "synonym": "series, succession, run, cluster, wave, outpouring"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Spear",
-                "sentence": "She speared her last chip with her fork",
+                "sentence": "She speared her last chip with her fork.",
                 "pronounciation": "/spɪə/",
                 "alphabet" : "S",
                 "phone": {
