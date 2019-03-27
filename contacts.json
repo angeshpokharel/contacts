@@ -12416,13 +12416,13 @@
         {
                 "id": "c9999",
                 "name": "Solace",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "When the dancer is sad, she is able to find solace in her music.",
+                "pronounciation": "/ˈsɒlɪs/",
                 "alphabet" : "S",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "comfort in grief or disappointment;give moral or emotional strength to",
+                    "home": "सांत्वना;दुःख कम कर देना; आश्वासन",
+                    "synonym": "consolation, cheer, support, relief"
                 }
         },
         {
