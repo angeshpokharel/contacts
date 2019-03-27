@@ -1738,600 +1738,600 @@
                 "id": "c9999",
                 "name": "Babble",
                 "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "pronounciation": "/ˈbab(ə)l/",
                 "alphabet" : "B",
                 "phone": {
                     "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
                     "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "synonym": "gabble, chatter, jabber"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Badger",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "My daughter will badger me until I explain to her how to tie her shoes.",
+                "pronounciation": "/ˈbadʒə/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to bother or pester;annoy persistently",
+                    "home": "तंग करनाा; पीछा पड़ना",
+                    "synonym": "harass, bother, plague"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Baffle",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The magician makes a living with his skills to baffle the untrained and easily manipulated minds of his audience.",
+                "pronounciation": "/ˈbaf(ə)l/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to bewilder or confuse;hinder or prevent (the efforts, plans, or desires) of",
+                    "home": "चकरा देना;हैरान करना",
+                    "synonym": "puzzle, mystify, bemuse, confuse"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Balk",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I guess my friends don’t trust me very much because they all balk at my request for them to cosign a loan.",
+                "pronounciation": "/bɔːlk,bɔːk/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "hesitate or be unwilling to accept an idea or undertaking.",
+                    "home": "रोकना; टाल जाना",
+                    "synonym": "eschew, resist"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Banal",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I was bored to death because of his banal conversation.",
+                "pronounciation": "/bəˈnɑːl,bəˈnal/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "so lacking in originality as to be obvious and boring.",
+                    "home": "नीच;मामूली",
+                    "synonym": "cliched, hoary, hack"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Bane",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "All these offers for credit cards are the bane of my goal to live within my means.",
+                "pronounciation": "/beɪn/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "something causing misery or death",
+                    "home": "मृत्यु; विनाश; विपत्ति; विष;",
+                    "synonym": "plague, ruination, destruction"
                 }
         },
         {
                 "id": "c204",
                 "name": "Banter",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "We need to help shy Sarah perfect her banter with the opposite sex.",
+                "pronounciation": "/ˈbantə/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "Exchange remarks in a good-humoured teasing way",
+                    "home": "हंसी उड़ाना;छेड़ना; हंसी करना",
+                    "synonym": "joke, jest, pun, sally"
                 }
         },
         {
                 "id": "c204",
                 "name": "Bard",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "He was the national bard of justice, humanity and reform, whose voice went up as a trumpet until the victory was won.",
+                "pronounciation": "/bɑːd/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "a lyric poet",
+                    "home": "कवि; चारण; भाट",
+                    "synonym": "poet,lyricist"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Barometer",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Black Friday sales are often viewed as a barometer of retail’s upcoming holiday season.",
+                "pronounciation": "/bəˈrɒmɪtə/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "an instrument that measures atmospheric pressure;something used as an indicator",
+                    "home": "मापदंड;वायु-दाब-मापक",
+                    "synonym": "gauge, storm gauge, pressure indicator"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Bask",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The author will bask in the attention of his many devotees waiting outside the bookstore.",
+                "pronounciation": "/bɑːsk/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "be exposed to warmth and light;revel in and make the most of (something pleasing)",
+                    "home": "धूप खाना; धूप सेंकना",
+                    "synonym": "lie, lounge, relax"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Bawdy",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The church is certainly not the place for your bawdy remarks.",
+                "pronounciation": "/ˈbɔːdi/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "humorously vulgar;indecent; obscene",
+                    "home": "अश्लील; गंदा",
+                    "synonym": "rude,naughty,improper"
                 }
         },
         {
                 "id": "c204",
                 "name": "Beatify",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The church was quick to beatify Mary for her role as the mother of Jesus.",
+                "pronounciation": "/bɪˈatɪfʌɪ/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "declare (a dead person) to be blessed; the first step of achieving sainthood;make blessedly happy",
+                    "home": "सुख देना;आनंदित करना",
+                    "synonym": "canonize, bless, sanctify, hallow,"
                 }
         },
         {
                 "id": "c204",
                 "name": "Bedizen",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Due to the girl wanting attention, she decided to be bedizen herself with her brightly colored rhinestone jacket. ",
+                "pronounciation": "/bɪˈdʌɪz(ə)n,bɪˈdɪz(ə)n/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "decorate tastelessly;to be adorned in tawdry or loud clothing",
+                    "home": "तड़क-भड़क से सजाना; भड़कीले कपड़े पहनना",
+                    "synonym": "adorn,grace, gussy up"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Bedlam",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Bedlam appeared to reign in the overcrowded school cafeteria.",
+                "pronounciation": "/ˈbɛdləm/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a scene of uproar and confusion;a condition of chaos",
+                    "home": "गड़बड़; पागलखाना; हंगामा",
+                    "synonym": "confusion, unrest"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Begrudge",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "It is impossible for me to not begrudge my neighbor of the ten million dollars he won in the lottery.",
+                "pronounciation": "/bɪˈɡrʌdʒ/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "envy (someone) the possession or enjoyment of (something).",
+                    "home": "जलना; डाह करना",
+                    "synonym": "envy, grudge, resent"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Behemoth",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Because he is a very large dog, people like to call my Great Dane a behemoth.",
+                "pronounciation": "/bɪˈhiːmɒθ/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "someone or something that is abnormally large and powerful",
+                    "home": "विशालकाय;विशालकाय पशु",
+                    "synonym": "giant,unusual person"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Belated",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The president’s belated decision came too late to save the hostages.",
+                "pronounciation": "/bɪˈleɪtɪd/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "after the expected or usual time; delayed",
+                    "home": "विलम्बित;देर में आया हुआ",
+                    "synonym": "late,tardy, unpunctual"
                 }
         },
         {
                 "id": "c204",
                 "name": "Belie",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Janice hoped her smile would belie the sadness she felt. ",
+                "pronounciation": "/bɪˈlʌɪ/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "(of an appearance) fail to give a true impression of (something);be in contradiction with",
+                    "home": "झूठा साबित करना;दोषारोपण करना",
+                    "synonym": "contradict,disprove, debunk"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Belittle",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "It is against school rules for any individual to bully or belittle students and staff members.",
+                "pronounciation": "/bɪˈlɪt(ə)l/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "dismiss (someone or something) as unimportant;express a negative opinion of",
+                    "home": "महत्व घटाना; मूल्य घटाना",
+                    "synonym": " depreciate, downgrade, underrate"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Belligerant",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The mood at the meeting was belligerent",
+                "pronounciation": "/bəˈlɪdʒ(ə)r(ə)nt/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "hostile and aggressive;a nation or person engaged in war or conflict, as recognized by international law",
+                    "home": "युद्धरत",
+                    "synonym": "threatening, antagonistic,militant"
                 }
         },
         {
                 "id": "c204",
                 "name": "Beneficent",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "My beneficent neighbor gives out meals to the poor every Sunday.",
+                "pronounciation": "/bɪˈnɛfɪs(ə)nt/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "prone to doing kind and generous things",
+                    "home": "उदार;उपकारवाला",
+                    "synonym": "benevolent, charitable, altruistic"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Benevolent",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "She was a benevolent woman, volunteering all of her free time to charitable organizations.  ",
+                "pronounciation": "/bɪˈnɛv(ə)l(ə)nt/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "willing to help, do good, and be generous towards people",
+                    "home": "उदार ;कृपालु; दयालु",
+                    "synonym": "gracious,good-natured,charitable"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Bereft",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "When my husband died, I felt bereft of love and hope.",
+                "pronounciation": "/bɪˈrɛft/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "sorrowful through loss or deprivation; unhappy in love; suffering from unrequited love",
+                    "home": "दीवाना; पागल",
+                    "synonym": "robbed of, stripped of"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Besiege",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The journalists will besiege the police chief with questions about the prisoner’s escape.",
+                "pronounciation": "/bɪˈsiːdʒ/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to approach with an excessive number of requests or questions",
+                    "home": "घेर लेना; घेरा डालना",
+                    "synonym": "blockade, surround,encircle"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Besmirch",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Cathy went out of her way to besmirch her husband’s character during their divorce proceedings.",
+                "pronounciation": "/bɪˈsməːtʃ/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "charge falsely or with malicious intent; attack the good name and reputation of someone",
+                    "home": "गंदा करना; कीचड़ उछालना",
+                    "synonym": "stain, taint, smear,tarnish"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Bias",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "As a judge, Mary cannot let her personal bias lead her to make an unfair ruling.",
+                "pronounciation": "/ˈbʌɪəs/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a partiality that prevents objective consideration of an issue or situation",
+                    "home": "पक्षपात ;पूर्वग्रह",
+                    "synonym": " favouritism, unfairness,partiality"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Bigot",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "My mother is a self-proclaimed bigot who believes all teenagers are bad.",
+                "pronounciation": "/ˈbɪɡət/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a prejudiced person who is intolerant of any opinions differing from his own",
+                    "home": "पक्षपाती;कट्टर",
+                    "synonym": "partisan, sectarian"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Bifurcate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The bifurcate system limited the control for the company so that both departments helped control each other.",
+                "pronounciation": "/ˈbʌɪfəkeɪt/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "resembling a fork; divided or separated into two branches",
+                    "home": "दो शाखाओं में बांटा हुआ",
+                    "synonym": " divergence,separation"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Bizarre",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Everyone stared at the student who wore the bizarre outfit to school.",
+                "pronounciation": "/bɪˈzɑː/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "highly unusual",
+                    "home": "अजीब ;अनोखा",
+                    "synonym": "	strange, peculiar, odd"
                 }
         },
         {
                 "id": "c204",
                 "name": "Blandishment",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "As the candidate worked the crowd, he kept smiling and offering some blandishment with every handshake. ",
+                "pronounciation": "/ˈblandɪʃm(ə)nt/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "the act of urging by means of teasing or flattery",
+                    "home": "कोमलता; खुशामद;चापलूसी ",
+                    "synonym": "flattery, cajolery, coaxing"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Blase",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The frustrated mother was blasé about her toddler sobbing whenever he did not get his way.",
+                "pronounciation": "/ˈblɑːzeɪ/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "indifferent because of frequent exposure",
+                    "home": " उबा हुआ;विरक्त",
+                    "synonym": "impassive, dispassionate, emotionless"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Blatant",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "In prison, a blatant act of disobedience will get you placed in isolation.",
+                "pronounciation": "/ˈbleɪt(ə)nt/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "completely obvious, especially in an offensive manner",
+                    "home": "ऊधमी;खुला",
+                    "synonym": "obvious, undisguised, unconcealed"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Bliss",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "As a chocolate lover, I see bliss as an endless supply of chocolate bars.",
+                "pronounciation": "/blɪs/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "perfect happiness; great joy.",
+                    "home": "आनन्द;कल्याण",
+                    "synonym": "	joy, pleasure, delight"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Blunt",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I’ve lost friends due to being a very blunt person and speaking my mind.",
+                "pronounciation": "/blʌnt/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "very direct in one's words, usually in a negative manner and in a rude way;make or become less sharp",
+                    "home": "धार कम करना; कुण्ठित",
+                    "synonym": "unsharpened, dull"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Bogus",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The judge immediately dismissed the bogus lawsuit.",
+                "pronounciation": "/ˈbəʊɡəs/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "fraudulent; having a misleading appearance;not real",
+                    "home": "नकली; निकम्मा",
+                    "synonym": "deceptive, misleading, pretended"
                 }
         },
         {
                 "id": "c204",
                 "name": "Bolster",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "If I want to feel better about myself, I need to bolster my self-esteem.",
+                "pronounciation": "/ˈbəʊlstə/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "to make something stronger or bolder",
+                    "home": "थामना; सँभालना; रक्षा करना",
+                    "synonym": "strengthen, support, reinforce,"
                 }
         },
         {
                 "id": "c204",
                 "name": "Bombastic",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The cheerleading squad led the crowd in bombastic cheers.",
+                "pronounciation": "/bɒmˈbastɪk/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "high-sounding but with little meaning; inflated;giving oneself high self-esteem or exaggerated dignity",
+                    "home": "आडंबरपूर्ण; शब्दाडम्बरपूर्ण",
+                    "synonym": "	pompous, blustering, ranting"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Bona fide",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Because the man had lied about having a medical degree, he was not a bona fide doctor.  ",
+                "pronounciation": "/ˌbəʊnə ˈfʌɪdi,ˌbəʊnə ˈfiːdeɪ/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "not counterfeit or copied;real or done honestly",
+                    "home": "प्रामाणिक; यथार्थ ;वास्तविक",
+                    "synonym": "	authentic, genuine, real"
                 }
         },
         {
                 "id": "c204",
                 "name": "Boorish",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The hometown fans acted in such a boorish way toward the visiting team that they had to forfeit the game. ",
+                "pronounciation": "/ˈbɔːrɪʃ,ˈbʊərɪʃ/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "rough and bad-mannered; coarse.",
+                    "home": "अशिष्ट; असभ्य;उजड्ड; गँवार",
+                    "synonym": "gruff, rude, discourteous"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Bovine",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Jason was completely bored on his blind date and made bovine statements throughout the meal.",
+                "pronounciation": "/ˈbəʊvʌɪn/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "uninteresting and sluggish",
+                    "home": "पशुवत; मंद; मंदबुद्धि",
+                    "synonym": "taurine,cowlike"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Brash",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I did not buy a car from the brash salesman because he turned me off with his pushy attitude.",
+                "pronounciation": "/braʃ/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "self-assertive in a rude, noisy, or overbearing way;offensively bold",
+                    "home": "भड़कीला; भंगशील",
+                    "synonym": " self-confident, arrogant, thrusting"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Brawl",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "A prison brawl began in the cafeteria when two inmates got angry at each other. ",
+                "pronounciation": "/brɔːl/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a fight, usually with a large number of people involved",
+                    "home": "उपद्रव;कलह गुलगपाड़ा; झगड़ा",
+                    "synonym": "fight,altercation, wrangle, clash,"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Brazen",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "In a brazen assault, the gang fired their weapons at the policeman. ",
+                "pronounciation": "/ˈbreɪz(ə)n/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "bold and without shame.",
+                    "home": "खुल्लमखुल्ला; निर्लज;बेशर्म",
+                    "synonym": "forward,unembarrassed, unblushing"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Bristle",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The atheist started to bristle when he was asked to read from the Bible.",
+                "pronounciation": "/ˈbrɪs(ə)l/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "react in an offended or angry manner;rise up as in fear",
+                    "home": "सीधा खड़ा होना;गुस्से से भर ना",
+                    "synonym": "	abound, swarm, teem, crawl"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Broach",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The confused boy was afraid to broach the subject of his homosexuality to his parents.",
+                "pronounciation": "/brəʊtʃ/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "bring up a topic for discussion",
+                    "home": "छेदना; चर्चा चलाना",
+                    "synonym": "pierce, puncture, tap"
                 }
         },
         {
                 "id": "c204",
                 "name": "Bucolic",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "My husband and I chose a peaceful bucolic town in the country for our summer retreat.",
+                "pronounciation": "/bjuːˈkɒlɪk/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "relating to the pleasant aspects of the countryside and country life",
+                    "home": "ग्रामीण; ग्राम्य",
+                    "synonym": "rural, pastoral, country, countryside"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Bulwark",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Vaccines act as a bulwark against many childhood diseases.",
+                "pronounciation": "/ˈbʊlwək/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "an object that acts as a shield",
+                    "home": "कोट; चारदीवारी",
+                    "synonym": "wall, rampart, fortification"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Burgeon",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "As car prices go down, car dealers are expecting sales to burgeon. ",
+                "pronounciation": "/ˈbəːdʒ(ə)n/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "begin to grow or increase rapidly; flourish.",
+                    "home": "फटना ;फैलना; बढ़ना",
+                    "synonym": "proliferate, snowball, multiply,"
                 }
         },
         {
                 "id": "c204",
                 "name": "Burnish",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Presidents look to burnish their legacy during their second term in office.",
+                "pronounciation": "/ˈbəːnɪʃ/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "to polish; to make smooth or shiny",
+                    "home": "पालिश;चमकना",
+                    "synonym": "shine, brighten,glaze"
                 }
         },
         {
                 "id": "c204",
                 "name": "Buttress v.",
-                "sentence": "Don't abase your cousin by making fun of his accent.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Because someone had designed the walls without a proper buttress, the whole building collapsed within a year after it was built.",
+                "pronounciation": "/ˈbʌtrɪs/",
                 "alphabet" : "B",
                 "phone": {
-                    "meaning": "humiliate;cause to feel shame",
-                    "home": "besatti karna",
-                    "synonym": "মানহানি করা"
+                    "meaning": "make stronger or defensible; reinforce with a buttress",
+                    "home": "पुष्ट करना;मज़बूत बना",
+                    "synonym": "reinforce, fortify, support"
                 }
         },
         {
