@@ -11423,7 +11423,7 @@
                 "id": "c9999",
                 "name": "Recant",
                 "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "pronounciation": "/rɪˈkant/",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
@@ -11434,97 +11434,97 @@
         {
                 "id": "c9999",
                 "name": "Recluse",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Despite her reputation as a recluse, Samantha held regular gatherings to entertain close friends.",
+                "pronounciation": "/rɪˈkluːs/",
                 "alphabet" : "R",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a person who lives alone and avoids other people; a hermit",
+                    "home": "सन्यासी ; बैरागी; एकान्तवासी",
+                    "synonym": " hermit, solitary, solitudinarian, troglodyte, reclusive"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Recoil",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Seeing the snake made me recoil in fear.",
+                "pronounciation": "/rɪˈkɔɪl/",
                 "alphabet" : "R",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to quickly move back;rebound",
+                    "home": "प्रतिघात ; पीछे हटना",
+                    "synonym": "backlash, rebound, backfire, bounce"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Recondite",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "To me, my daughter’s foolish actions are recondite and not understandable at all.",
+                "pronounciation": "/ˈrɛk(ə)ndʌɪt,rɪˈkɒndʌɪt/",
                 "alphabet" : "R",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "not understood or known by many people",
+                    "home": "गंभीर; गहन; कठिन; छुपा हुआ",
+                    "synonym": "abstruse, deep, complex, obscure"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Redolent",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The candy shop was redolent with the rich smell of chocolate.",
+                "pronounciation": "/ˈrɛdəl(ə)nt/",
                 "alphabet" : "R",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "filled with a scent or odor",
+                    "home": "सुगंधित; सूचक; गमकीला",
+                    "synonym": "aromatic, smelling, evocative, remindful"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Redress",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The company hopes to redress the victim’s injury by paying out a million dollar settlement.",
+                "pronounciation": "/rɪˈdrɛs/",
                 "alphabet" : "R",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to make something right or the payment for a wrong",
+                    "home": "समाधान; अन्याय का प्रतिकार; सुधार; ठीक कर देना",
+                    "synonym": "rectify, correct, remediation, remedy, amends"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Refractory",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "How long do you think it will take the trainer to tame the refractory dog?",
+                "pronounciation": "/rɪˈfrakt(ə)ri/",
                 "alphabet" : "R",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "not responsive or difficult to manage; resistant to a process or stimulus",
+                    "home": "दुर्दम्य; आग रोक; हठीला",
+                    "synonym": "fractious, recalcitrant, stubborn"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Refute",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The evidence provided by the prosecutor will refute the defendant’s claim of innocence.",
+                "pronounciation": "/rɪˈfjuːt/",
                 "alphabet" : "R",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to prove wrong by argument or evidence",
+                    "home": "झूठा या असत्य ठहराना; काटना; खण्डन करना",
+                    "synonym": "controvert, rebut, disprove"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Relegate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "They aim to prevent women from being relegated to a secondary role.",
+                "pronounciation": "/ˈrɛlɪɡeɪt/",
                 "alphabet" : "R",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to put (someone or something) in a lower or less important position, rank",
+                    "home": "निष्कासन; बदलना; बाहर निकाल देना",
+                    "synonym": "lower, downgrade, kick downstairs, banish"
                 }
         },
         {
