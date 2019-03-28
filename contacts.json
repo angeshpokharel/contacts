@@ -11386,49 +11386,49 @@
         {
                 "id": "c9999",
                 "name": "Realm",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Jane’s career as a fortuneteller started with her curiosity about the psychic realm.",
+                "pronounciation": "/rɛlm/",
                 "alphabet" : "R",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": " a kingdom; domain that you are interested or have experience in ",
+                    "home": "अधिकार; राज्य; प्रभुता; विभाग",
+                    "synonym": "region, kingdom, domain,  area, field, department"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Rebuke",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Good parents praise their children more than they rebuke them.",
+                "pronounciation": "/rɪˈbjuːk/",
                 "alphabet" : "R",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to criticize sharply or a sharp criticism",
+                    "home": "धमकी; डांट कर रोकना; गाली देना ",
+                    "synonym": "reprehension, reprimand, reproof, upbraid, berate"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Recalcitrant",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Because of its two recalcitrant members, the committee got very little work done.",
+                "pronounciation": "/rɪˈkalsɪtr(ə)nt/",
                 "alphabet" : "R",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "stubborn; having an obstinately uncooperative attitude towards authority or discipline",
+                    "home": "उद्दण्ड; आज्ञा न माननेवाला; हठी",
+                    "synonym": "fractious, refractory, unmanageable, defiant, rebellious"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Recant",
-                "sentence": "The old man is only babbling--don't pay attention",
+                "sentence": "The judge ordered the magazine to recant the false statements it made about the actress.",
                 "pronounciation": "/rɪˈkant/",
                 "alphabet" : "R",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to retract a public statement",
+                    "home": "अस्वीकार करना; फेर लेना; वापस लेना",
+                    "synonym": "abjure, forswear, resile, retract"
                 }
         },
         {
