@@ -11230,73 +11230,73 @@
         {
                 "id": "c9999",
                 "name": "Quibble",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The twins will quibble for hours about what to watch on television.",
+                "pronounciation": "/ˈkwɪb(ə)l/",
                 "alphabet" : "Q",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to quarrel about minor matters",
+                    "home": "अनुचित बहाना करना; वक्रोक्ति; हीला हवाला करना; टाल मटोल",
+                    "synonym": "query, argument, exception, moan, Bicker, Brabble, Niggle"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Quiescent",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Ever since the police department hired ten new officers, crime has been rather quiescent in our town.",
+                "pronounciation": "/kwɪˈɛs(ə)nt/",
                 "alphabet" : "Q",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "not active; quiet",
+                    "home": "अचल; निश्चल; मौन; निष्क्रिय; शांत",
+                    "synonym": "inactive, inert, latent, fallow, passive, idle"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Quip",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I punched my brother when he made a quip about my hair.",
+                "pronounciation": "/kwɪp/",
                 "alphabet" : "Q",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a clever statement; make jokes or quips; witty remark",
+                    "home": "चुटकुला ; चतुराईपूर्ण उत्तर; ठठा मारना; चट् से जवाब देना",
+                    "synonym": "sally, wisecrack, epigram, gag"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Rabid",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Rabid viewers of the television show repeatedly watch their favorite episodes.",
+                "pronounciation": "/ˈrabɪd,ˈreɪbɪd/",
                 "alphabet" : "R",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "having excessive enthusiasm for something or someone",
+                    "home": "उग्रा; कट्टर; दीवाना; पागल",
+                    "synonym": "extremist,fanatic, fanatical, overzealous, wild"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Raconteur",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "A screenwriter is a raconteur who simply puts his stories on paper. ",
+                "pronounciation": "/ˌrakɒnˈtəː/",
                 "alphabet" : "R",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "one recognized as being a talented teller of stories",
+                    "home": "बयान करनेवाला; मज़ेदार कहानियाँ सुनाने वाला",
+                    "synonym": "anecdotist, narrator, relater"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Rail",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "She railed against the bad social policies.",
+                "pronounciation": "/reɪl/",
                 "alphabet" : "R",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a bar or series of bars that serves as a fence or barrier; criticize severely",
+                    "home": "छड़; पटरी; गाली देना; छड़ों से घेरना ",
+                    "synonym": "railing, rails, runway, track, fulminate, revile, vilify"
                 }
         },
         {
