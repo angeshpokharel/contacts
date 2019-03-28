@@ -8506,12 +8506,12 @@
         {
                 "id": "c9999",
                 "name": "Labyrinth",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The casino was designed as a labyrinth to keep gamblers trapped inside.",
+                "pronounciation": "/ˈlab(ə)rɪnθ/",
                 "alphabet" : "L",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
+                    "meaning": "a complicated irregular network of passages in which it is difficult to find one's way; a maze.",
+                    "home": "  भूलभुलैया",
                     "synonym": "কলধ্বনি করা"
                 }
         },
