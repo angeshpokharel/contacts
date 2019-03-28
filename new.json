@@ -916,7 +916,7 @@
                 "phone": {
                     "meaning": "similar or equivalent in some respects though otherwise dissimilar",
                     "home": "अनुरूप;समरूप",
-                    "synonym": "correspondent;similar"
+                    "synonym": "correspondent,similar"
                 }
         },
         {
@@ -2337,97 +2337,97 @@
         {
                 "id": "c9999",
                 "name": "Cache",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "When digging in the backyard, I discovered a cache of antique coins.",
+                "pronounciation": "/kaʃ/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a hidden supply of something;a hidden storage space",
+                    "home": "गुप्त भंडार; गुप्त जगह",
+                    "synonym": "store, stockpile, stock"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cacophony",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "When the actor walked into the theater, there was a cacophony of screams from the reporters.",
+                "pronounciation": "/kəˈkɒf(ə)ni/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "loud confusing disagreeable sounds; a loud harsh or strident noise",
+                    "home": "बेसुरापन;शोर",
+                    "synonym": "racket, noise, discord"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cadge",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The homeless man was constantly trying to cadge cigarettes from pedestrians.",
+                "pronounciation": "/kadʒ/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to convince a person to give you something at no charge",
+                    "home": "भीख मांगना; फेरी लगाना",
+                    "synonym": "scrounge, beg, borrow"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Cajole",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The candidate managed to cajole many voters into choosing his name on the ballot.",
+                "pronounciation": "/kəˈdʒəʊl/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "persuade someone to do something; convince with gentle pleading; sweet-talk",
+                    "home": "भुलवाना; मनाना",
+                    "synonym": "	persuade, wheedle, coax"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Callous",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The killer was a callous man who murdered without feeling guilty.",
+                "pronounciation": "/ˈkaləs/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "showing or having an insensitive and cruel disregard for others",
+                    "home": "कठिन; कठोर; निर्दय;",
+                    "synonym": "	heartless,ruthless,uncaring,cold-hearted"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Callow",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The callow basketball player missed an incredibly easy shot.",
+                "pronounciation": "/ˈkaləʊ/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "immature, lacking in life experience",
+                    "home": "अनाड़ी;अनुभवहीन",
+                    "synonym": " inexperienced, naive,untrained"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Calumny",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The editor refused to publish the calumny that could possibly destroy the politician’s career.",
+                "pronounciation": "/ˈkaləmni/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a false statement made to damage someone’s reputation",
+                    "home": "चुगली;निन्दा; बदनामी",
+                    "synonym": "slander,libel"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Canard",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The newspaper was sued for publishing a canard about a popular celebrity.",
+                "pronounciation": "/kəˈnɑːd,ˈkanɑːd/",
                 "alphabet" : "C",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a phony report or story;an unfounded rumour or story",
+                    "home": "झूठी अफवाह",
+                    "synonym": "story, tale, whisper"
                 }
         },
         {
@@ -2438,7 +2438,7 @@
                 "alphabet" : "C",
                 "phone": {
                     "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
+                    "home": " झूठी अफवाह",
                     "synonym": "কলধ্বনি করা"
                 }
         },
