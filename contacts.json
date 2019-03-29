@@ -11158,73 +11158,73 @@
         {
                 "id": "c9999",
                 "name": "Puny",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "My brother said that I was too puny to try out for the basketball team.",
+                "pronounciation": "/ˈpjuːni/",
                 "alphabet" : "P",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "tiny and weak;(esp. of persons) of inferior size",
+                    "home": "कमजोर; छोटा और दुर्बल; शक्तिहीन",
+                    "synonym": "runty, shrimpy, undersized, underdeveloped, pygmy"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Qualified",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "To be qualified to teach, the professor will need to take a licensing test and receive his certification.",
+                "pronounciation": "/ˈkwɒlɪfʌɪ/",
                 "alphabet" : "Q",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "having the specific skills or training to complete a task; limited or restricted; not absolute",
+                    "home": "काबिल; गुण-संपन्न; योग्यता प्राप्त; परिमित; सीमित",
+                    "synonym": "chartered, licensed, professional, dependent, certified  "
                 }
         },
         {
                 "id": "c9999",
                 "name": "Qualm",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I have a serious qualm about my teenage daughter dating an older man.",
+                "pronounciation": "/kwɑːm,kwɔːm/",
                 "alphabet" : "Q",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a feeling of doubt about whether you are doing the right thing; a mild state of nausea",
+                    "home": "पछतावा; आशंका; शोक; मन का तांप",
+                    "synonym": "scruple, queasiness, concern, misgiving, worry, reservation"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Quandary",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Mark is in a quandary about whether or not he should keep the money he found in the park.",
+                "pronounciation": "/ˈkwɒnd(ə)ri/",
                 "alphabet" : "Q",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a state of doubt about what to do in a certain situation; a difficult situation",
+                    "home": "हैरानी; आशंका; उलझन; नाज़ुक हालत",
+                    "synonym": "dilemma, mess, confusion, plight, predicament"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Quarry",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "At night, the moonlight caused the stones in the quarry to shine.",
+                "pronounciation": "/ˈkwɒri/",
                 "alphabet" : "Q",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "an area from which materials like stone are extracted; animal hunted or caught for food; victim",
+                    "home": "पत्थर की खान; शिकार करना; पत्थर खोदना; शिकार",
+                    "synonym": " pit, prey, fair game, target"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Quell",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The principal tapped the microphone to quell the noise in the auditorium.",
+                "pronounciation": "/kwɛl/",
                 "alphabet" : "Q",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to calm or reduce; suppress or crush completely",
+                    "home": "वश में करना; शांत करना; दबाना",
+                    "synonym": "quench, squelch, appease, stay"
                 }
         },
         {
