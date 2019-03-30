@@ -11086,13 +11086,13 @@
         {
                 "id": "c9999",
                 "name": "Proscribe",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Most states have laws that proscribe texting while driving.",
+                "pronounciation": "/prə(ʊ)ˈskrʌɪb/",
                 "alphabet" : "P",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to forbid something;",
+                    "home": "रोक देना; मनाही करना; बहिष्कार करना",
+                    "synonym": "disallow, forbid, interdict, nix, prohibit"
                 }
         },
                 {
