@@ -6982,61 +6982,61 @@
         {
                 "id": "c9999",
                 "name": "Halcyon",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I was very content during the halcyon days of my childhood.",
+                "pronounciation": "/ˈhalsɪən/",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "denoting a period of time in the past that was idyllically happy and peaceful.",
+                    "home": "खुशगवार; शांत",
+                    "synonym": "serene, calm, pleasant, balmy, tranquil, peaceful,"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Hapless",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "When Jason lost his wife and job on the same day, he knew he was a hapless soul. ",
+                "pronounciation": "/ˈhapləs/",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "(especially of a person) unfortunate.",
+                    "home": "  अभागा; नसीब",
+                    "synonym": " ill-fated, unlucky, luckless"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Harangue",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "They were subjected to a ten-minute harangue by two border guards. ",
+                "pronounciation": "/həˈraŋ/",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a lengthy and aggressive speech.",
+                    "home": "भाषण; वक्तृता",
+                    "synonym": "tirade, lecture, diatribe, homily, polemic, rant"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Harass",
                 "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "pronounciation": "/ˈharəs,həˈras/",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "subject to aggressive pressure or intimidation.",
+                    "home": "सताना; घबड़ाना",
+                    "synonym": "pester, badger, hound, harry"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Harbinger",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The surprisingly chilly day in September is a harbinger of all that winter has to offer. ",
+                "pronounciation": "/ˈhɑːbɪn(d)ʒə/",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "one that pioneers in or initiates a major change",
+                    "home": "अग्रगामी; अग्रदूत ",
+                    "synonym": "herald, sign, indicator, indication, signal"
                 }
         },
         {
@@ -7078,25 +7078,25 @@
         {
                 "id": "c9999",
                 "name": "Heresy",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Just because an idea is new does not mean it is heresy.",
+                "pronounciation": "/ˈhɛrɪsi/",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "deviation from a dominant theory, opinion, or practice",
+                    "home": "मतान्तर; विधर्म",
+                    "synonym": "dissension, dissent, dissidence, blasphemy"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Hermetic",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The billionaire bought a private island so he could raise his kids in a hermetic environment.",
+                "pronounciation": "/həːˈmɛtɪk/",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "(of a seal or closure) complete and airtight.",
+                    "home": "बंद; वायुरुद्ध ",
+                    "synonym": "airtight, tight, sealed, shut"
                 }
         },
         {
