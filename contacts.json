@@ -8424,61 +8424,61 @@
         {
                 "id": "c9999",
                 "name": "Jaunty",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Craig’s bright and jaunty tie put a smile on everyone’s face.",
+                "pronounciation": "/ˈdʒɔːnti/",
                 "alphabet" : "J",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "having or expressing a lively, cheerful, and self-confident manner",
+                    "home": "ख़ुशदिल;छैला",
+                    "synonym": "cheerful, cheery, happy, merry, jolly"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Jeopardize",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Do not jeopardize your good grade by failing to turn in your assignment",
+                "pronounciation": "/ˈdʒɛpədʌɪz/",
                 "alphabet" : "J",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to put at risk",
+                    "home": "जोखिम में डालना",
+                    "synonym": "threaten, endanger, imperil, menace, risk"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Jettison",
                 "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "pronounciation": "/ˈdʒɛtɪs(ə)n,ˈdʒɛtɪz(ə)n/",
                 "alphabet" : "J",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to eliminate something",
+                    "home": " फेंक देना",
+                    "synonym": "dump, drop, ditch, discharge, eject"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Jostle",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The competing banks jostle to get new customers.",
+                "pronounciation": "/ˈdʒɒs(ə)l/",
                 "alphabet" : "J",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to compete or struggle for something",
+                    "home": "मुठभेड़; ढकेल",
+                    "synonym": "bump, collide, knock"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Jubilant",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I am jubilant to learn that my sister is finally having a baby.",
+                "pronounciation": "/ˈdʒuːbɪl(ə)nt/",
                 "alphabet" : "J",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "filled with joy",
+                    "home": "प्रफुल्ल; मग्न",
+                    "synonym": "overjoyed, exultant, triumphant, joyful"
                 }
         },
         {
