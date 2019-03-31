@@ -9934,25 +9934,25 @@
         {
                 "id": "c9999",
                 "name": "Palliate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "After surgery, Niall received large does of medications to palliate his suffering.",
+                "pronounciation": "/ˈpalɪeɪt/",
                 "alphabet" : "P",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "to get rid of or alleviate",
+                    "home": "अल्पीकरण; न्यूनीकरण",
+                    "synonym": "alleviate, ease, relieve, soothe"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Pandemonium",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "There was pandemonium in the country during war. ",
+                "pronounciation": "/ˌpandɪˈməʊnɪəm/",
                 "alphabet" : "P",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "wild and noisy disorder or confusion; uproar.",
+                    "home": "विप्लव; कोलाहल ",
+                    "synonym": "bedlam, chaos, mayhem, uproar"
                 }
         },
         {
