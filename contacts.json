@@ -6970,13 +6970,13 @@
         {
                 "id": "c9999",
                 "name": "Habitat",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The marine habitat contains a higher level of sodium than the freshwater habitat.",
+                "pronounciation": "/ˈhabɪtat/",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the natural home or environment of an animal, plant, or other organism.",
+                    "home": "आवास; वास",
+                    "synonym": "home, domain, haunt"
                 }
         },
         {
@@ -7142,69 +7142,71 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
+                    "meaning": "to collect a large amount of something",
+                    "home": "खजाना; प्रलाप",
                     "synonym": "কলধ্বনি করা"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Hoax",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The hoax about the bomb was enough to get the prankster arrested.",
+                "pronounciation": "/həʊks/",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a humorous or malicious deception.",
+                    "home": "ठगना; कृत्रिम",
+                    "synonym": "joke, jest, prank, trick, jape"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Homogeneous",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "A homogenous society is an ideal society.",
+                "pronounciation": "/ˌhɒmə(ʊ)ˈdʒiːnɪəs,ˌhəʊmə(ʊ)ˈdʒiːnɪəs/
+",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "of the same kind; alike.",
+                    "home": "सजाति; समरूप",
+                    "synonym": "similar, comparable, equivalent, like, analogous"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Hostile",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "When the police officer pointed the gun at me, he looked quite hostile. ",
+                "pronounciation": "/ˈhɒstʌɪl/",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "showing or feeling opposition or dislike; unfriendly.",
+                    "home": " विरुद्ध; प्रतिपक्षी ", 
+  
+                    "synonym": "antagonistic, aggressive, confrontational, belligerent,"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Humility",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The king bowed to the commoner who saved his life in an ultimate display of humility. ",
+                "pronounciation": "/hjʊˈmɪlɪti/",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the quality of having a modest or low view of one's importance.",
+                    "home": "अगर्व; नम्रता",
+                    "synonym": "modesty, humbleness, unassertiveness"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Hyperbole",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "During the hurricane, it seemed as though the hyperbole, “raining cats and dogs“, was almost accurate. ",
+                "pronounciation": "/hʌɪˈpəːbəli/",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "exaggerated statements or claims not meant to be taken literally.",
+                    "home": "अतिशयोक्ति;अत्योक्ति",
+                    "synonym": "exaggeration, overstatement, magnification, amplification"
                 }
         },
         {
