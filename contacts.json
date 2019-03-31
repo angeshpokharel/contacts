@@ -7042,37 +7042,37 @@
         {
                 "id": "c9999",
                 "name": "Haven",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The reserve is a haven for endangered animals.",
+                "pronounciation": "/ˈheɪv(ə)n/",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a location that offers security",
+                    "home": " बंदरगाह; आश्रय",
+                    "synonym": "refuge, retreat, shelter, sanctuary, asylum"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Havoc",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The volcano inflicted havoc upon the tiny village.",
+                "pronounciation": "/ˈhavək/",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "widespread destruction",
+                    "home": "विध्वंस; विनाश ",
+                    "synonym": "devastation, destruction, damage, desolation,"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Heinous",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The priest told the man that only God could forgive him for his heinous actions.",
+                "pronounciation": "/ˈheɪnəs,ˈhiːnəs/",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "hatefully or shockingly evil",
+                    "home": "दारुण; अतिदुष्ट",
+                    "synonym": "odious, wicked, evil, atrocious, monstrous,"
                 }
         },
         {
