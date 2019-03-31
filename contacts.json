@@ -7103,48 +7103,48 @@
                 "id": "c9999",
                 "name": "Heterogeneous",
                 "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "pronounciation": "/ˌhɛt(ə)rə(ʊ)ˈdʒiːnɪəs/",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "diverse in character or content.",
+                    "home": "विविध; विजातीय ",
+                    "synonym": "diverse, differing, miscellaneous"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Hirsute",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The balding man received a hirsute makeover so that he could hide his identity as a spy.",
+                "pronounciation": "/ˈhəːsjuːt/",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "hairy",
+                    "home": "झबरा; बालदार",
+                    "synonym": "shaggy, bushy, fleecy, fuzzy"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Histrionic",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The widow’s histrionic screaming made the detectives suspicious. ",
+                "pronounciation": "/ˌhɪstrɪˈɒnɪk/",
                 "alphabet" : "H",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "excessively theatrical or dramatic in character or style.",
+                    "home": "नाटकीय; अभिनय-संबंधी",
+                    "synonym": "melodramatic, theatrical, affected "
                 }
         },
         {
                 "id": "c9999",
                 "name": "Hoard",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I hoard paintings, filling up all my wall space. ",
+                "pronounciation": "/hɔːd/",
                 "alphabet" : "H",
                 "phone": {
                     "meaning": "to collect a large amount of something",
-                    "home": "खजाना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "home": "खजाना; ढेर",
+                    "synonym": "cache, stockpile, stock, store"
                 }
         },
         {
