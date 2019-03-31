@@ -9922,13 +9922,13 @@
         {
                 "id": "c9999",
                 "name": "Pall",
-                "sentence": "The old man is only babbling--don't pay attention",
+                "sentence": "The prospect of a war has thrown a pall over the prosperous economy.",
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "P",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a cloth spread over a coffin, hearse, or tomb",
+                    "home": " पर्दा; लबादा ",
+                    "synonym": "covering, cloth, shroud, cloak "
                 }
         },
         {
@@ -10102,49 +10102,49 @@
         {
                 "id": "c9999",
                 "name": "Penance",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "He had done public penance for those hasty words.",
+                "pronounciation": "/ˈpɛnəns/",
                 "alphabet" : "P",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "punishment inflicted on oneself as an outward expression of repentance for wrongdoing.",
+                    "home": "  कायाक्लेशा; प्रायश्चित ",
+                    "synonym": "repairation, penalty, punishment, atonement"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Penchant",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Hackers have a penchant for breaking into secure areas.",
+                "pronounciation": "/ˈpɒ̃ʃɒ̃/",
                 "alphabet" : "P",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a strong or habitual liking for something or tendency to do something.",
+                    "home": " इच्छा; लगन",
+                    "synonym": "likely, fondness, relish, passion "
                 }
         },
         {
                 "id": "c9999",
                 "name": "Penitent",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The penitent sinner asked for forgiveness during his confessional. ",
+                "pronounciation": "/ˈpɛnɪt(ə)nt/ ",
                 "alphabet" : "P",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "feeling or showing sorrow and regret for having done wrong.",
+                    "home": "पश्चात्तापी; अनुतापी ",
+                    "synonym": "regretful, ashamed, apologetic, sorry"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Pensive",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "After losing his job, Alex became more pensive than ever.",
+                "pronounciation": "/ˈpɛnsɪv/",
                 "alphabet" : "P",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "engaged in, involving, or reflecting deep or serious thought",
+                    "home": "ध्यानपरायणा; चिंताग्रस्त",
+                    "synonym": "thoughtful, meditative, philosophical, prayerful"
                 }
         },
         {
@@ -10330,109 +10330,109 @@
         {
                 "id": "c9999",
                 "name": "Perverse",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The serial killer found perverse pleasure in every murder he committed.",
+                "pronounciation": "/pəˈvəːs/",
                 "alphabet" : "P",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "contrary to the accepted or expected standard or practice.",
+                    "home": "उद्दंडा; दुराग्रही",
+                    "synonym": "akward, contrary, difficult, unreasonable"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Pestilence",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "After watching so many people die of cancer, I know the disease is a pestilence. ",
+                "pronounciation": "/ˈpɛstɪl(ə)ns/",
                 "alphabet" : "P",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a fatal epidemic disease, especially bubonic plague",
+                    "home": " महामारी; ताऊन",
+                    "synonym": "outbreak, disease, sikness, virus"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Phenomenon",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "For Christians, Jesus’ resurrection was the ultimate phenomenon.",
+                "pronounciation": "/fəˈnɒmɪnən/",
                 "alphabet" : "P",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a fact that is observed to exist,especially one whose cause or explanation is in question.",
+                    "home": "दृग्विषय; संवृति",
+                    "synonym": "occurance, happening, event, case"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Phlegmatic",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The minister of my church is a phlegmatic man who never seems to get upset about anything.",
+                "pronounciation": "/flɛɡˈmatɪk/",
                 "alphabet" : "P",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "not easily upset, excited, or angered",
+                    "home": "निस्तेज; भावशून्य ",
+                    "synonym": "composed, controlled, apathetic, frigid"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Phobia",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Ellen’s clown phobia makes her afraid to go to the circus. ",
+                "pronounciation": "/ˈfəʊbɪə/",
                 "alphabet" : "P",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "an extreme or irrational fear of or aversion to something.",
+                    "home": "डर; भय ",
+                    "synonym": "fear, horror, terror, loathe"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Piety",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Because Lester did not live a life of piety, he cannot be buried in the church cemetery. ",
+                "pronounciation": "/ˈpʌɪəti/",
                 "alphabet" : "P",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the quality of being religious or reverent.",
+                    "home": " पुण्यशीलताा; धर्मनिष्ठा",
+                    "synonym": "devotion, godliness, holiness, sanctity"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Pinnacle",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "At the pinnacle of her career, Gail was on the cover of every entertainment magazine.",
+                "pronounciation": "/ˈpɪnək(ə)l/",
                 "alphabet" : "P",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the most successful point; the culmination.",
+                    "home": " कंगूरा; शिखर",
+                    "synonym": "apex, peak, height, top"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Pique",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Fifteen minutes into the film, I had fallen asleep because the plot had failed to pique my interest. ",
+                "pronounciation": "/piːk/",
                 "alphabet" : "P",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a feeling of irritation or resentment resulting from a slight",
+                    "home": "चिढ़; खीझ",
+                    "synonym": "irritation, annoyance, displeasure, resentment"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Pittance",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The housekeeper was unable to pay her bills with the pittance her employers paid her.",
+                "pronounciation": "/ˈpɪt(ə)ns/",
                 "alphabet" : "P",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a very small or inadequate amount of money.",
+                    "home": " चबेनाा; अल्प ",
+                    "synonym": "tiny, small, insufficient,inadequacy"
                 }
         },
         {
@@ -10444,7 +10444,7 @@
                 "phone": {
                     "meaning": "make (someone) less angry or hostile.",
                     "home": "मनाना; तसल्ली ",
-                    "synonym": "pacify, calm"
+                    "synonym": "pacify, calm, mollify, cheer"
                 }
         },
         {
@@ -10456,7 +10456,7 @@
                 "phone": {
                     "meaning": "a person who brings a case against another in a court of law.",
                     "home": " अर्थी; मुद्दी",
-                    "synonym": "complainant"
+                    "synonym": "complainant, litigant, prosecutor, suer "
                 }
         },
         {
@@ -10468,7 +10468,7 @@
                 "phone": {
                     "meaning": "a sticky deposit on teeth in which bacteria proliferate.",
                     "home": "  पटिया; बैज",
-                    "synonym": "plate, medallion"
+                    "synonym": "plate, medallion,contagion,infection"
                 }
         },
         {
@@ -10480,7 +10480,7 @@
                 "phone": {
                     "meaning": "the quality of being easily shaped or moulded.",
                     "home": " प्लास्टिकता; सुनम्यता",
-                    "synonym": "flexibility, ductility"
+                    "synonym": "flexibility, ductility, malleability, elasticity"
                 }
         },
         {
@@ -10492,7 +10492,7 @@
                 "phone": {
                     "meaning": "something that has been said so often that it is not interesting anymore",
                     "home": "  तुच्छता; लचरपन",
-                    "synonym": "commonplace, banality"
+                    "synonym": "commonplace, banality, truism, evenness"
                 }
         },
         {
@@ -10504,7 +10504,7 @@
                 "phone": {
                     "meaning": "a large or excessive amount of something.",
                     "home": "अतिबाहुल्य; विपुलता",
-                    "synonym": "excessive, abundance"
+                    "synonym": "excessive, abundance, plenty, deluge"
                 }
         },
         {
@@ -10516,7 +10516,7 @@
                 "phone": {
                     "meaning": "a dangerous, difficult, or otherwise unfortunate situation.,
                     "home": "अवस्थाा; दुर्दशा",
-                    "synonym": "trouble, difficulty"
+                    "synonym": "trouble, difficulty, circumstances, perplexity"
                 }
         },
         {
@@ -10528,7 +10528,7 @@
                 "phone": {
                     "meaning": "fall or drop straight down at high speed.",
                     "home": "पनसाल; गिरना",
-                    "synonym": "plunge, tumble"
+                    "synonym": "plunge, tumble, descend, collapse"
                 }
         },
         {
@@ -10552,7 +10552,7 @@
                 "phone": {
                     "meaning": "think about (something) carefully, especially before making a decision or reaching a conclusion.",
                     "home": "  मथना; सोचना",
-                    "synonym": "consider, review"
+                    "synonym": "consider, review, contemplate, speculate"
                 }
         },
         {
@@ -10564,7 +10564,7 @@
                 "phone": {
                     "meaning": " having minute interstices through which liquid or air may pass.",
                     "home": " छिद्रयुक्त; छेददार",
-                    "synonym": "permeable, penetrable"
+                    "synonym": "permeable, penetrable, absorptive "
                 }
         },
         {
