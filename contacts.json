@@ -8513,62 +8513,62 @@
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "a complicated irregular network of passages in which it is difficult to find one's way; a maze.",
-                    "home": "  भूलभुलैया",
-                    "synonym": "কলধ্বনি করা"
+                    "home": "  भूलभुलैया; भंवरजाल",
+                    "synonym": "maze, warren, network, complex, web"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Laceration",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "He suffered lacerations to his head and face",
+                "pronounciation": "/lasəˈreɪʃ(ə)n/",
                 "alphabet" : "L",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a deep cut or tear in skin or flesh.",
+                    "home": "घाव;  लुंज बनाना ",
+                    "synonym": "gashing, slashing, tearing, ripping"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Laconic",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "His laconic reply suggested a lack of interest in the topic.",
+                "pronounciation": "/ləˈkɒnɪk/",
                 "alphabet" : "L",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "(of a person, speech, or style of writing) using very few words",
+                    "home": "अल्प; छोटा",
+                    "synonym": "brief, concise, terse, succinct, short"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Lampoon",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The actor was lampooned by the press",
+                "pronounciation": "/lamˈpuːn/",
                 "alphabet" : "L",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "publicly criticize (someone or something) by using ridicule, irony, or sarcasm.",
+                    "home": "निन्दा; हजो",
+                    "synonym": "satirize, mock, ridicule"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Landmark",
                 "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "pronounciation": "/ˈlan(d)mɑːk/",
                 "alphabet" : "L",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
+                    "meaning": "a building or monument of historical importance.",
+                    "home": "स्थल सीमा; ",
                     "synonym": "কলধ্বনি করা"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Largesse",
-                "sentence": "The old man is only babbling--don't pay attention",
+                "sentence": "Ward Hill (742 ft.) is the sailors' landmark for Lerwick harbour.",
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "L",
                 "phone": {
@@ -8688,25 +8688,25 @@
         {
                 "id": "c9999",
                 "name": "Levee",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The weekly levee was practically abandoned.",
+                "pronounciation": "/ˈlɛvi,ˈlɛveɪ/",
                 "alphabet" : "L",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "an embankment built to prevent the overflow of a river",
+                    "home": " बांध; बंद",
+                    "synonym": "dam, bank, breakwater, earthwork"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Levity",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "As an attempt to introduce a note of levity, the words were a disastrous flop",
+                "pronounciation": "/ˈlɛvɪti/",
                 "alphabet" : "L",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the treatment of a serious matter with humour or lack of due respect.",
+                    "home": " हल्कापन; ओछापन ",
+                    "synonym": "childishness, giddiness, skittishness"
                 }
         },
         {
