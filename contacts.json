@@ -8712,37 +8712,37 @@
         {
                 "id": "c9999",
                 "name": "Libel",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "He was found guilty of a libel on a Liverpool inspector of taxes.",
+                "pronounciation": "/ˈlʌɪb(ə)l/",
                 "alphabet" : "L",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a published false statement that is damaging to a person's reputation; a written defamation.",
+                    "home": " दोष लगाना; अपमान",
+                    "synonym": "defamation, misrepresentation, calumny"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Lithe",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "She lay gazing up at his tall, lithe figure.",
+                "pronounciation": "/lʌɪð/",
                 "alphabet" : "L",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "(especially of a person's body) thin, supple, and graceful",
+                    "home": "लचीला; नर्म",
+                    "synonym": "agile, graceful, supple, limber"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Livid",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "He was livid that Garry had escaped",
+                "pronounciation": "/ˈlɪvɪd/",
                 "alphabet" : "L",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "furiously angry.",
+                    "home": " बहुत अधिक नाराज़",
+                    "synonym": "furious, angry, infuriated, irate, fuming"
                 }
         },
         {
