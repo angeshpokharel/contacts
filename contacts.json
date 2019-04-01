@@ -9408,109 +9408,109 @@
         {
                 "id": "c9999",
                 "name": "Nefarious",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I live in the cities to observe the nefarious human activities.",
+                "pronounciation": "/nɪˈfɛːrɪəs/",
                 "alphabet" : "N",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "(typically of an action or activity) wicked or criminal",
+                    "home": "महापातकी; अति दुष्ट",
+                    "synonym": "wicked, evil, sinful, iniquitous,"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Negate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "In the name of democracy, it has been sought to negate the very functioning of democracy.",
+                "pronounciation": "/nɪˈɡeɪt/",
                 "alphabet" : "N",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "make ineffective; nullify.",
+                    "home": "नौसिखिया;नवदीक्षित",
+                    "synonym": "neutralize,	invalidate, nullify"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Neophyte",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The neophyte began to stammer out a reply , but fell silent.",
+                "pronounciation": "/ˈniːə(ʊ)fʌɪt/",
                 "alphabet" : "N",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a person who is new to a subject or activity.",
+                    "home": "नवदीक्षित; नौसिखिया",
+                    "synonym": "beginner, learner, novice, newcomer"
                 }
         },
         {
                 "id": "c9999",
-                "name": "Neptoism",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "name": "Nepotism",
+                "sentence": "His years in office were marked by corruption and nepotism.",
+                "pronounciation": "/ˈnɛpətɪz(ə)m/",
                 "alphabet" : "N",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the practice among those with power or influence of favouring relatives or friends, especially by giving them jobs.",
+                    "home": "कुलपक्षपात; संबंधियों का पक्षपात",
+                    "synonym": "bias, partiality, partisanship, patronage"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Nettle",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The plant chemicals of stinging nettle cause stinging sensation",
+                "pronounciation": "/ˈnɛt(ə)l/",
                 "alphabet" : "N",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a herbaceous plant which has jagged leaves covered with stinging hairs.",
+                    "home": "बिच्छू; डंक मारना",
+                    "synonym": "sting,chafe,fret"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Neurotic",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "A neurotic patient is someone whose psychological functions are not normally functioning.",
+                "pronounciation": "/njʊəˈrɒtɪk/",
                 "alphabet" : "N",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "having, caused by, or relating to neurosis.",
+                    "home": "  नसों के रोग की औषधी",
+                    "synonym": " unstable, unbalanced, maladjusted, psychoneurotic"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Neutralize",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Impatience at his frailty began to neutralize her fear.",
+                "pronounciation": "/ˈnjuːtrəlʌɪz/",
                 "alphabet" : "N",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "make (something) ineffective by applying an opposite force or effect",
+                    "home": " निष्प्रभाव करना; बेअसर करना",
+                    "synonym": "counteract, offset, counterbalance"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Nirvana",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Arishtanemi attained nirvana on Mount Girnar, northeast of Dwarka.",
+                "pronounciation": "/nɪəˈvɑːnə/",
                 "alphabet" : "N",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "an ideal or idyllic state or place",
+                    "home": "निर्वाण; मोक्ष",
+                    "synonym": "paradise, heaven, Eden"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Noisome",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The kitchen was noisome.",
+                "pronounciation": "/ˈnɔɪs(ə)m/",
                 "alphabet" : "N",
                 "phone": {
                     "meaning": "having an extremely offensive smell.",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "home": "बहुत गंदा, दुर्गंध",
+                    "synonym": "unpleasant, disagreeable, nasty"
                 }
         },
         {
