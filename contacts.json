@@ -7272,13 +7272,13 @@
         {
                 "id": "c9999",
                 "name": "Imbroglio",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Again there is the Kashmir imbroglio which they have got to cope with.",
+                "pronounciation": "/ɪmˈbrəʊlɪəʊ/",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "an extremely confused, complicated, or embarrassing situation",
+                    "home": "अव्यवस्था; उलझन ",
+                    "synonym": "complication, complexity, problem, difficulty"
                 }
         },
         {
@@ -8412,13 +8412,13 @@
         {
                 "id": "c9999",
                 "name": "Itinerary",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "His itinerary included an official visit to Canada.",
+                "pronounciation": "/ʌɪˈtɪn(ə)(rə)ri,ɪˈtɪn(ə)(rə)ri/",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a planned route or journey.",
+                    "home": "यात्राक्रम; मार्ग",
+                    "synonym": " route, journey, way, road"
                 }
         },
         {
