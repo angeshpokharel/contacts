@@ -8940,85 +8940,85 @@
         {
                 "id": "c9999",
                 "name": "Malignant",
-                "sentence": "The old man is only babbling--don't pay attention",
+                "sentence": "A malignant tumour can invade and destroy nearby tissues.",
                 "pronounciation": "",
                 "alphabet" : "M",
                 "phone": {
-                    "meaning": "having or showing a wish to do evil to others.",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "evil in nature or effect; malevolent.",
+                    "home": "कपटी; घातक",
+                    "synonym": "spiteful, hostile, malevolent, malicious"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Malingerer",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": " I'm sure she thinks I'm a malingerer.",
+                "pronounciation": "/məˈlɪŋɡ(ə)rə/",
                 "alphabet" : "M",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "meaning": "a person who malingers; a shirker.",
                     "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "synonym": "shirker, slacker, idler, layabout"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Malleable",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "A malleable metal can be beaten into a sheet.",
+                "pronounciation": "/ˈmalɪəb(ə)l/",
                 "alphabet" : "M",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "able to be hammered or pressed into shape without breaking or cracking.",
+                    "home": "नरम; कूट्य",
+                    "synonym": "pliable, ductile, plastic, pliant"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Malnutrition",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Nearly 67% of the country's population suffers from malnutrition.",
+                "pronounciation": "/malnjʊˈtrɪʃ(ə)n/",
                 "alphabet" : "M",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "lack of proper nutrition",
+                    "home": " कुपोषण; अपर्याप्त पोषण",
+                    "synonym": "undernourishment, malnourishment, undernutrition"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Mammoth",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "It is now evident that the sea acts like a mammoth storage reservoir of energy.  ",
+                "pronounciation": "ˈmaməθ/",
                 "alphabet" : "M",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "so exceedingly large or extensive as to suggest a giant ",
+                    "home": "महान; विशाल",
+                    "synonym": "huge, enormous, gigantic, giant,"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Mandate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "A process through which power or authority is exercised to follow the mandate in budget.",
+                "pronounciation": "/ˈmandeɪt/",
                 "alphabet" : "M",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "an official order or commission to do something.",
+                    "home": "आज्ञापत्र; अधिदेश ",
+                    "synonym": "instruction, directive, direction, decree"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Manifest",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "A part of manifest hypermetropia can be corrected by accomodation. ",
+                "pronounciation": "/ˈmanɪfɛst/",
                 "alphabet" : "M",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "clear or obvious to the eye or mind.",
+                    "home": "साफ; ऐलाननामा",
+                    "synonym": "obvious, clear, plain, apparent"
                 }
         },
         {
@@ -9078,7 +9078,7 @@
                 "phone": {
                     "meaning": "self-pityingly or tearfully sentimental.",
                     "home": "अतिभावुक; उन्मत्त;मत्तप्राय",
-                    "synonym": "	emotional, tearful, sentimental"
+                    "synonym": "emotional, tearful, sentimental"
                 }
         },
         {
