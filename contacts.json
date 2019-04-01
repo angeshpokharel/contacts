@@ -8556,25 +8556,25 @@
         {
                 "id": "c9999",
                 "name": "Landmark",
-                "sentence": "The old man is only babbling--don't pay attention",
+                "sentence": "Ward Hill (742 ft.) is the sailors' landmark for Lerwick harbour.",
                 "pronounciation": "/ˈlan(d)mɑːk/",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "a building or monument of historical importance.",
-                    "home": "स्थल सीमा; ",
-                    "synonym": "কলধ্বনি করা"
+                    "home": "स्थल सीमा; ऐतिहासिक स्थल ",
+                    "synonym": "sight, spectacle, monument"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Largesse",
-                "sentence": "Ward Hill (742 ft.) is the sailors' landmark for Lerwick harbour.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "He relied on the largesse of friends after he lost his job.",
+                "pronounciation": "/lɑːˈ(d)ʒɛs/",
                 "alphabet" : "L",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "generosity in bestowing money or gifts upon others.",
+                    "home": "उदारता; दानशीलता ",
+                    "synonym": "generosity, liberality, munificence, bounty"
                 }
         },
         {
@@ -8640,49 +8640,49 @@
         {
                 "id": "c9999",
                 "name": "Legerdemain",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "At the hands of these practitioners of the art, poetry became degraded into linguistic legerdemain.  ",
+                "pronounciation": "/ˌlɛdʒədɪˈmeɪn/",
                 "alphabet" : "L",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "skilful use of one's hands when performing conjuring tricks",
+                    "home": "इन्द्रजाल; जादूगरी ",
+                    "synonym": "juggling, conjuring, magic, prestidigitation, wizardry"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Legion",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Leaving the sleeping legion of Citizens, Rama takes this opportunity of going farther into the jungle. ",
+                "pronounciation": "/ˈliːdʒ(ə)n/",
                 "alphabet" : "L",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "amounting to a large indefinite number",
+                    "home": "विशाल संख्या; असंख्य",
+                    "synonym": "brigade, regiment, battalion, company, troop"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Lethal",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The Watcher took a step back at his lethal tone.",
+                "pronounciation": "/ˈliːθ(ə)l/",
                 "alphabet" : "L",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "very harmful or destructive.",
+                    "home": " नाशकारी; प्राणघाती",
+                    "synonym": "fatal, deadly, mortal"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Lethargic",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Lana awoke lethargic and in pain.",
+                "pronounciation": "/lɪˈθɑːdʒɪk/",
                 "alphabet" : "L",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "affected by lethargy; sluggish and apathetic.",
+                    "home": "अकर्मण्य; आलसी",
+                    "synonym": "sluggish, inert, inactive, slow"
                 }
         },
         {
