@@ -8880,13 +8880,13 @@
         {
                 "id": "c9999",
                 "name": "Machismo",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The exaggerated machismo was displayed in the tango.",
+                "pronounciation": "/məˈtʃɪzməʊ,məˈkɪzməʊ/",
                 "alphabet" : "M",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "strong or aggressive masculine pride",
+                    "home": " मर्दानगी भरा व्यवहार",
+                    "synonym": "masculinity, macho, toughness, chauvinism"
                 }
         },
         {
@@ -8904,47 +8904,47 @@
         {
                 "id": "c9999",
                 "name": "Maim",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "A lot of soilders were maimed in the war.",
+                "pronounciation": "/meɪm/",
                 "alphabet" : "M",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "  ",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "wound or injure (a person or animal) so that part of the body is permanently damaged",
+                    "home": " हीनंगता; विकलांग बनाना ",
+                    "synonym": "injure, wound, hurt, disable"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Malady",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "She is suffering from an incurable malady.",
+                "pronounciation": "/ˈmalədi/",
                 "alphabet" : "M",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a disease or ailment.",
+                    "home": "बिमारी; व्याधि",
+                    "synonym": "illness, sickness, ailment, disorder"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Malevolent",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "He lost her with his malevont behaviour.",
+                "pronounciation": "/məˈlɛv(ə)l(ə)nt/",
                 "alphabet" : "M",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "having or showing a wish to do evil to others",
+                    "home": "अनिष्टार्थी; दुष्ट",
+                    "synonym": "malicious, spiteful, hostile, bitter"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Malignant",
                 "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "pronounciation": "",
                 "alphabet" : "M",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "meaning": "having or showing a wish to do evil to others.",
                     "home": "बकना; प्रलाप",
                     "synonym": "কলধ্বনি করা"
                 }
@@ -9024,13 +9024,13 @@
         {
                 "id": "c9999",
                 "name": "Manifold",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "He is a man with manifold of talents.",
+                "pronounciation": "/ˈmanɪfəʊld/",
                 "alphabet" : "M",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "many and various.",
+                    "home": "बहुविध; बहुमुख",
+                    "synonym": " numerous, multiple, multifarious, multitudinous"
                 }
         },
         {
@@ -9336,25 +9336,25 @@
         {
                 "id": "c9999",
                 "name": "Murky",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The business of the agency looked quite murky.",
+                "pronounciation": "/ˈməːki/",
                 "alphabet" : "M",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "dark and gloomy, especially due to thick mist.",
+                    "home": "गंदा; अँधेरी",
+                    "synonym": "dark, gloomy, grey, leaden, dull"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Myriad",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "A myriad variety of projects provide the individuals with the proper challenges to grow professionally.  ",
+                "pronounciation": "/ˈmɪrɪəd/",
                 "alphabet" : "M",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a countless or extremely great number of people or things",
+                    "home": "अनगिनत;  संख्य",
+                    "synonym": "throng, host, droves, horde"
                 }
         },
         {
@@ -9508,7 +9508,7 @@
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
                 "alphabet" : "N",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "meaning": "having an extremely offensive smell.",
                     "home": "बकना; प्रलाप",
                     "synonym": "কলধ্বনি করা"
                 }
