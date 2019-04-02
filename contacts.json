@@ -8340,73 +8340,73 @@
         {
                 "id": "c9999",
                 "name": "Irascible",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "My boss is an irascible and difficult man.",
+                "pronounciation": "/ɪˈrasɪb(ə)l/",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "having or showing a tendency to be easily angered.",
+                    "home": "क्रोधी; गुस्सावर",
+                    "synonym": "irritable; snappy; touchy; crabby"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Irate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The owner was so irate he almost threw me out of the place.",
+                "pronounciation": "/ʌɪˈreɪt/",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "feeling or characterized by great anger.",
+                    "home": "क्रुद्ध; रुष्ट",
+                    "synonym": "furious, infuriated, incensed, enraged"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Irrational",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": " A folk form appears irrational to the so-called modern mind.",
+                "pronounciation": "/ɪˈraʃ(ə)n(ə)l/",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "not logical or reasonable",
+                    "home": "अचेतन;अविवेकी ",
+                    "synonym": "unreasonable, illogical, groundless, baseless"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Irrelevant",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "She spoke on an irrelevant topic.",
+                "pronounciation": "/ɪˈrɛlɪv(ə)nt/",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "not connected with or relevant to something.",
+                    "home": "अप्रासंगिक; निष्फल",
+                    "synonym": "unconnected, unrelated, peripheral, tangential"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Irresolute",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "She stood irresolute outside his door.",
+                "pronounciation": "/ɪˈrɛzəluːt/",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "showing or feeling hesitancy; uncertain.",
+                    "home": " अनिश्चित; ढुलमुल",
+                    "synonym": "indecisive, hesitant, tentative, nervous"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Itinerant",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Her father is an itinerant trader.",
+                "pronounciation": "/ɪˈtɪn(ə)r(ə)nt,ʌɪˈtɪn(ə)r(ə)nt/",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "travelling from place to place.",
+                    "home": "यायावर श्रमिक; भ्रमणकारी",
+                    "synonym": "travelling, peripatetic, wandering, wayfaring"
                 }
         },
         {
