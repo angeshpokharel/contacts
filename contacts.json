@@ -7848,37 +7848,37 @@
         {
                 "id": "c9999",
                 "name": "Inebriated",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "An inebriated individual had to walk the chalk line after he was pulled over by the police. ",
+                "pronounciation": "/ɪˈniːbrɪeɪt/ (इनेब्रीऐटड)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "behaving as though affected by alcohol; drunk",
+                    "home": " मदोन्मत्त",
+                    "synonym": "bombed, intoxicated, loaded"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Ineffectual",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Once I realized the medicine was ineffectual, I stopped taking it. ",
+                "pronounciation": "/ɪnɪˈfɛktʃʊəl/ (इनफेक्चूअल)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "not producing any significant or desired effect",
+                    "home": "अप्रभावी; निकाम; प्रभावहीन ",
+                    "synonym": "impotent, inefficient, ineffective, inefficacious"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Inert",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "She lay inert in her bed.",
+                "pronounciation": " /ɪˈnəːt/ (इनर्ट)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "without power to act or move",
+                    "home": "आलसी; अक्रिय",
+                    "synonym": "unmoving, motionless, immobile, stil"
                 }
         },
         {
