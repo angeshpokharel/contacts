@@ -2379,7 +2379,7 @@
                 "phone": {
                     "meaning": "persuade someone to do something; convince with gentle pleading; sweet-talk",
                     "home": "भुलवाना; मनाना",
-                    "synonym": "	persuade, wheedle, coax"
+                    "synonym": "persuade, wheedle, coax"
                 }
         },
         {
@@ -2463,7 +2463,7 @@
                 "phone": {
                     "meaning": "the unique vocabulary used by a specific group of people",
                     "home": "खिचड़ी भाषा; कठबोली",
-                    "synonym": "	slang, jargon"
+                    "synonym": "slang, jargon"
                 }
         },
         {
@@ -2517,7 +2517,7 @@
         {
                 "id": "c9999",
                 "name": "Cardinal",
-                "sentence": "In a town in Italy, having litter-free land is a cardinal law due to the number of environmentalists who live there.",
+                "sentence": "In Italy, having litter-free land is a cardinal law due to the number of environmentalists who live there.",
                 "pronounciation": "/ˈkɑːd(ɪ)n(ə)l/",
                 "alphabet" : "C",
                 "phone": {
@@ -8940,7 +8940,7 @@
                 "id": "c9999",
                 "name": "Malignant",
                 "sentence": "A malignant tumour can invade and destroy nearby tissues.",
-                "pronounciation": "",
+                "pronounciation": "/məˈlɪɡnənt/(मलिग्नन्ट)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "evil in nature or effect; malevolent.",
@@ -9113,7 +9113,7 @@
                 "phone": {
                     "meaning": "not telling the truth; lying.",
                     "home": "असत्य; जाली",
-                    "synonym": "lying, untruthful, dishonest, deceitful,"
+                    "synonym": "lying, untruthful, dishonest, deceitful"
                 }
         },
         {
@@ -9227,8 +9227,8 @@
         {
                 "id": "c9999",
                 "name": "Modify",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "We need to modify our club rules so that boys as well as girls will be allowed in the organization.",
+                "pronounciation": "/ˈmɒdɪfʌɪ/",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
@@ -9347,7 +9347,7 @@
         {
                 "id": "c9999",
                 "name": "Myriad",
-                "sentence": "A myriad variety of projects provide the individuals with the proper challenges to grow professionally.  ",
+                "sentence": "A myriad variety of projects provide the individuals with the proper challenges to grow professionally.",
                 "pronounciation": "/ˈmɪrɪəd/",
                 "alphabet" : "M",
                 "phone": {
@@ -9413,7 +9413,7 @@
                 "phone": {
                     "meaning": "(typically of an action or activity) wicked or criminal",
                     "home": "महापातकी; अति दुष्ट",
-                    "synonym": "wicked, evil, sinful, iniquitous,"
+                    "synonym": "wicked, evil, sinful, iniquitous"
                 }
         },
         {
@@ -9423,7 +9423,7 @@
                 "pronounciation": "/nɪˈɡeɪt/",
                 "alphabet" : "N",
                 "phone": {
-                    "meaning": "make ineffective; nullify.",
+                    "meaning": "make ineffective; nullify",
                     "home": "नौसिखिया;नवदीक्षित",
                     "synonym": "neutralize,	invalidate, nullify"
                 }
@@ -9435,7 +9435,7 @@
                 "pronounciation": "/ˈniːə(ʊ)fʌɪt/",
                 "alphabet" : "N",
                 "phone": {
-                    "meaning": "a person who is new to a subject or activity.",
+                    "meaning": "a person who is new to a subject or activity",
                     "home": "नवदीक्षित; नौसिखिया",
                     "synonym": "beginner, learner, novice, newcomer"
                 }
