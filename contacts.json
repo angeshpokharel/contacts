@@ -7933,12 +7933,12 @@
                 "id": "c9999",
                 "name": "Infraction",
                 "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "pronounciation": "/ɪnˈfrakʃ(ə)n/ (इन्फ्रैक्शन)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
+                    "meaning": "a violation or infringement of a law or agreement",
                     "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "synonym": "infringement, contravention, breach, violation"
                 }
         },
         {
