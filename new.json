@@ -4571,25 +4571,25 @@
         {
                 "id": "c9999",
                 "name": "Disciple",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "After seeing his resurrection, the disciple of Christ set out to spread his message throughout the land.",
+                "pronounciation": "/dɪˈsʌɪp(ə)l/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "someone who believes and helps to spread the doctrine of another",
+                    "home": "अनुगामी;अनुयायी;चेला",
+                    "synonym": "follower, adherent, believer, admirer"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Discomfit",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The mob boss will try and discomfit the witness by threatening his family.",
+                "pronounciation": "/dɪsˈkʌmfɪt/",
                 "alphabet" : "D",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "cause to lose one's composure;to make a person feel uncomfortable",
+                    "home": "योजना भंग करना;हरा देना",
+                    "synonym": "discompose, discomfort,embarrass"
                 }
         },
         {
