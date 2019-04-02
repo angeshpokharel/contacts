@@ -8280,61 +8280,61 @@
         {
                 "id": "c9999",
                 "name": "Invalidate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "A technical flaw in her papers invalidated her nomination.",
+                "pronounciation": "/ɪnˈvalɪdeɪt/",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "make or prove (an argument, statement, or theory) unsound or erroneous",
+                    "home": " रद्द करना; अमान्य घोषित करना",
+                    "synonym": "refute, explode, contradict, rebut"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Invective n.",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "He let out a stream of invective.",
+                "pronounciation": "/ɪnˈvɛktɪv/",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "insulting, abusive, or highly critical language",
+                    "home": "अपवाद; ताना ",
+                    "synonym": "abuse, insults, vituperation, expletives"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Inveigh",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "He liked to inveigh against all forms of academic training",
+                "pronounciation": "/ɪnˈveɪ/",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "speak or write about (something) with great hostility",
+                    "home": " आक्रमण करना; गाली देना",
+                    "synonym": "fulminate, declaim, protest, rail, rage"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Inveterate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "He is an invertebrate gambler.",
+                "pronounciation": "/ɪnˈvɛt(ə)rət/",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "having a particular habit, activity, or interest that is long-established and unlikely to change",
+                    "home": "कट्टर; पक्का",
+                    "synonym": "entrenched, established, ingrained, congenital"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Inviolable",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The president took an inviolable oath in front of the public.",
+                "pronounciation": "/ɪnˈvʌɪələb(ə)l/",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "never to be broken, infringed, or dishonoured.",
+                    "home": "अनुल्लंघनीय; अलंघनीय",
+                    "synonym": "inalienable, absolute, untouchable, unalterable"
                 }
         },
         {
