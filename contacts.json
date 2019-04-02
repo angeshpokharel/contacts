@@ -8124,49 +8124,49 @@
         {
                 "id": "c9999",
                 "name": "Interject",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "She interjected the odd question here and there.",
+                "pronounciation": "/ˌɪntəˈdʒɛkt/ (इन्टर्जेक्ट)",
                 "alphabet" : "I",
                 "phone": {
                     "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "home": "टोकना; बीच में बोलना",
+                    "synonym": " insert, interpolate, add"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Interloper",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I refuse to live in other people's houses as an interloper, a beggar or a slave.",
+                "pronounciation": "/ˈɪntələʊpə/ (इन्टर्लोपर)",
                 "alphabet" : "I",
                 "phone": {
                     "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "home": " हस्तक्षेप करने वाला",
+                    "synonym": "intruder, encroacher, trespasser, invader"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Interminable",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "If I have to sit through one of my father’s interminable lectures again, I will go insane!",
+                "pronounciation": "/ɪnˈtəːmɪnəb(ə)l/ (इन्टर्मनबल)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "endless or apparently endless (often used hyperbolically)",
+                    "home": "अनन्त; बेहद",
+                    "synonym": "ceaseless, unceasing, incessant"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Internecine",
-                "sentence": "The old man is only babbling--don't pay attention",
+                "sentence": "When the internecine war was over, both nations were left in ruins.",
                 "pronounciation": " /ˌɪntəˈniːsʌɪn/ (इन्टर्नसीन )",
                 "alphabet" : "I",
                 "phone": {
                     "meaning": "destructive to both sides in a conflict",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "home": "आपसी; घातक",
+                    "synonym": "deadly, bloody, violent, fierce"
                 }
         },
         {
