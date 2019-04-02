@@ -7884,25 +7884,25 @@
         {
                 "id": "c9999",
                 "name": "Inevitable",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The war was inevitable.",
+                "pronounciation": "/ɪnˈɛvɪtəb(ə)l/ (इनेविटबल)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "certain to happen; unavoidable",
+                    "home": "जरूरी; अवश्य",
+                    "synonym": "sure, fated, predestine	,unavoidable, inescapable"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Inexorable",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Of course, the public is enraged by the inexorable rise in gas prices.",
+                "pronounciation": "/ɪnˈɛks(ə)rəb(ə)l/ (इनेक्सरबल)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "impossible to stop or prevent",
+                    "home": "अनमनीय; अनवरत",
+                    "synonym": "relentless, unstoppable, unavoidable, inescapable"
                 }
         },
                 {
@@ -8052,73 +8052,73 @@
         {
                 "id": "c9999",
                 "name": "Insatiable",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "He had an insatiable hunger for success.",
+                "pronounciation": "/ɪnˈseɪʃəb(ə)l/ (इन्सेशबल)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "(of an appetite or desire) impossible to satisfy.",
+                    "home": "  अतोषणीय, अतृप्य",
+                    "synonym": "insistent, yearning, ravening"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Insensible",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "They knocked each other insensible with their fists.",
+                "pronounciation": "/ɪnˈsɛnsɪb(ə)l/ (इन्सेन्सबल)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "without one's mental faculties, typically as a result of injury or intoxication; unconscious",
+                    "home": "अनभिज्ञ; अर्थशून्य",
+                    "synonym": "unconscious, insensate, senseless, insentient"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Insidious",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Diabetes is an insidious disease.",
+                "pronounciation": "/ɪnˈsɪdɪəs/ (इन्सिडीअस)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "proceeding in a gradual, subtle way, but with very harmful effects",
+                    "home": "  कपटी; धूर्त",
+                    "synonym": "stealthy, subtle, surreptitious, sneaking"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Insinuate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "He was insinuating that I had no self-control.",
+                "pronounciation": "/ɪnˈsɪnjʊeɪt/ (इन्सिन्यूएट )",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "suggest or hint (something bad) in an indirect and unpleasant way",
+                    "home": "संकेत करना; इशारा करना",
+                    "synonym": "imply, suggest, hint, intimate, whisper, indicate"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Insipid",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "She made an inspid coffee.",
+                "pronounciation": "/ɪnˈsɪpɪd/ (इन्सिपिड)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "lacking flavour; weak or tasteless",
+                    "home": " स्वादहीन; बेस्वाद,
+                    "synonym": "tasteless, flavourless, unflavoured, savourless"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Insularity",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "One feels sad at the insularity of this Briton, who is learned, but cannot understand the Hindu temperament.",
+                "pronounciation": "/ˌɪnsjʊˈlarɪti/ (इन्सलेरिटी)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "ignorance of or lack of interest in cultures, ideas, or peoples outside one's own experience",
+                    "home": " संकीर्णता; द्वीपीयता",
+                    "synonym": "parochialism, provincialism, localism"
                 }
         },
         {
