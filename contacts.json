@@ -7908,25 +7908,25 @@
                 {
                 "id": "c9999",
                 "name": "Infallible",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Doctors are not infallible.",
+                "pronounciation": "/ɪnˈfalɪb(ə)l/ (इन्फैलबल)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "incapable of making mistakes or being wrong",
+                    "home": "अभ्रांत; अपरिहार्य",
+                    "synonym": " unfailing, faultless, flawless, impeccable"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Infamous",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "He was an infamous war criminal.",
+                "pronounciation": "/ˈɪnfəməs/ (इन्फमस)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "well known for some bad quality or deed",
+                    "home": "दुष्ट; बदनाम",
+                    "synonym": "notorious, disreputable, ill-famed"
                 }
         },
         {
@@ -8017,7 +8017,7 @@
                 "id": "c9999",
                 "name": "Innate",
                 "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "pronounciation": "/ɪˈneɪt,ˈɪneɪt/ (इनेट)",
                 "alphabet" : "I",
                 "phone": {
                     "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
@@ -8028,25 +8028,25 @@
         {
                 "id": "c9999",
                 "name": "Innocuous",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "It was an innocuous question.",
+                "pronounciation": "/ɪˈnɒkjʊəs/ (इनाक्यूअस)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "not harmful or offensive",
+                    "home": "अहानिकर; सीधा",
+                    "synonym": "straightforward, harmless, safe"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Inordinate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The case had taken up an inordinate amount of time.",
+                "pronounciation": "/ɪˈnɔːdɪnət/ (इनॉर्डनिट)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "unusually or disproportionately large; excessive.",
+                    "home": " अतिरिक्त; अत्यंत",
+                    "synonym": "excessive, undue, unreasonable, unjustifiable"
                 }
         },
         {
