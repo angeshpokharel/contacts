@@ -7668,37 +7668,37 @@
         {
                 "id": "c9999",
                 "name": "Incompatibility",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "A protocol error or incompatibility may have occurred.",
+                "pronounciation": "/ɪnkəmpatɪˈbɪlɪti/ (इन्काम्पटिबिलिटी)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "the condition of two things being so different in nature as to be incapable of coexisting",
+                    "home": " असंगति; बेजोड़ता ",
+                    "synonym": "animosity, conflict, disagreement"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Incongruous",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The coat looked incongruous with the black dress she wore underneath.",
+                "pronounciation": "/ɪnˈkɒŋɡrʊəs/ (इंगकॉंगरूअस)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "not in harmony or keeping with the surroundings or other aspects of something",
+                    "home": "अनुपयुक्त; असंगत",
+                    "synonym": "inappropriate, unsuitable, unsuited"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Inconsequential",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "They talked about inconsequential things.",
+                "pronounciation": "/ˌɪnkɒnsɪˈkwɛnʃ(ə)l/ (इंगकान्सक्वेन्चल)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "not important or significant",
+                    "home": "असंगत; महत्त्वहीन",
+                    "synonym": "insignificant, unimportant, inessential"
                 }
         },
         {
@@ -7836,13 +7836,13 @@
         {
                 "id": "c9999",
                 "name": "Indolent",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "They were indolent and addicted to a life of pleasure.",
+                "pronounciation": "/ˈɪnd(ə)l(ə)nt/ (इन्डलन्ट)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "wanting to avoid activity or exertion; lazy",
+                    "home": "अकर्मण्य; आलसी",
+                    "synonym": "shiftless, apathetic, lackadaisical, inactive"
                 }
         },
         {
@@ -8221,36 +8221,36 @@
                 "id": "c9999",
                 "name": "Intrepid",
                 "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "pronounciation": "/ɪnˈtrɛpɪd/ (इन्ट्रेपड )",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "fearless; adventurous (often used for rhetorical or humorous effect)",
+                    "home": "निडर; निर्भीक",
+                    "synonym": "fearless, unafraid, undaunted, dauntless"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Intrinsic",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Access to the arts is intrinsic to a high quality of life.",
+                "pronounciation": "/ɪnˈtrɪnsɪk/ (इन्ट्रिन्सिक)",
                 "alphabet" : "I",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "belonging naturally; essential",
+                    "home": "अंतर्भूत; स्वाभाविक",
+                    "synonym": "inherent, innate, inborn, inbred"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Introspective",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "/ɪntrəˈspɛktɪv/",
+                "sentence": "He grew withdrawn and introspective.",
+                "pronounciation": "/ɪntrəˈspɛktɪv/ (इन्ट्रस्पेक्टिव )",
                 "alphabet" : "I",
                 "phone": {
                     "meaning": "characterized by or given to introspection",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "home": "आत्मविश्लेषी",
+                    "synonym": "inward-looking, self-analysing"
                 }
         },
         {
