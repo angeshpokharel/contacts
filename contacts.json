@@ -1,10 +1,10 @@
 {
     "contacts": [
         {
-                "id": "c200",
+                "id": "c0001",
                 "name": "Abase",
                 "sentence": "My jealous sister tried to abase me by making fun of my reading glasses.",
-                "pronounciation": "/əˈbeɪs/",
+                "pronounciation": "/əˈbeɪs/(अबेस)",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "humiliate;cause to feel shame",
@@ -14,10 +14,10 @@
                 }
         },
          {
-                "id": "c201",
+                "id": "c0002",
                 "name": "Abash",
                 "sentence": "The officer tried to abash the inmates, humiliating them and treating them like dogs.",
-                "pronounciation": "/əˈbaʃ/",
+                "pronounciation": "/əˈbaʃ/(अबैश)",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "cause to be embarrassed; cause to feel self-conscious",
@@ -27,7 +27,7 @@
                 }
         },
          {
-                "id": "c202",
+                "id": "c0003",
                 "name": "Abate",
                 "sentence": "I hope this medicine will abate the pain in my leg.",
                 "pronounciation": "/əˈbeɪt",
@@ -40,7 +40,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0004",
                 "name": "Abdicate",
                 "sentence": "The young prince became king after his older brother decided to abdicate the throne. ",
                 "pronounciation": "/ˈabdɪkeɪt/",
@@ -53,7 +53,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0005",
                 "name": "Aberrant",
                 "sentence": "If my aunt does not take her medication, she will have aberrant mood swings.",
                 "pronounciation": "/əˈbɛr(ə)nt/",
@@ -66,7 +66,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0006",
                 "name": "Abet",
                 "sentence": "The photo editing software is sure to abet my odds of winning the photo competition.",
                 "pronounciation": "/əˈbɛt/",
@@ -80,7 +80,7 @@
         },
         
         {
-                "id": "c202",
+                "id": "c0007",
                 "name": "Abeyance",
                 "sentence": "The vote is to be held in abeyance until all committee members are present.",
                 "pronounciation": "/əˈbeɪəns/",
@@ -94,7 +94,7 @@
         },
         
          {
-                "id": "c203",
+                "id": "c0008",
                 "name": "Abhor",
                 "sentence": "If you abhor mathematics so much, why not switch majors?",
                 "pronounciation": "/əbˈhɔː/",
@@ -107,7 +107,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0009",
                 "name": "Abide",
                 "sentence": "Although my daughter hates the school dress code, she knows she must abide by it.",
                 "pronounciation": "/əˈbʌɪd/",
@@ -120,7 +120,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0010",
                 "name": "Abject",
                 "sentence": "The football player was abject after being cut from the team.",
                 "pronounciation": "/ˈabdʒɛkt/",
@@ -133,7 +133,7 @@
                 }
         },
          {
-                "id": "c204",
+                "id": "c0011",
                 "name": "Abjure",
                 "sentence": "In order to marry the peasant he loved, the prince made the decision to abjure his title.",
                 "pronounciation": "/əbˈdʒʊə,əbˈdʒɔː/",
@@ -146,7 +146,7 @@
                 }
         },
         {
-                "id": "c205",
+                "id": "c0012",
                 "name": "Abortive",
                 "sentence": "The surgery was abortive and did not repair the damage to the man’s heart.",
                 "pronounciation": "/əˈbɔːtɪv/",
@@ -159,7 +159,7 @@
                 }
         },
         {
-                "id": "c206",
+                "id": "c0013",
                 "name": "Abound",
                 "sentence": "At the beginning of the school year, computer deals abound on the Internet.",
                 "pronounciation": "/əˈbaʊnd/",
@@ -172,7 +172,7 @@
                 }
         },
         {
-                "id": "c207",
+                "id": "c0014",
                 "name": "Abrogate",
                 "sentence": "If you talk out loud in class, I will abrogate your right to choose where to sit.",
                 "pronounciation": "/ˈabrəɡeɪt/",
@@ -185,7 +185,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0015",
                 "name": "Abscission",
                 "sentence": "In zoology, abscission is the shedding of a body part, such as the claw or husk.",
                 "pronounciation": "/əbˈsɪʃ(ə)n/",
@@ -198,7 +198,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0016",
                 "name": "Abscond",
                 "sentence": "The robbers’ plan was to abscond with all of the millionaire’s valuable paintings and jewels.",
                 "pronounciation": "/əbˈskɒnd,abˈskɒnd/",
@@ -211,7 +211,7 @@
                 }
         },
         {
-                "id": "c208",
+                "id": "c0017",
                 "name": "Abstemious",
                 "sentence": "Because I was abstemious with alcohol when I was younger, I am still quite healthy in my later years.",
                 "pronounciation": "/əbˈstiːmɪəs/",
@@ -224,7 +224,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0018",
                 "name": "Abstinence",
                 "sentence": "Abstinence from smoking is now mandatory on commercial airlines.",
                 "pronounciation": "/ˈabstɪnəns/",
@@ -237,7 +237,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0019",
                 "name": "Abstruse",
                 "sentence": "Because I am not a computer programmer, I find most programming languages abstruse.",
                 "pronounciation": "/əbˈstruːs/",
@@ -250,7 +250,7 @@
                 }
         },
         {
-                "id": "c209",
+                "id": "c0020",
                 "name": "Absurd",
                 "sentence": "Jared is completely absurd for wearing a heavy coat and earmuffs in triple-digit heat.",
                 "pronounciation": "/əbˈsəːd/",
@@ -263,7 +263,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0021",
                 "name": "Abysmal",
                 "sentence": "The movie’s plot was so abysmal the critic left the theater after five minutes.",
                 "pronounciation": "/əˈbɪzm(ə)l/",
@@ -276,7 +276,7 @@
                 }
         },
         {
-                "id": "c210",
+                "id": "c0022",
                 "name": "Access",
                 "sentence": "She could no longer access her bank account because there had been too many suspicious purchases.",
                 "pronounciation": "/ˈaksɛs/",
@@ -289,7 +289,7 @@
                 }
         },
         {
-                "id": "c211",
+                "id": "c0023",
                 "name": "Accommodate",
                 "sentence": "When the new prison is built, it will accommodate eight hundred inmates.",
                 "pronounciation": "/əˈkɒmədeɪt/",
@@ -301,7 +301,7 @@
                 }
         },
         {
-                "id": "c212",
+                "id": "c0024",
                 "name": "Accomplice",
                 "sentence": "The police are hoping the accomplice will lead them to the mastermind of the crime. ",
                 "pronounciation": "/əˈkʌmplɪs,əˈkɒmplɪs/",
@@ -313,7 +313,7 @@
                 }
         },
         {
-                "id": "c213",
+                "id": "c0025",
                 "name": "Accost",
                 "sentence": "reporters accosted him in the street.",
                 "pronounciation": "/əˈkɒst/",
@@ -325,7 +325,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0026",
                 "name": "Accretion",
                 "sentence": "The gradual accretion of terror over many years left hundred dead and thousands wounded. ",
                 "pronounciation": "/əˈkriːʃ(ə)n/",
@@ -338,7 +338,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0027",
                 "name": "Accrue",
                 "sentence": "The benefits of following a healthy lifestyle will accrue over time. ",
                 "pronounciation": "/əˈkruː/",
@@ -351,7 +351,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0028",
                 "name": "Acknowledge",
                 "sentence": "Jim will acknowledge receipt of your email even if he cannot immediately respond to it. ",
                 "pronounciation": "/əkˈnɒlɪdʒ/",
@@ -363,7 +363,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0029",
                 "name": "Acme",
                 "sentence": "The team reached its acme when it won the national championship.",
                 "pronounciation": "/ˈakmi/",
@@ -375,7 +375,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0030",
                 "name": "Acquiesce",
                 "sentence": "The administration decided to acquiesce and let the students have a dance.",
                 "pronounciation": "/ˌakwɪˈɛs/",
@@ -387,7 +387,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0031",
                 "name": "Acrimonious",
                 "sentence": "We could avoid this acrimonious situation altogether by agreeing to disagree on the issue.",
                 "pronounciation": "/ˌakrɪˈməʊnɪəs/",
@@ -399,7 +399,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0032",
                 "name": "Acute",
                 "sentence": "Jim will not live much longer because he has an acute case of brain cancer. ",
                 "pronounciation": "/əˈkjuːt/",
@@ -411,7 +411,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0033",
                 "name": "Adamant",
                 "sentence": "He is adamant that he is not going to resign.",
                 "pronounciation": "/ˈadəm(ə)nt/",
@@ -423,7 +423,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0034",
                 "name": "Adherent",
                 "sentence": "More people these days are choosing not to be adherent to a particular religious denomination.",
                 "pronounciation": "/ədˈhɪər(ə)nt/",
@@ -435,7 +435,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0035",
                 "name": "Adjunct",
                 "sentence": "My math teacher was adjunct faculty and did not work for the school full time.",
                 "pronounciation": "/ˈadʒʌŋ(k)t/",
@@ -448,7 +448,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0036",
                 "name": "Admonish",
                 "sentence": "I hope my boss does not admonish me for being late. ",
                 "pronounciation": "/ədˈmɒnɪʃ/",
@@ -460,7 +460,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0037",
                 "name": "Adroit",
                 "sentence": "The child was an adroit pianist at an early age.",
                 "pronounciation": "/əˈdrɔɪt/",
@@ -472,7 +472,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0038",
                 "name": "Adulterate",
                 "sentence": "The restaurant was fined for trying to adulterate the beef with cheap meats.",
                 "pronounciation": "/əˈdʌltəreɪt/",
@@ -485,7 +485,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0039",
                 "name": "Advent",
                 "sentence": "With the advent of the internet, working from home has become a real phenomenon. ",
                 "pronounciation": "/ˈadv(ə)nt,ˈadvɛnt/",
@@ -497,7 +497,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0040",
                 "name": "Adversary",
                 "sentence": " you don’t believe in yourself, then you are your worst adversary.",
                 "pronounciation": "/ˈadvəs(ə)ri/",
@@ -509,7 +509,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0041",
                 "name": "Adverse",
                 "sentence": "Jim’s adverse reaction to the drug was so intense that we rushed him to the hospital.",
                 "pronounciation": "/ˈadvəːs/",
@@ -521,7 +521,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0042",
                 "name": "Advocate",
                 "sentence": "Any good doctor will advocate healthy eating for his patients. ",
                 "pronounciation": "/ˈadvəkət/",
@@ -533,7 +533,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0043",
                 "name": "Aegis",
                 "sentence": "The knight was under the aegis of the king so he was not punished for his crimes against the villagers.",
                 "pronounciation": "xx-xx-xxxx,x - street, x - country",
@@ -545,7 +545,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0044",
                 "name": "Aesthetic",
                 "sentence": "Would you mind giving me your aesthetic opinion of my new handbag? ",
                 "pronounciation": "/iːsˈθɛtɪk,ɛsˈθɛtɪk/",
@@ -558,7 +558,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0045",
                 "name": "Affected",
                 "sentence": "Many areas have been affected by the flooding with some houses being completely covered in water.",
                 "pronounciation": "/əˈfɛktɪd/",
@@ -571,7 +571,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0046",
                 "name": "Affinity",
                 "sentence": "Although Adam is very different than me, I have an affinity for him which I cannot describe. ",
                 "pronounciation": "/əˈfɪnɪti/",
@@ -584,7 +584,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0047",
                 "name": "Afflict",
                 "sentence": "his younger child was afflicted with a skin disease.",
                 "pronounciation": "/əˈflɪkt/",
@@ -596,7 +596,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0048",
                 "name": "Affluent",
                 "sentence": "Though he was born into an affluent family, the once millionaire lost all of his fortune to the stock market crash",
                 "pronounciation": "/ˈaflʊənt/",
@@ -608,7 +608,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0049",
                 "name": "Aggrandize",
                 "sentence": "I hate listening to that snobbish radio talk show host self-aggrandize",
                 "pronounciation": "/əˈɡrandʌɪz/",
@@ -621,7 +621,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0050",
                 "name": "Aggregate",
                 "sentence": "Schools often use test scores to aggregate students into classes based on intelligence.",
                 "pronounciation": "/ˈaɡrɪɡət/",
@@ -634,7 +634,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0051",
                 "name": "Alacrity",
                 "sentence": "The eager student attacked all school work with a rarely seen alacrity.",
                 "pronounciation": "/əˈlakrɪti/",
@@ -646,7 +646,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0052",
                 "name": "Alchemy",
                 "sentence": "a mysterious alchemy brought them together.",
                 "pronounciation": "/ˈalkɪmi/",
@@ -659,7 +659,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0053",
                 "name": "Allay",
                 "sentence": "Last night, I spent over an hour trying to allay my daughter’s fears about the boogieman.",
                 "pronounciation": "/əˈleɪ/",
@@ -671,7 +671,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0054",
                 "name": "Alleged",
                 "sentence": "The police found explosive devices in the alleged terrorist’s home.",
                 "pronounciation": "/əˈlɛdʒd/",
@@ -683,7 +683,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0055",
                 "name": "Alleviate",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "pronounciation": "/əˈliːvɪeɪt/",
@@ -695,7 +695,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0056",
                 "name": "Alloy",
                 "sentence": "Alloy wheels are made from a mixture of other metals, making them tougher.",
                 "pronounciation": "/ˈalɔɪ/",
@@ -708,7 +708,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0057",
                 "name": "Allure",
                 "sentence": "Because I love the allure of the ocean waters, I enjoy spending time at the beach. ",
                 "pronounciation": "/əˈljʊə,əˈljɔː/",
@@ -720,7 +720,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0058",
                 "name": "Aloof",
                 "sentence": "The aloof princess stood in a corner alone.",
                 "pronounciation": "/əˈluːf/",
@@ -732,7 +732,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0059",
                 "name": "Altruistic",
                 "sentence": "Because John is an altruistic person, he has decided to spend two years of his life volunteering in Africa.",
                 "pronounciation": "/altruːˈɪstɪk/",
@@ -744,7 +744,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0060",
                 "name": "Amalgamate",
                 "sentence": "When the movie studios amalgamate, their movie collections will be housed in one building.  ",
                 "pronounciation": "/əˈmalɡəmeɪt/",
@@ -757,7 +757,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0061",
                 "name": "Ambiguous",
                 "sentence": "Instead of being ambiguous with your words, be more clear and specific.",
                 "pronounciation": "/amˈbɪɡjʊəs/",
@@ -769,10 +769,10 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0062",
                 "name": "Ambivalance",
                 "sentence": "He felt an ambivalence about the nature of the inmates.",
-                "pronounciation": "am·​biv·​a·​lence ",
+                "pronounciation": "/amˈbɪv(ə)l(ə)ns/",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "state of having mixed feelings or contradictory ideas about something or someone",
@@ -782,7 +782,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0063",
                 "name": "Ambrosia",
                 "sentence": "Another story was that he stole nectar and ambrosia from heaven and gave them to men",
                 "pronounciation": "/amˈbrəʊzɪə/",
@@ -795,7 +795,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0064",
                 "name": "Ameliorate",
                 "sentence": "Raising money for Africa can ameliorate the hunger crises.",
                 "pronounciation": "/əˈmiːlɪəreɪt/y",
@@ -807,7 +807,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0065",
                 "name": "Amenable",
                 "sentence": "My husband never complains about anything and is amenable to all my vacation suggestions.",
                 "pronounciation": "/əˈmiːnəb(ə)l/",
@@ -820,7 +820,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0066",
                 "name": "Amenity",
                 "sentence": "As a parent, I always look for a job that offers the amenity of on-site childcare.",
                 "pronounciation": "/əˈmiːnɪti,əˈmɛnɪti/",
@@ -833,7 +833,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0067",
                 "name": "Amicable",
                 "sentence": "If you were a bit more amicable, people would not be afraid to approach you.",
                 "pronounciation": "/ˈamɪkəb(ə)l/",
@@ -845,7 +845,7 @@
                 }
         },
                 {
-                "id": "c204",
+                "id": "c0068",
                 "name": "Amnesty",
                 "sentence": "The man’s petition for political amnesty was declined because of his violent criminal past.",
                 "pronounciation": "/ˈamnɪsti/",
@@ -857,7 +857,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0069",
                 "name": "Amorous",
                 "sentence": "The police caught the amorous teenagers having sex in the park.",
                 "pronounciation": "/ˈam(ə)rəs/",
@@ -869,7 +869,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0070",
                 "name": "Amulet",
                 "sentence": "In order to attract good essences, many people will wear a decorative amulet that matches their bracelet and ring. ",
                 "pronounciation": "/ˈamjʊlɪt/",
@@ -882,7 +882,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0071",
                 "name": "Anachronism",
                 "sentence": "In today’s computer world, a floppy disk is an anachronism.",
                 "pronounciation": "/əˈnakrəˌnɪz(ə)m/",
@@ -895,7 +895,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0072",
                 "name": "Analgesic",
                 "sentence": "A major problem seen in headache clinics is the overuse of analgesics.",
                 "pronounciation": "/an(ə)lˈdʒiːzɪk/",
@@ -908,7 +908,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0073",
                 "name": "Analogous",
                 "sentence": "We couldn’t decide between the two tiles because they were analogous to one another. ",
                 "pronounciation": "/əˈnaləɡəs/",
@@ -920,7 +920,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0074",
                 "name": "Anarchy",
                 "sentence": "As soon as the teacher stepped in the hall, the classroom descended into anarchy.",
                 "pronounciation": "/ˈanəki/",
@@ -934,7 +934,7 @@
         },
         
         {
-                "id": "c204",
+                "id": "c0075",
                 "name": "Anathema",
                 "sentence": "The children hate wearing uniforms to school and view the dress code as an anathema. ",
                 "pronounciation": "/əˈnaθəmə/",
@@ -946,7 +946,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0076",
                 "name": "Annals",
                 "sentence": "The annals of the museum held many interesting artifacts.",
                 "pronounciation": "/ˈan(ə)lz/",
@@ -958,7 +958,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0077",
                 "name": "Anodyne",
                 "sentence": "The soft music is the perfect anodyne to help me relax after work.",
                 "pronounciation": "/ˈanədʌɪn/",
@@ -971,7 +971,7 @@
                 }
         },
                 {
-                "id": "c204",
+                "id": "c0078",
                 "name": "Anomaly",
                 "sentence": "The software engineer was unable to fix the program’s anomaly because its appearance was random.",
                 "pronounciation": "/əˈnɒm(ə)li/",
@@ -983,7 +983,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0079",
                 "name": "Antecedent",
                 "sentence": "The legal antecedent for this case can easily be found in the law library",
                 "pronounciation": "/ˌantɪˈsiːd(ə)nt/",
@@ -996,7 +996,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0080",
                 "name": "Antediluvian",
                 "sentence": "My daughter often tells me I wear antediluvian clothes that are way out of style.",
                 "pronounciation": "/ˌantɪdɪˈluːvɪən/",
@@ -1009,7 +1009,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0081",
                 "name": "Anthropologist",
                 "sentence": "An anthropologist is a scientist who probes the origin of human life. ",
                 "pronounciation": "/ˌanθrəˈpɒlədʒɪst/",
@@ -1021,7 +1021,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0082",
                 "name": "Antipathy",
                 "sentence": "he teenagers expressed their antipathy for the school by vandalizing the gym.",
                 "pronounciation": "/anˈtɪpəθi/",
@@ -1033,7 +1033,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0083",
                 "name": "Antiquated",
                 "sentence": "The antiquated electrical system is not equipped to handle all of these modern appliances. ",
                 "pronounciation": "/ˈantɪkweɪtɪd/",
@@ -1045,7 +1045,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0084",
                 "name": "Antithesis",
                 "sentence": "A country run by a dictator is the antithesis of a nation guided by an elected leader.",
                 "pronounciation": "/anˈtɪθəsɪs/",
@@ -1057,7 +1057,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0085",
                 "name": "Apathy",
                 "sentence": "The serial killer’s lack of apathy left even the judge speechless.",
                 "pronounciation": "/ˈapəθi/",
@@ -1069,7 +1069,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0086",
                 "name": "Apex",
                 "sentence": "The apex of a geographical shape is the highest point on the figure.",
                 "pronounciation": "/ˈeɪpɛks/",
@@ -1081,7 +1081,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0087",
                 "name": "Apogee",
                 "sentence": "The apogee of my happiness was when I married the love of my life. ",
                 "pronounciation": "/ˈapədʒiː/",
@@ -1093,7 +1093,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0088",
                 "name": "Apostate",
                 "sentence": "When John challenged his church’s views, the leaders began to see him as an apostate. ",
                 "pronounciation": "/əˈpɒsteɪt/",
@@ -1105,7 +1105,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0089",
                 "name": "Apothegm",
                 "sentence": "One of my mother's favorite apothegms was that “you can’t buy happiness.” ",
                 "pronounciation": "/ˈapəθɛm/",
@@ -1117,7 +1117,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0090",
                 "name": "Appalled",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "pronounciation": "/əˈpɔːld/",
@@ -1129,7 +1129,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0091",
                 "name": "Appease",
                 "sentence": "A simple apology will appease my wounded pride and make me feel better.",
                 "pronounciation": "/əˈpiːz/",
@@ -1142,7 +1142,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0092",
                 "name": "Appellation",
                 "sentence": "The wine bottle’s appellation revealed the wine was prepared in Italy. ",
                 "pronounciation": "/ˌapəˈleɪʃ(ə)n/",
@@ -1154,7 +1154,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0093",
                 "name": "Apposite",
                 "sentence": "ou will look stunning tonight because the red dress is apposite for your complexion.",
                 "pronounciation": "/ˈapəzɪt/",
@@ -1166,7 +1166,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0094",
                 "name": "Apprise",
                 "sentence": "The young doctor found it difficult to apprise the man of his wife’s death.",
                 "pronounciation": "/əˈprʌɪz/",
@@ -1179,7 +1179,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0095",
                 "name": "Approbation",
                 "sentence": "You cannot take prescription medication without doctor's approbation.",
                 "pronounciation": "/ˌaprəˈbeɪʃ(ə)n/",
@@ -1192,7 +1192,7 @@
                 }
         },
         {
-                "id": "c202",
+                "id": "c0096",
                 "name": "Appropriate v.",
                 "sentence": "The appropriate use for toothpaste is for brushing teeth.",
                 "pronounciation": "/əˈprəʊprɪeɪt/",
@@ -1205,7 +1205,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0097",
                 "name": "Appropos",
                 "sentence": "the composer's reference to child's play is apropos",
                 "pronounciation": "/ˌaprəˈpəʊ,ˈaprəpəʊ/",
@@ -1217,7 +1217,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0098",
                 "name": "Arabesque",
                 "sentence": "Arabesque gates with curving iron doors guarded the entrance into the garden. ",
                 "pronounciation": "/ˌarəˈbɛsk/",
@@ -1229,7 +1229,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0099",
                 "name": "Arbiter",
                 "sentence": "An arbiter will help the divorcing couple come to terms on a settlement.",
                 "pronounciation": "/ˈɑːbɪtə/",
@@ -1241,7 +1241,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0100",
                 "name": "Arbitrary",
                 "sentence": "In spite of the cold weather, we made an arbitrary trip to the beach.",
                 "pronounciation": "/ˈɑːbɪt(rə)ri/",
@@ -1253,7 +1253,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0101",
                 "name": "Archaic",
                 "sentence": "My mother has an archaic mindset and does not believe women should work outside the home. ",
                 "pronounciation": "/ɑːˈkeɪɪk/",
@@ -1265,7 +1265,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0102",
                 "name": "Archeology",
                 "sentence": "Thanks to the efforts of archaeology, excavators were able to discovered a new species of dinosaur..",
                 "pronounciation": "/ˌɑːkɪˈɒlədʒi/",
@@ -1277,7 +1277,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0103",
                 "name": "Ardent",
                 "sentence": "Paul feels out of place among his friends because of his ardent love of classical music.",
                 "pronounciation": "/ˈɑːd(ə)nt/",
@@ -1289,7 +1289,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0104",
                 "name": "Ardor",
                 "sentence": "The couple’s ardor for one another was evident in the loving glances they shared.  ",
                 "pronounciation": "/ˈɑːdə/",
@@ -1301,7 +1301,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0105",
                 "name": "Arduous",
                 "sentence": "Playing the piano may seem arduous at first, but it gets easier with practice.",
                 "pronounciation": "/ˈɑːdjʊəs,ˈɑːdʒʊəs/",
@@ -1313,7 +1313,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0106",
                 "name": "Argot",
                 "sentence": "James was penalized for using street argot in his formal writing assignments.",
                 "pronounciation": "/ˈɑːɡəʊ/",
@@ -1325,7 +1325,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0107",
                 "name": "Array",
                 "sentence": "Sally’s garden offers an impressive array of flowers, making it a perfect setting for a party. ",
                 "pronounciation": "/əˈreɪ/",
@@ -1337,7 +1337,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0108",
                 "name": "Artifact",
                 "sentence": "The artifact was discovered near the site of the ancient burial ground.",
                 "pronounciation": "/ˈɑːtɪfakt/",
@@ -1349,7 +1349,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0109",
                 "name": "Artifice",
                 "sentence": "The company’s artifice centers on lowering their prices to the point that no other company can compete.",
                 "pronounciation": "/ˈɑːtɪfɪs/",
@@ -1361,7 +1361,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0110",
                 "name": "Artless",
                 "sentence": "Instead of having an artless appearance, the celebrity decided to undergo a series of plastic surgeries on her face.",
                 "pronounciation": "/ˈɑːtləs/",
@@ -1373,7 +1373,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0111",
                 "name": "Ascend",
                 "sentence": "Since Kate wants to ascend in society, she will only date wealthy bachelors.",
                 "pronounciation": "/əˈsɛnd/",
@@ -1385,7 +1385,7 @@
                 }
         },
                 {
-                "id": "c204",
+                "id": "c0112",
                 "name": "Ascertain",
                 "sentence": "He told the story in such a strange way that it was difficult to ascertain his exact message.",
                 "pronounciation": "/ˌasəˈteɪn/",
@@ -1397,7 +1397,7 @@
                 }
         },
                 {
-                "id": "c204",
+                "id": "c0113",
                 "name": "Ascetic",
                 "sentence": "Jacob chose to live an ascetic life because of his strict religious beliefs. ",
                 "pronounciation": "/əˈsɛtɪk/",
@@ -1409,7 +1409,7 @@
                 }
         },
                 {
-                "id": "c204",
+                "id": "c0114",
                 "name": "Asinine",
                 "sentence": "our mom may like it, but I will not tolerate your asinine behavior.",
                 "pronounciation": "/ˈasɪnʌɪn/",
@@ -1421,7 +1421,7 @@
                 }
         },
                 {
-                "id": "c204",
+                "id": "c0115",
                 "name": "Asperity",
                 "sentence": "When I was a teenager, my father used asperity when he spoke with all my dates in hopes of scaring them away.",
                 "pronounciation": "/əˈspɛrɪti/",
@@ -1433,7 +1433,7 @@
                 }
         },
                 {
-                "id": "c204",
+                "id": "c0116",
                 "name": "Aspirant",
                 "sentence": "The presidential aspirant campaigned all over the country in hopes that he could win the election. ",
                 "pronounciation": "/əˈspʌɪər(ə)nt,ˈasp(ɪ)r(ə)nt/",
@@ -1445,7 +1445,7 @@
                 }
         },
                 {
-                "id": "c204",
+                "id": "c0117",
                 "name": "Aspire",
                 "sentence": "Don't abase your cousin by making fun of his accent.",
                 "pronounciation": "/əˈspʌɪə/",
@@ -1457,7 +1457,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0118",
                 "name": "Asset",
                 "sentence": "Kim’s foreign language skills are a huge asset to her job at the international banking center. ",
                 "pronounciation": "/ˈasɛt/",
@@ -1469,7 +1469,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0119",
                 "name": "Assiduous",
                 "sentence": "The assiduous students chose to work on their term paper instead of going out to play.",
                 "pronounciation": "/əˈsɪdjʊəs/",
@@ -1481,7 +1481,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0120",
                 "name": "Assuage v.",
                 "sentence": "In an effort to assuage angry customers, the store issued everyone a full refund.",
                 "pronounciation": "/əˈsweɪdʒ/",
@@ -1493,7 +1493,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "cc0121",
                 "name": "Astringent",
                 "sentence": "The astringent was used for cleaning acne-prone skin.",
                 "pronounciation": "/əˈstrɪn(d)ʒ(ə)nt/",
@@ -1506,7 +1506,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0122",
                 "name": "Astute",
                 "sentence": "The astute businessman went from rags to riches with one great idea.",
                 "pronounciation": "/əˈstjuːt/",
@@ -1518,7 +1518,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0123",
                 "name": "Asylum",
                 "sentence": "Seeking asylum from their homelands, many people have fled to the United States in hopes of having a better life.",
                 "pronounciation": "/əˈsʌɪləm/",
@@ -1530,7 +1530,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0124",
                 "name": "Atavism",
                 "sentence": "Because of her atavism, the smoker eventually started using nicotine again after several months smoke-free.",
                 "pronounciation": "/ˈatəvɪz(ə)m/",
@@ -1542,7 +1542,7 @@
                 }
         },
                 {
-                "id": "c204",
+                "id": "c0125",
                 "name": "Atrophy",
                 "sentence": "he use of cocaine can impair heart functioning and atrophy brain cells.",
                 "pronounciation": "/ˈatrəfi/",
@@ -1554,7 +1554,7 @@
                 }
         },
                 {
-                "id": "c204",
+                "id": "c0126",
                 "name": "Attenuated",
                 "sentence": "Doctors claim taking the flu vaccine will attenuate the effects of the illness. ",
                 "pronounciation": "/əˈtɛnjʊeɪtɪd/",
@@ -1566,7 +1566,7 @@
                 }
         },
                 {
-                "id": "c204",
+                "id": "c0127",
                 "name": "Attest",
                 "sentence": "The doctor can attest to your medical condition if a work excuse is needed. ",
                 "pronounciation": "/əˈtɛst/",
@@ -1579,7 +1579,7 @@
                 }
         },
                 {
-                "id": "c204",
+                "id": "c0128",
                 "name": "Atypical",
                 "sentence": "Eating meat would be completely atypical for a vegetarian.",
                 "pronounciation": "/eɪˈtɪpɪk(ə)l,aˈtɪpɪk(ə)l/",
@@ -1591,7 +1591,7 @@
                 }
         },
                 {
-                "id": "c204",
+                "id": "c0129",
                 "name": "Audacity",
                 "sentence": "Only Frank had the audacity to call our boss a bully.",
                 "pronounciation": "/ɔːˈdasɪti/",
@@ -1603,7 +1603,7 @@
                 }
         },
                 {
-                "id": "c204",
+                "id": "c0130",
                 "name": "Augment",
                 "sentence": "If you augment the image too much, the people in the photo will appear blurry.",
                 "pronounciation": "/ɔːɡˈmɛnt/",
@@ -1615,7 +1615,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0131",
                 "name": "Austere",
                 "sentence": "Even though she appeared austere, my teacher was a very kind woman. ",
                 "pronounciation": "/ɒˈstɪə,ɔːˈstɪə/",
@@ -1627,7 +1627,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0132",
                 "name": "Automation",
                 "sentence": "Many believe that technological automation will continue to take jobs from humans and place them in the hands of robots.",
                 "pronounciation": "/ɔːtəˈmeɪʃ(ə)n/",
@@ -1639,7 +1639,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0133",
                 "name": "Autonomous",
                 "sentence": "the partitioning of India created two separate and autonomous jute economies",
                 "pronounciation": "/ɔːˈtɒnəməs/",
@@ -1651,7 +1651,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0134",
                 "name": "Avarice",
                 "sentence": "If you let avarice take over, you will be left with a life focused only on material things.",
                 "pronounciation": "/ˈav(ə)rɪs/",
@@ -1663,7 +1663,7 @@
                 }
         },
                 {
-                "id": "c204",
+                "id": "c0135",
                 "name": "Aver",
                 "sentence": "During the interrogation, the suspect did nothing but aver his innocence.",
                 "pronounciation": "/əˈvəː/",
@@ -1675,7 +1675,7 @@
                 }
         },
                 {
-                "id": "c204",
+                "id": "c0136",
                 "name": "Aversion",
                 "sentence": "Vegetarians have a strong aversion to eating meat",
                 "pronounciation": "/əˈvəːʃ(ə)n/",
@@ -1687,7 +1687,7 @@
                 }
         },
                 {
-                "id": "c204",
+                "id": "c0137",
                 "name": "Avid",
                 "sentence": "James is an avid supporter of any organization that is trying to improve the environment.",
                 "pronounciation": "/ˈavɪd/",
@@ -1699,7 +1699,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0138",
                 "name": "Avocation",
                 "sentence": "As soon as I get home from work, I indulge in my favorite avocation, reading.",
                 "pronounciation": "/ˌavəˈkeɪʃ(ə)n/",
@@ -1711,7 +1711,7 @@
                 }
         },
         {
-                "id": "c204",
+                "id": "c0139",
                 "name": "Avuncular",
                 "sentence": "My best friend's father treats me in an avuncular manner.",
                 "pronounciation": "/əˈvʌŋkjʊlə/",
@@ -1723,7 +1723,7 @@
                 }
         },
                 {
-                "id": "c204",
+                "id": "c0140",
                 "name": "Axiomatic",
                 "sentence": "There was a time when it was regarded as axiomatic that the earth is flat.",
                 "pronounciation": "/ˌaksɪəˈmatɪk/",
@@ -1735,7 +1735,7 @@
                 }
         },
         {
-                "id": "c9999",
+                "id": "c0141",
                 "name": "Babble",
                 "sentence": "The old man is only babbling--don't pay attention",
                 "pronounciation": "/ˈbab(ə)l/",
@@ -1747,7 +1747,7 @@
                 }
         },
         {
-                "id": "c9999",
+                "id": "c0142",
                 "name": "Badger",
                 "sentence": "My daughter will badger me until I explain to her how to tie her shoes.",
                 "pronounciation": "/ˈbadʒə/",
