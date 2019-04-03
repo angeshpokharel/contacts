@@ -4889,7 +4889,7 @@
                 "phone": {
                     "meaning": "deeply agitated especially from emotion",
                     "home": "परेशान; व्याकुल",
-                    "synonym": "	worried, upset, distressed"
+                    "synonym": "worried, upset, distressed"
                 }
         },
         {
@@ -4901,7 +4901,7 @@
                 "phone": {
                     "meaning": "separate from another route and go in a different direction.",
                     "home": "छितरना; झुकना; फेलना; हटाना",
-                    "synonym": "	separate, part,fork"
+                    "synonym": "separate, part,fork"
                 }
         },
         {
@@ -6657,303 +6657,303 @@
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg001",
                 "name": "Gainsay",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Since Jack told the truth on the witness stand, no one was able to gainsay his statement.",
+                "pronounciation": "/ɡeɪnˈseɪ/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "take exception to;to contradict or deny",
+                    "home": "अस्वीकार करना;विरोध करना;",
+                    "synonym": "deny,dispute,contradict"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg002",
                 "name": "Galvanize",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The infection will galvanize your white blood cells and trigger your immune reactions.",
+                "pronounciation": "/ˈɡalvənʌɪz/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "shock or excite (someone) into taking action;to inspire people to work towards change",
+                    "home": "प्रेरित करना;उत्तेजित करना",
+                    "synonym": "urge, motivate, stimulate"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg003",
                 "name": "Gamut",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The company has a gamut of products ranging from infant toys to electrical wall outlets.",
+                "pronounciation": "/ˈɡamət/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a complete extent or range;the entire scale of musical notes",
+                    "home": "विस्तार; सरगम",
+                    "synonym": "range, spectrum, span"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg004",
                 "name": "Garbled",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I got a garbled message on my answerphone from my daughter.",
+                "pronounciation": "/ˈɡɑːb(ə)ld/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "confused and distorted; unclear.",
+                    "home": "अस्पष्ट; विकृत",
+                    "synonym": "jumbled,mixed up"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg005",
                 "name": "Garrulous",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Mom, who is usually loud and garrulous, was surprisingly quiet as a mouse this morning.",
+                "pronounciation": "/ˈɡar(j)ʊləs/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "excessively talkative, especially on trivial matters.",
+                    "home": "गप्पी; झक्की; बकवादी",
+                    "synonym": "babbling, blathering"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg006",
                 "name": "Gaudy",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "When Crystal returned from the nail salon, she showed me her gaudy nails that were painted bright orange.",
+                "pronounciation": "/ˈɡɔːdi/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "(used especially of clothes) marked by conspicuous display; tastelessly showy",
+                    "home": "भड़कीला;रंगीला; दिखौवा",
+                    "synonym": "flashy, showy,garish"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg007",
                 "name": "Gaunt",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I could not stop thinking about the extent of my supervisor’s illness when I saw how gaunt he had become.",
+                "pronounciation": "/ɡɔːnt/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "very thin especially from disease or hunger or cold",
+                    "home": "दुर्बल; पतला; बदसूरत",
+                    "synonym": "haggard,lank,lean"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg008",
                 "name": "Genocide",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Armed troops are being sent to end the dictator’s genocide that has resulted in the deaths of over twenty thousand people.",
+                "pronounciation": "/ˈdʒɛnəsʌɪd/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "systematic killing of a racial or cultural group",
+                    "home": "जातिसंहार",
+                    "synonym": "massacre"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg009",
                 "name": "Genre",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Though he did not normally enjoy movies in the horror genre, he found the trailer quite compelling.",
+                "pronounciation": "/ˈʒɒ̃rə,ˈ(d)ʒɒnrə/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a kind of literary or artistic work;an expressive style of music ;a style of expressing yourself in writing",
+                    "home": " ढंग;प्रकार; शैली",
+                    "synonym": "category, class, classification"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg010",
                 "name": "Germane",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I do not have to answer your questions because they are not germane to the case!",
+                "pronounciation": "/dʒəːˈmeɪn/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "relevant and appropriate",
+                    "home": "अनुकूल; उचित; उपयुक्त",
+                    "synonym": "pertinent, applicable"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg011",
                 "name": "Gesticulate",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The deaf woman tried frantically to gesticulate her fears to the police interpreter.",
+                "pronounciation": "/dʒɛˈstɪkjʊleɪt/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "show, express or direct through movement",
+                    "home": "संकेत करना; इशारा करना",
+                    "synonym": "gesture,sign, motion"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg012",
                 "name": "Glean",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The researchers were able to glean a great deal of information about the medicine’s effects during the experiment.",
+                "pronounciation": "/ɡliːn/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "gather, as of natural products",
+                    "home": "बटोरना; बीनना",
+                    "synonym": "obtain, get, take, draw"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg013",
                 "name": "Glib",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "How could he have been so glib about such a traumatic event?",
+                "pronounciation": "/ɡlɪb/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "artfully persuasive in speech;marked by lack of intellectual depth",
+                    "home": " फिसलता हुआ;चिकना",
+                    "synonym": "slick, pat"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg014",
                 "name": "Goad",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "My mother is going to try and goad her dog into getting off the bed by offering him a treat.",
+                "pronounciation": "/ɡəʊd/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "provoke or annoy (someone) so as to stimulate an action or reaction.",
+                    "home": "प्रेरित करना; आगे बढ़ाना; अंकुस मारना",
+                    "synonym": "provoke, spur, prick"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg015",
                 "name": "Gouge",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The refrigerator legs, left a gouge in the vinyl flooring when I moved it out to clean behind it.",
+                "pronounciation": "/ɡaʊdʒ,ɡuːdʒ/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a hole, dent or tear in something",
+                    "home": "खून चूसना;भेद डालना; उगाहना; खोदना",
+                    "synonym": "scoop out,hollow out, excavate;"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg016",
                 "name": "Grandiloquent",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The city girl’s grandiloquent talk was confusing to the people in the country town.",
+                "pronounciation": "/ɡranˈdɪləkwənt/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "prone to using sophisticated language in order to impress people",
+                    "home": "आडंबरपूर्ण;शब्दाडंबरपूर्ण",
+                    "synonym": "pompous, bombastic"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg017",
                 "name": "Gratuity",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "I refuse to leave a gratuity when I receive bad service at a restaurant.",
+                "pronounciation": "/ɡrəˈtjuːɪti/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "an award (as for meritorious service) given without claim or obligation",
+                    "home": "इनाम;उपदान; उपहार; प्रदान",
+                    "synonym": "tip, gift, present, donation"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg018",
                 "name": "Gregarious",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "If you want to be more approachable, show a gregarious smile.",
+                "pronounciation": "/ɡrɪˈɡɛːrɪəs/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "fond of the company of others; sociable",
+                    "home": "मिलनसार;संघचारी",
+                    "synonym": "companionable, convivial"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg019",
                 "name": "Grimace",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "It is said that it takes more muscles to grimace than it does to smile.",
+                "pronounciation": "/ˈɡrɪməs,ɡrɪˈmeɪs/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "a facial expression that usually indicates strong dislike or pain",
+                    "home": "दांत निकालना; मुंह बनाना",
+                    "synonym": "scowl, frown, sneer"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg020",
                 "name": "Grotesque",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "It’s odd how we can find some grotesque things so fascinating.",
+                "pronounciation": "/ɡrə(ʊ)ˈtɛsk/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "distorted and unnatural in shape or size; abnormal and hideous",
+                    "home": "असंगत; कुरूप; भद्दा",
+                    "synonym": "malformed, deformed"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg021",
                 "name": "Grouse",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "our biggest grouse was about the noise of construction work",
+                "pronounciation": "/ɡraʊs/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "complain about something trivial; grumble",
+                    "home": "गुनगुनाना; बड़बड़ाना",
+                    "synonym": "complain, moan, groan"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg022",
                 "name": "Guileless",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The guileless nerd really believed the prom queen had a crush on him.",
+                "pronounciation": "/ˈɡʌɪlləs/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "devoid of guile; innocent and without deception.",
+                    "home": "निष्कपट",
+                    "synonym": "ingenuous, open, honest"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg023",
                 "name": "Guise",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "A fresh coat of paint will give our old house the guise of being brand new.",
+                "pronounciation": "/ɡʌɪz/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "an external form, appearance, or manner of presentation, typically concealing the true nature of something.",
+                    "home": "भेष;आकार",
+                    "synonym": "appearance, semblance"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg024",
                 "name": "Gullible",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The gullible woman gave all her money to a fake charity.",
+                "pronounciation": "/ˈɡʌləb(ə)l/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "easily tricked because of being too trusting; naive and easily deceived or tricked",
+                    "home": "भोला-भाला; सीधा",
+                    "synonym": "trustful,unsuspecting, unsuspicious"
                 }
         },
         {
-                "id": "c9999",
+                "id": "cg025",
                 "name": "Gusto",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Jim loves playing football and attacks every game with gusto.",
+                "pronounciation": "/ˈɡʌstəʊ/",
                 "alphabet" : "G",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "vigorous and enthusiastic enjoyment in doing something",
+                    "home": "रूचि;ख़ुशी",
+                    "synonym": "enthusiasm, relish, appetite"
                 }
         },
         {
@@ -6977,13 +6977,13 @@
                 "phone": {
                     "meaning": "denoting a period of time in the past that was idyllically happy and peaceful.",
                     "home": "खुशगवार; शांत",
-                    "synonym": "serene, calm, pleasant, balmy, tranquil, peaceful,"
+                    "synonym": "serene, calm, pleasant, balmy, tranquil, peaceful"
                 }
         },
         {
                 "id": "ch003",
                 "name": "Hapless",
-                "sentence": "When Jason lost his wife and job on the same day, he knew he was a hapless soul. ",
+                "sentence": "When Jason lost his wife and job on the same day, he knew he was a hapless soul.",
                 "pronounciation": "/ˈhapləs/()",
                 "alphabet" : "H",
                 "phone": {
@@ -9913,7 +9913,7 @@
                 "id": "cp001",
                 "name": "Pall",
                 "sentence": "The prospect of a war has thrown a pall over the prosperous economy.",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "pronounciation": "/pɔːl/",
                 "alphabet" : "P",
                 "phone": {
                     "meaning": "a cloth spread over a coffin, hearse, or tomb",
