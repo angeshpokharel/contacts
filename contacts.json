@@ -548,7 +548,7 @@
                 "id": "c0044",
                 "name": "Aesthetic",
                 "sentence": "Would you mind giving me your aesthetic opinion of my new handbag? ",
-                "pronounciation": "/iːsˈθɛtɪk,ɛsˈθɛtɪk/()",
+                "pronounciation": "/iːsˈθɛtɪk,ɛsˈθɛtɪk/(एस्थेटिक)",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "concerning or characterized by an appreciation of beauty or good taste",
@@ -561,7 +561,7 @@
                 "id": "c0045",
                 "name": "Affected",
                 "sentence": "Many areas have been affected by the flooding with some houses being completely covered in water.",
-                "pronounciation": "/əˈfɛktɪd/()",
+                "pronounciation": "/əˈfɛktɪd/(अफेक्टिड)",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "acted upon; influenced;speaking or behaving in an artificial way to make an impression",
@@ -574,7 +574,7 @@
                 "id": "c0046",
                 "name": "Affinity",
                 "sentence": "Although Adam is very different than me, I have an affinity for him which I cannot describe. ",
-                "pronounciation": "/əˈfɪnɪti/()",
+                "pronounciation": "/əˈfɪnɪti/(अफिनिटी)",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "a natural attraction or liking;inherent resemblance between persons or things",
@@ -587,7 +587,7 @@
                 "id": "c0047",
                 "name": "Afflict",
                 "sentence": "his younger child was afflicted with a skin disease.",
-                "pronounciation": "/əˈflɪkt/()",
+                "pronounciation": "/əˈflɪkt/(अफ्लिक्ट)",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "cause pain or trouble to; affect adversely",
@@ -599,7 +599,7 @@
                 "id": "c0048",
                 "name": "Affluent",
                 "sentence": "Though he was born into an affluent family, the once millionaire lost all of his fortune to the stock market crash",
-                "pronounciation": "/ˈaflʊənt/()",
+                "pronounciation": "/ˈaflʊənt/(ऐफ्लूअन्ट)",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "having an abundant supply of money or possessions of value",
@@ -611,7 +611,7 @@
                 "id": "c0049",
                 "name": "Aggrandize",
                 "sentence": "I hate listening to that snobbish radio talk show host self-aggrandize",
-                "pronounciation": "/əˈɡrandʌɪz/()",
+                "pronounciation": "/əˈɡrandʌɪz/(अग्रैन्डाइज़)",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "increase the power, status, or wealth of.",
@@ -624,7 +624,7 @@
                 "id": "c0050",
                 "name": "Aggregate",
                 "sentence": "Schools often use test scores to aggregate students into classes based on intelligence.",
-                "pronounciation": "/ˈaɡrɪɡət/()",
+                "pronounciation": "/ˈaɡrɪɡət/(ऐग्रिगट)",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "to place into a category or cluster",
@@ -637,7 +637,7 @@
                 "id": "c0051",
                 "name": "Alacrity",
                 "sentence": "The eager student attacked all school work with a rarely seen alacrity.",
-                "pronounciation": "/əˈlakrɪti/()",
+                "pronounciation": "/əˈlakrɪti/(अलैक्रिटी)",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "brisk and cheerful readiness;liveliness and eagerness",
@@ -649,7 +649,7 @@
                 "id": "c0052",
                 "name": "Alchemy",
                 "sentence": "a mysterious alchemy brought them together.",
-                "pronounciation": "/ˈalkɪmi/()",
+                "pronounciation": "/ˈalkɪmi/(ऐल्कमी)",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "the way two individuals relate to each other",
@@ -662,7 +662,7 @@
                 "id": "c0053",
                 "name": "Allay",
                 "sentence": "Last night, I spent over an hour trying to allay my daughter’s fears about the boogieman.",
-                "pronounciation": "/əˈleɪ/()",
+                "pronounciation": "/əˈleɪ/(अलै)",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "satisfy (thirst); lessen the intensity of or calm",
@@ -674,12 +674,12 @@
                 "id": "c0054",
                 "name": "Alleged",
                 "sentence": "The police found explosive devices in the alleged terrorist’s home.",
-                "pronounciation": "/əˈlɛdʒd/()",
+                "pronounciation": "/əˈlɛdʒd/(अलेज्ड)",
                 "alphabet" : "A",
                 "phone": {
                     "meaning": "questionable; not confirmed;doubtful or suspect",
                     "home": "कथित;निर्दिष्ट",
-                    "synonym": "	supposed, so-called"
+                    "synonym": "supposed, so-called"
                 }
         },
         {
