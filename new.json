@@ -6563,13 +6563,13 @@
         {
                 "id": "c9999",
                 "name": "Frenzy",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The mental patient was known to go into frenzy if he didn’t get his snack on time.",
+                "pronounciation": "/ˈfrɛnzi/",
                 "alphabet" : "F",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "state of violent mental agitation",
+                    "home": "आवेश; उन्माद;उम्मीद",
+                    "synonym": "hysteria, madness, mania, insanity"
                 }
         },
         {
@@ -6623,37 +6623,37 @@
         {
                 "id": "c9999",
                 "name": "Fulsome",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "In an attempt to earn a promotion, Sarah offended her boss with her fulsome compliments.",
+                "pronounciation": "/ˈfʊls(ə)m/",
                 "alphabet" : "F",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "unpleasantly and excessively suave or ingratiating in manner or speech",
+                    "home": "अति; घृणित; बहुत",
+                    "synonym": "enthusiastic, ample, profuse, extensive"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Furtive",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "Students who cheat on tests employ their furtive tactics to avoid getting caught.",
+                "pronounciation": "/ˈfəːtɪv/",
                 "alphabet" : "F",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "marked by quiet and caution and secrecy; taking pains to avoid being observed",
+                    "home": "गुप्त; रहस्यमय; चुराया हुआ",
+                    "synonym": "secretive, secret, surreptitious"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Futile",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "The losing team made a valiant but futile effort to catch up to their opponent.",
+                "pronounciation": "/ˈfjuːtʌɪl/",
                 "alphabet" : "F",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "unproductive of success;producing no result or effect",
+                    "home": "असार; तुच्छ; निरर्थक; व्यर्थ",
+                    "synonym": "fruitless, vain, pointless"
                 }
         },
         {
