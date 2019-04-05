@@ -6191,25 +6191,25 @@
         {
                 "id": "c9999",
                 "name": "Feasible",
-                "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "sentence": "If waking up early isn't feasible for you, then why did you take the morning shift?",
+                "pronounciation": "/ˈfiːzɪb(ə)l/",
                 "alphabet" : "F",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "capable of being done with means at hand and circumstances as they are",
+                    "home": "संभाव्य;सहज;साध्य",
+                    "synonym": "practical, workable, achievable"
                 }
         },
         {
                 "id": "c9999",
                 "name": "Feint",
                 "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "xx-xx-xxxx,x - street, x - country",
+                "pronounciation": "/feɪnt/",
                 "alphabet" : "F",
                 "phone": {
-                    "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
-                    "home": "बकना; प्रलाप",
-                    "synonym": "কলধ্বনি করা"
+                    "meaning": "any distracting or deceptive maneuver (as a mock attack)",
+                    "home": "कपट; भुलावा",
+                    "synonym": "contrivance, maneuver, ruse, subterfuge"
                 }
         },
         {
