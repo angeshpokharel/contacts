@@ -8437,7 +8437,7 @@
                 "id": "cj003",
                 "name": "Jettison",
                 "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "/ˈdʒɛtɪs(ə)n,ˈdʒɛtɪz(ə)n/()",
+                "pronounciation": "/ˈdʒɛtɪs(ə)n,ˈdʒɛtɪz(ə)n/(जेटिसन)",
                 "alphabet" : "J",
                 "phone": {
                     "meaning": "to eliminate something",
@@ -8449,7 +8449,7 @@
                 "id": "cj004",
                 "name": "Jostle",
                 "sentence": "The competing banks jostle to get new customers.",
-                "pronounciation": "/ˈdʒɒs(ə)l/()",
+                "pronounciation": "/ˈdʒɒs(ə)l/(जासल)",
                 "alphabet" : "J",
                 "phone": {
                     "meaning": "to compete or struggle for something",
@@ -8461,7 +8461,7 @@
                 "id": "cj005",
                 "name": "Jubilant",
                 "sentence": "I am jubilant to learn that my sister is finally having a baby.",
-                "pronounciation": "/ˈdʒuːbɪl(ə)nt/()",
+                "pronounciation": "/ˈdʒuːbɪl(ə)nt/(जूबलन्ट)",
                 "alphabet" : "J",
                 "phone": {
                     "meaning": "filled with joy",
@@ -8473,7 +8473,7 @@
                 "id": "cj006",
                 "name": "Jurisdiction",
                 "sentence": "The probate court has jurisdiction over the validity of wills",
-                "pronounciation": "/ˌdʒʊərɪsˈdɪkʃ(ə)n/()",
+                "pronounciation": "/ˌdʒʊərɪsˈdɪkʃ(ə)n/(जुरस्डिक्शन)",
                 "alphabet" : "J",
                 "phone": {
                     "meaning": "the valid power to make official decisions and rulings",
@@ -8485,7 +8485,7 @@
                 "id": "cj007",
                 "name": "Juxtapose",
                 "sentence": "Our manager will juxtapose old reports by new ones so he can compare the numbers.",
-                "pronounciation": "/ˌdʒʌkstəˈpəʊz/()",
+                "pronounciation": "/ˌdʒʌkstəˈpəʊz/(जक्स्टपोज़)",
                 "alphabet" : "J",
                 "phone": {
                     "meaning": "to place things side by side to compare them",
@@ -8497,7 +8497,7 @@
                 "id": "cl001",
                 "name": "Labyrinth",
                 "sentence": "The casino was designed as a labyrinth to keep gamblers trapped inside.",
-                "pronounciation": "/ˈlab(ə)rɪnθ/()",
+                "pronounciation": "/ˈlab(ə)rɪnθ/(लैबरिन्थ)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "a complicated irregular network of passages in which it is difficult to find one's way; a maze.",
@@ -8509,7 +8509,7 @@
                 "id": "cl002",
                 "name": "Laceration",
                 "sentence": "He suffered lacerations to his head and face",
-                "pronounciation": "/lasəˈreɪʃ(ə)n/()",
+                "pronounciation": "/lasəˈreɪʃ(ə)n/(लैसरेशन)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "a deep cut or tear in skin or flesh.",
@@ -8519,9 +8519,9 @@
         },
         {
                 "id": "cl002",
-                "name": "Laconic",
+                "name": "लकानिक",
                 "sentence": "His laconic reply suggested a lack of interest in the topic.",
-                "pronounciation": "/ləˈkɒnɪk/()",
+                "pronounciation": "/ləˈkɒnɪk/(लकानिक)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "(of a person, speech, or style of writing) using very few words",
@@ -8533,7 +8533,7 @@
                 "id": "cl003",
                 "name": "Lampoon",
                 "sentence": "The actor was lampooned by the press",
-                "pronounciation": "/lamˈpuːn/()",
+                "pronounciation": "/lamˈpuːn/(Lampoon)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "publicly criticize (someone or something) by using ridicule, irony, or sarcasm.",
@@ -8545,7 +8545,7 @@
                 "id": "cl004",
                 "name": "Landmark",
                 "sentence": "Ward Hill (742 ft.) is the sailors' landmark for Lerwick harbour.",
-                "pronounciation": "/ˈlan(d)mɑːk/()",
+                "pronounciation": "/ˈlan(d)mɑːk/(लैन्ड्मार्क)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "a building or monument of historical importance.",
@@ -8557,7 +8557,7 @@
                 "id": "cl005",
                 "name": "Largesse",
                 "sentence": "He relied on the largesse of friends after he lost his job.",
-                "pronounciation": "/lɑːˈ(d)ʒɛs/()",
+                "pronounciation": "/lɑːˈ(d)ʒɛs/(लार्गेस)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "generosity in bestowing money or gifts upon others.",
@@ -8567,9 +8567,9 @@
         },
         {
                 "id": "cl006",
-                "name": "Lascivious",
+                "name": "लसिवीअस",
                 "sentence": "The first part of the novel relates the story of a lascivious wealthy man.",
-                "pronounciation": "/ləˈsɪvɪəs/()",
+                "pronounciation": "/ləˈsɪvɪəs/(लसिवीअस)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "feeling or revealing an overt sexual interest or desire",
@@ -8581,7 +8581,7 @@
                 "id": "cl007",
                 "name": "Lassitude",
                 "sentence": "She was overcome by lassitude and retired to bed.",
-                "pronounciation": "/ˈlasɪtjuːd/()",
+                "pronounciation": "/ˈlasɪtjuːd/(लैसिटूड)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "a state of physical or mental weariness; lack of energy.",
@@ -8593,7 +8593,7 @@
                 "id": "cl008",
                 "name": "Latent",
                 "sentence": " Latent discontents gradually began to articulate themselves.",
-                "pronounciation": "/ˈleɪt(ə)nt/()",
+                "pronounciation": "/ˈleɪt(ə)nt/(लेटन्ट)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "(of a quality or state) existing but not yet developed or manifest; hidden or concealed",
@@ -8605,7 +8605,7 @@
                 "id": "cl009",
                 "name": "Laud v.",
                 "sentence": "Niall was lauded for his honesty.",
-                "pronounciation": "/lɔːd/()",
+                "pronounciation": "/lɔːd/(लॉड)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "praise (a person or their achievements) highly.",
@@ -8617,7 +8617,7 @@
                 "id": "cl010",
                 "name": "Lax",
                 "sentence": "Never let go of that privacy or be lax with your security.",
-                "pronounciation": "/laks/()",
+                "pronounciation": "/laks/(लैक्स)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "not sufficiently strict, severe, or careful.",
@@ -8629,7 +8629,7 @@
                 "id": "cl011",
                 "name": "Legerdemain",
                 "sentence": "At the hands of these practitioners of the art, poetry became degraded into linguistic legerdemain.",
-                "pronounciation": "/ˌlɛdʒədɪˈmeɪn/()",
+                "pronounciation": "/ˌlɛdʒədɪˈmeɪn/(लेजर्डमेन)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "skilful use of one's hands when performing conjuring tricks",
@@ -8639,9 +8639,9 @@
         },
         {
                 "id": "cl012",
-                "name": "Legion",
+                "name": "लीजन",
                 "sentence": "Leaving the sleeping legion of Citizens, Rama takes this opportunity of going farther into the jungle.",
-                "pronounciation": "/ˈliːdʒ(ə)n/()",
+                "pronounciation": "/ˈliːdʒ(ə)n/(लीजन)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "amounting to a large indefinite number",
@@ -8653,7 +8653,7 @@
                 "id": "cl013",
                 "name": "Lethal",
                 "sentence": "The Watcher took a step back at his lethal tone.",
-                "pronounciation": "/ˈliːθ(ə)l/()",
+                "pronounciation": "/ˈliːθ(ə)l/(Lethal)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "very harmful or destructive.",
@@ -8665,7 +8665,7 @@
                 "id": "cl014",
                 "name": "Lethargic",
                 "sentence": "Lana awoke lethargic and in pain.",
-                "pronounciation": "/lɪˈθɑːdʒɪk/()",
+                "pronounciation": "/lɪˈθɑːdʒɪk/(लथार्जिक)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "affected by lethargy; sluggish and apathetic.",
@@ -8677,7 +8677,7 @@
                 "id": "cl015",
                 "name": "Levee",
                 "sentence": "The weekly levee was practically abandoned.",
-                "pronounciation": "/ˈlɛvi,ˈlɛveɪ/()",
+                "pronounciation": "/ˈlɛvi,ˈlɛveɪ/(लेवी)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "an embankment built to prevent the overflow of a river",
@@ -8689,7 +8689,7 @@
                 "id": "cl016",
                 "name": "Levity",
                 "sentence": "As an attempt to introduce a note of levity, the words were a disastrous flop",
-                "pronounciation": "/ˈlɛvɪti/()",
+                "pronounciation": "/ˈlɛvɪti/(लेविटी)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "the treatment of a serious matter with humour or lack of due respect.",
@@ -8701,7 +8701,7 @@
                 "id": "cl017",
                 "name": "Libel",
                 "sentence": "He was found guilty of a libel on a Liverpool inspector of taxes.",
-                "pronounciation": "/ˈlʌɪb(ə)l/()",
+                "pronounciation": "/ˈlʌɪb(ə)l/(लाइबल)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "a published false statement that is damaging to a person's reputation; a written defamation.",
@@ -8713,7 +8713,7 @@
                 "id": "cl018",
                 "name": "Lithe",
                 "sentence": "She lay gazing up at his tall, lithe figure.",
-                "pronounciation": "/lʌɪð/()",
+                "pronounciation": "/lʌɪð/(लाइद)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "(especially of a person's body) thin, supple, and graceful",
@@ -8725,7 +8725,7 @@
                 "id": "cl019",
                 "name": "Livid",
                 "sentence": "He was livid that Garry had escaped",
-                "pronounciation": "/ˈlɪvɪd/()",
+                "pronounciation": "/ˈlɪvɪd/(लिविड)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "furiously angry.",
@@ -8737,7 +8737,7 @@
                 "id": "cl020",
                 "name": "Loath",
                 "sentence": "I was loath to leave.",
-                "pronounciation": "/ləʊθ/()",
+                "pronounciation": "/ləʊθ/(लोथ)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "reluctant; unwilling",
@@ -8749,7 +8749,7 @@
                 "id": "cl021",
                 "name": "Loathe",
                 "sentence": "I loathe having to sit in the waiting room for hours.",
-                "pronounciation": "/ləʊð/()",
+                "pronounciation": "/ləʊð/(लोद)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "feel intense dislike or disgust for",
@@ -8761,7 +8761,7 @@
                 "id": "cl022",
                 "name": "Log",
                 "sentence": "She tripped over a fallen log.",
-                "pronounciation": "/lɒɡ/()",
+                "pronounciation": "/lɒɡ/(लॉग)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "a part of the trunk or a large branch of a tree that has fallen or been cut off",
@@ -8773,7 +8773,7 @@
                 "id": "cl023",
                 "name": "Longevity",
                 "sentence": "The politician’s longevity in office will be determined by voter popularity.",
-                "pronounciation": "/lɒnˈdʒɛvɪti/()",
+                "pronounciation": "/lɒnˈdʒɛvɪti/(लान्जेविटी)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "the duration of time that something or someone persists",
@@ -8785,7 +8785,7 @@
                 "id": "cl024",
                 "name": "Loquacious",
                 "sentence": "After drinking four beers, my normally quiet wife becomes quite loquacious.",
-                "pronounciation": "/ləˈkweɪʃəs/()",
+                "pronounciation": "/ləˈkweɪʃəs/(लोक्वेशस)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "tending to talk a great deal; talkative.",
@@ -8797,7 +8797,7 @@
                 "id": "cl025",
                 "name": "Lucid",
                 "sentence": "Because the medicine made Lisa drowsy, she was not very lucid.",
-                "pronounciation": "/ˈluːsɪd/()",
+                "pronounciation": "/ˈluːsɪd/(लूसड)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "expressed clearly; easy to understand.",
@@ -8809,7 +8809,7 @@
                 "id": "cl026",
                 "name": "Lucrative",
                 "sentence": "While my mother’s bakery has not been profitable this year, it was quite lucrative last year.  ",
-                "pronounciation": "/ˈluːkrətɪv/()",
+                "pronounciation": "/ˈluːkrətɪv/(लूक्रटिव)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "producing a great deal of profit",
@@ -8821,7 +8821,7 @@
                 "id": "cl027",
                 "name": "Lugubrious",
                 "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "/lʊˈɡuːbrɪəs/()",
+                "pronounciation": "/lʊˈɡuːbrɪəs/(लुगूब्रीअस)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "looking or sounding sad and gloomy",
@@ -8833,7 +8833,7 @@
                 "id": "cl028",
                 "name": "Luminous",
                 "sentence": "Our eyes were drawn towards the luminous stars in the sky.",
-                "pronounciation": "/ˈluːmɪnəs/()",
+                "pronounciation": "/ˈluːmɪnəs/(लूमनस)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "giving off light; bright or shining.",
@@ -8845,7 +8845,7 @@
                 "id": "cl029",
                 "name": "Lurid",
                 "sentence": "The controversial artist is known for his lurid portraits of women in the shower.",
-                "pronounciation": "/ˈl(j)ʊərɪd/()",
+                "pronounciation": "/ˈl(j)ʊərɪd/(लुरड)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "unpleasantly bright in colour, especially so as to create a harsh or unnatural effect.",
@@ -8857,7 +8857,7 @@
                 "id": "cl030",
                 "name": "Lush",
                 "sentence": "Vines and other swinging plants covered the lush rainforest.",
-                "pronounciation": "/lʌʃ/()",
+                "pronounciation": "/lʌʃ/(लश)",
                 "alphabet" : "L",
                 "phone": {
                     "meaning": "of vegetation, especially grass) growing luxuriantly",
@@ -8869,7 +8869,7 @@
                 "id": "cm001",
                 "name": "Machismo",
                 "sentence": "The exaggerated machismo was displayed in the tango.",
-                "pronounciation": "/məˈtʃɪzməʊ,məˈkɪzməʊ/()",
+                "pronounciation": "/məˈtʃɪzməʊ,məˈkɪzməʊ/(मचिज़्मो)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "strong or aggressive masculine pride",
@@ -8881,7 +8881,7 @@
                 "id": "cm002",
                 "name": "Magnanimous",
                 "sentence": "Because she was kind and generous, the magnanimous queen was loved by all.",
-                "pronounciation": "/maɡˈnanɪməs/()",
+                "pronounciation": "/maɡˈnanɪməs/(मैग्नैनमस)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "very generous or forgiving; unselfish",
@@ -8893,7 +8893,7 @@
                 "id": "cm003",
                 "name": "Maim",
                 "sentence": "A lot of soilders were maimed in the war.",
-                "pronounciation": "/meɪm/()",
+                "pronounciation": "/meɪm/(मेम)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "wound or injure (a person or animal) so that part of the body is permanently damaged",
@@ -8905,7 +8905,7 @@
                 "id": "cm004",
                 "name": "Malady",
                 "sentence": "She is suffering from an incurable malady.",
-                "pronounciation": "/ˈmalədi/()",
+                "pronounciation": "/ˈmalədi/(मैलडी)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "a disease or ailment.",
@@ -8917,7 +8917,7 @@
                 "id": "cm005",
                 "name": "Malevolent",
                 "sentence": "He lost her with his malevont behaviour.",
-                "pronounciation": "/məˈlɛv(ə)l(ə)nt/()",
+                "pronounciation": "/məˈlɛv(ə)l(ə)nt/(मलेवलन्ट)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "having or showing a wish to do evil to others",
@@ -8941,7 +8941,7 @@
                 "id": "cm007",
                 "name": "Malingerer",
                 "sentence": " I'm sure she thinks I'm a malingerer.",
-                "pronounciation": "/məˈlɪŋɡ(ə)rə/()",
+                "pronounciation": "/məˈlɪŋɡ(ə)rə/(मलिंगेरर)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "a person who malingers; a shirker.",
@@ -8953,7 +8953,7 @@
                 "id": "cm008",
                 "name": "Malleable",
                 "sentence": "A malleable metal can be beaten into a sheet.",
-                "pronounciation": "/ˈmalɪəb(ə)l/()",
+                "pronounciation": "/ˈmalɪəb(ə)l/(मैलीअबल)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "able to be hammered or pressed into shape without breaking or cracking.",
@@ -8965,7 +8965,7 @@
                 "id": "cm009",
                 "name": "Malnutrition",
                 "sentence": "Nearly 67% of the country's population suffers from malnutrition.",
-                "pronounciation": "/malnjʊˈtrɪʃ(ə)n/()",
+                "pronounciation": "/malnjʊˈtrɪʃ(ə)n/(मैल्नूट्रिशन)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "lack of proper nutrition",
@@ -8977,7 +8977,7 @@
                 "id": "cm010",
                 "name": "Mammoth",
                 "sentence": "It is now evident that the sea acts like a mammoth storage reservoir of energy.",
-                "pronounciation": "ˈmaməθ/()",
+                "pronounciation": "ˈmaməθ/(मैमथ)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "so exceedingly large or extensive as to suggest a giant",
@@ -8989,7 +8989,7 @@
                 "id": "cm011",
                 "name": "Mandate",
                 "sentence": "A process through which power or authority is exercised to follow the mandate in budget.",
-                "pronounciation": "/ˈmandeɪt/()",
+                "pronounciation": "/ˈmandeɪt/(मैन्डेट)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "an official order or commission to do something.",
@@ -9001,7 +9001,7 @@
                 "id": "cm012",
                 "name": "Manifest",
                 "sentence": "A part of manifest hypermetropia can be corrected by accomodation. ",
-                "pronounciation": "/ˈmanɪfɛst/()",
+                "pronounciation": "/ˈmanɪfɛst/(मैनफेस्ट)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "clear or obvious to the eye or mind.",
@@ -9013,7 +9013,7 @@
                 "id": "cm013",
                 "name": "Manifold",
                 "sentence": "He is a man with manifold of talents.",
-                "pronounciation": "/ˈmanɪfəʊld/()",
+                "pronounciation": "/ˈmanɪfəʊld/(मैनफोल्ड)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "many and various.",
@@ -9025,7 +9025,7 @@
                 "id": "cm014",
                 "name": "Martinet",
                 "sentence": "Like a martinet, Mrs. Abrams insists upon order in her classroom. ",
-                "pronounciation": "/ˌmɑːtɪˈnɛt/()",
+                "pronounciation": "/ˌmɑːtɪˈnɛt/(मार्टनेट)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "a person who demands complete obedience; a strict disciplinarian.",
@@ -9037,7 +9037,7 @@
                 "id": "cm015",
                 "name": "Masticate",
                 "sentence": "My mother told me to never talk while I masticate my food",
-                "pronounciation": "/ˈmastɪkeɪt/()",
+                "pronounciation": "/ˈmastɪkeɪt/(मैस्टकेट)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "chew (food).",
@@ -9049,7 +9049,7 @@
                 "id": "cm016",
                 "name": "Materialism",
                 "sentence": "Due to three mansions and seven sports cars, the celebrity’s materialism was apparent in his lifestyle",
-                "pronounciation": "/məˈtɪərɪəlɪz(ə)m/()",
+                "pronounciation": "/məˈtɪərɪəlɪz(ə)m/(मटिरीअलिज़म)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "a tendency to consider material possessions and physical comfort as more important than spiritual values.",
@@ -9061,7 +9061,7 @@
                 "id": "cm017",
                 "name": "Maudlin",
                 "sentence": "Sarah is such a drama queen that she behaves in a maudlin way to even the smallest incident.",
-                "pronounciation": "/ˈmɔːdlɪn/()",
+                "pronounciation": "/ˈmɔːdlɪn/(मॉड्लिन)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "self-pityingly or tearfully sentimental.",
@@ -9073,7 +9073,7 @@
                 "id": "cm018",
                 "name": "Maverick",
                 "sentence": "My maverick boss has made his fortune by using a strategy different from that of his competitors. ",
-                "pronounciation": "/ˈmav(ə)rɪk/()",
+                "pronounciation": "/ˈmav(ə)rɪk/(मैवरिक)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "an unorthodox or independent-minded person.",
@@ -9085,7 +9085,7 @@
                 "id": "cm019",
                 "name": "Megalomania",
                 "sentence": "The dictator was suffering from megalomania.",
-                "pronounciation": "/ˌmɛɡ(ə)lə(ʊ)ˈmeɪnɪə/()",
+                "pronounciation": "/ˌmɛɡ(ə)lə(ʊ)ˈmeɪnɪə/(मेगलोमेनीअ)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "obsession with the exercise of power.",
@@ -9097,7 +9097,7 @@
                 "id": "cm020",
                 "name": "Mendacious",
                 "sentence": "The jury was able to see through the mendacious witness.",
-                "pronounciation": "/mɛnˈdeɪʃəs/()",
+                "pronounciation": "/mɛnˈdeɪʃəs/(मेन्डेशस)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "not telling the truth; lying.",
@@ -9109,7 +9109,7 @@
                 "id": "cm021",
                 "name": "Menial",
                 "sentence": "He is looking for a menial job.",
-                "pronounciation": "/ˈmiːnɪəl/()",
+                "pronounciation": "/ˈmiːnɪəl/(मीनीअल)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "(of work) not requiring much skill and lacking prestige",
@@ -9121,7 +9121,7 @@
                 "id": "cm022",
                 "name": "Mentor",
                 "sentence": "He was her friend and mentor until his death",
-                "pronounciation": "/ˈmɛntɔː/()",
+                "pronounciation": "/ˈmɛntɔː/(मेन्टर)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "an experienced and trusted adviser",
@@ -9133,7 +9133,7 @@
                 "id": "cm023",
                 "name": "Mercenary",
                 "sentence": "She's nothing but a mercenary little gold-digger.",
-                "pronounciation": "/ˈməːsɪn(ə)ri/()",
+                "pronounciation": "/ˈməːsɪn(ə)ri/(मर्सनेरी)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "primarily concerned with making money at the expense of ethics",
@@ -9145,7 +9145,7 @@
                 "id": "cm024",
                 "name": "Metamorphosis",
                 "sentence": " A butterfly is produced by metamorphosis from a caterpillar.",
-                "pronounciation": "/ˌmɛtəˈmɔːfəsɪs,ˌmɛtəmɔːˈfəʊsɪs/()",
+                "pronounciation": "/ˌmɛtəˈmɔːfəsɪs,ˌmɛtəmɔːˈfəʊsɪs/(मेटमॉर्फसस)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "the process of transformation from an immature form to an adult form in two or more distinct stages.",
@@ -9157,7 +9157,7 @@
                 "id": "cm025",
                 "name": "Meticulous",
                 "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "/mɪˈtɪkjʊləs/()",
+                "pronounciation": "/mɪˈtɪkjʊləs/(मटिक्यलस)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "showing great attention to detail; very careful and precise",
@@ -9169,7 +9169,7 @@
                 "id": "cm026",
                 "name": "Mien",
                 "sentence": "He has a cautious, academic mien.",
-                "pronounciation": "/mjɛn/()",
+                "pronounciation": "/mjɛn/(मीन)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "a person's appearance or manner, especially as an indication of their character or mood",
@@ -9181,7 +9181,7 @@
                 "id": "cm027",
                 "name": "Milieu",
                 "sentence": "Community is the proper milieu for raising a family and develop necessary social skills in children.",
-                "pronounciation": "/ˈmiːljəː,mɪˈljəː/()",
+                "pronounciation": "/ˈmiːljəː,mɪˈljəː/(मिल्य)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "a person's social environment",
@@ -9193,7 +9193,7 @@
                 "id": "cm028",
                 "name": "Misanthrope",
                 "sentence": "Scrooge wasn't the mean-spirited misanthrope most of us believe him to be.",
-                "pronounciation": "/ˈmɪz(ə)nθrəʊp,ˈmɪs(ə)nθrəʊp/()",
+                "pronounciation": "/ˈmɪz(ə)nθrəʊp,ˈmɪs(ə)nθrəʊp/(मिसन्थ्रोप)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "a person who dislikes humankind and avoids human society",
@@ -9205,7 +9205,7 @@
                 "id": "cm029",
                 "name": "Mitigate",
                 "sentence": "A factor that mitigate or lessen the seriousness of guilt.",
-                "pronounciation": "/ˈmɪtɪɡeɪt/()",
+                "pronounciation": "/ˈmɪtɪɡeɪt/(मिटगैट)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "make (something bad) less severe, serious, or painful",
@@ -9217,7 +9217,7 @@
                 "id": "cm030",
                 "name": "Modify",
                 "sentence": "We need to modify our club rules so that boys as well as girls will be allowed in the organization.",
-                "pronounciation": "/ˈmɒdɪfʌɪ/()",
+                "pronounciation": "/ˈmɒdɪfʌɪ/(माडफाइ)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
@@ -9229,7 +9229,7 @@
                 "id": "cm031",
                 "name": "Mollify",
                 "sentence": "Nature reserves were set up around the power stations to mollify local conservationists.",
-                "pronounciation": "/ˈmɒlɪfʌɪ/()",
+                "pronounciation": "/ˈmɒlɪfʌɪ/(मालफाइ)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "appease the anger or anxiety of (someone)",
@@ -9241,7 +9241,7 @@
                 "id": "cm032",
                 "name": "Monolithic",
                 "sentence": "There is a monolithic shrine in the cave.",
-                "pronounciation": "/mɒnəˈlɪθɪk/()",
+                "pronounciation": "/mɒnəˈlɪθɪk/(मानलिथिक)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "formed of a single large block of stone",
@@ -9253,7 +9253,7 @@
                 "id": "cm033",
                 "name": "Moribund",
                 "sentence": "On examination she was moribund and dehydrated.",
-                "pronounciation": "/ˈmɒrɪbʌnd/()",
+                "pronounciation": "/ˈmɒrɪbʌnd/(मारीबन्ड)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "(of a person) at the point of death.",
@@ -9265,7 +9265,7 @@
                 "id": "cm034",
                 "name": "Morose",
                 "sentence": "She was morose and silent when she got home.",
-                "pronounciation": "/məˈrəʊs/()",
+                "pronounciation": "/məˈrəʊs/(मरोस)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "sullen and ill-tempered",
@@ -9277,7 +9277,7 @@
                 "id": "cm035",
                 "name": "Mortality",
                 "sentence": "The work is increasingly haunted by thoughts of mortality.",
-                "pronounciation": "/mɔːˈtalɪti/()",
+                "pronounciation": "/mɔːˈtalɪti/(मॉर्टैलटी)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "the state of being subject to death.",
@@ -9289,7 +9289,7 @@
                 "id": "cm036",
                 "name": "Motivate",
                 "sentence": "He was primarily motivated by the desire for profit.",
-                "pronounciation": "/ˈməʊtɪveɪt/()",
+                "pronounciation": "/ˈməʊtɪveɪt/(मोटवेट)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "provide (someone) with a reason for doing something",
@@ -9301,7 +9301,7 @@
                 "id": "cm037",
                 "name": "Mundane",
                 "sentence": "It was hard to return to mundane matters after such excitement.",
-                "pronounciation": "/ˈmʌndeɪn,mʌnˈdeɪn/()",
+                "pronounciation": "/ˈmʌndeɪn,mʌnˈdeɪn/(मन्डेन)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "of this earthly world rather than a heavenly or spiritual one",
@@ -9313,7 +9313,7 @@
                 "id": "cm038",
                 "name": "Munificent",
                 "sentence": "The billionaire was munificent so he was involved in charity.",
-                "pronounciation": "/mjʊˈnɪfɪs(ə)nt/()",
+                "pronounciation": "/mjʊˈnɪfɪs(ə)nt/(म्यूनिफिसन्ट)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "characterized by or displaying great generosity",
@@ -9325,7 +9325,7 @@
                 "id": "cm039",
                 "name": "Murky",
                 "sentence": "The business of the agency looked quite murky.",
-                "pronounciation": "/ˈməːki/()",
+                "pronounciation": "/ˈməːki/(मर्की)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "dark and gloomy, especially due to thick mist.",
@@ -9337,7 +9337,7 @@
                 "id": "cm040",
                 "name": "Myriad",
                 "sentence": "A myriad variety of projects provide the individuals with the proper challenges to grow professionally.",
-                "pronounciation": "/ˈmɪrɪəd/()",
+                "pronounciation": "/ˈmɪrɪəd/(मिरीअड)",
                 "alphabet" : "M",
                 "phone": {
                     "meaning": "a countless or extremely great number of people or things",
@@ -11161,7 +11161,7 @@
                 "id": "cq001",
                 "name": "Qualified",
                 "sentence": "To be qualified to teach, the professor will need to take a licensing test and receive his certification.",
-                "pronounciation": "/ˈkwɒlɪfʌɪ/()",
+                "pronounciation": "/ˈkwɒlɪfʌɪ/(क्वालफाइड)",
                 "alphabet" : "Q",
                 "phone": {
                     "meaning": "having the specific skills or training to complete a task; limited or restricted; not absolute",
@@ -11173,7 +11173,7 @@
                 "id": "cq002",
                 "name": "Qualm",
                 "sentence": "I have a serious qualm about my teenage daughter dating an older man.",
-                "pronounciation": "/kwɑːm,kwɔːm/()",
+                "pronounciation": "/kwɑːm,kwɔːm/(क्वाम)",
                 "alphabet" : "Q",
                 "phone": {
                     "meaning": "a feeling of doubt about whether you are doing the right thing; a mild state of nausea",
@@ -11185,7 +11185,7 @@
                 "id": "cq003",
                 "name": "Quandary",
                 "sentence": "Mark is in a quandary about whether or not he should keep the money he found in the park.",
-                "pronounciation": "/ˈkwɒnd(ə)ri/()",
+                "pronounciation": "/ˈkwɒnd(ə)ri/(क्वान्डरी)",
                 "alphabet" : "Q",
                 "phone": {
                     "meaning": "a state of doubt about what to do in a certain situation; a difficult situation",
@@ -11197,7 +11197,7 @@
                 "id": "cq004",
                 "name": "Quarry",
                 "sentence": "At night, the moonlight caused the stones in the quarry to shine.",
-                "pronounciation": "/ˈkwɒri/()",
+                "pronounciation": "/ˈkwɒri/(क्वॉरी)",
                 "alphabet" : "Q",
                 "phone": {
                     "meaning": "an area from which materials like stone are extracted; animal hunted or caught for food; victim",
@@ -11209,7 +11209,7 @@
                 "id": "cq005",
                 "name": "Quell",
                 "sentence": "The principal tapped the microphone to quell the noise in the auditorium.",
-                "pronounciation": "/kwɛl/()",
+                "pronounciation": "/kwɛl/(क्वेल)",
                 "alphabet" : "Q",
                 "phone": {
                     "meaning": "to calm or reduce; suppress or crush completely",
@@ -11221,7 +11221,7 @@
                 "id": "cq006",
                 "name": "Quibble",
                 "sentence": "The twins will quibble for hours about what to watch on television.",
-                "pronounciation": "/ˈkwɪb(ə)l/()",
+                "pronounciation": "/ˈkwɪb(ə)l/(क्विबल)",
                 "alphabet" : "Q",
                 "phone": {
                     "meaning": "to quarrel about minor matters",
@@ -11233,7 +11233,7 @@
                 "id": "cq007",
                 "name": "Quiescent",
                 "sentence": "Ever since the police department hired ten new officers, crime has been rather quiescent in our town.",
-                "pronounciation": "/kwɪˈɛs(ə)nt/()",
+                "pronounciation": "/kwɪˈɛs(ə)nt/(क्वाइएसन्ट)",
                 "alphabet" : "Q",
                 "phone": {
                     "meaning": "not active; quiet",
@@ -11245,7 +11245,7 @@
                 "id": "cq008",
                 "name": "Quip",
                 "sentence": "I punched my brother when he made a quip about my hair.",
-                "pronounciation": "/kwɪp/()",
+                "pronounciation": "/kwɪp/(क्विप)",
                 "alphabet" : "Q",
                 "phone": {
                     "meaning": "a clever statement; make jokes or quips; witty remark",
@@ -11257,7 +11257,7 @@
                 "id": "cr001",
                 "name": "Rabid",
                 "sentence": "Rabid viewers of the television show repeatedly watch their favorite episodes.",
-                "pronounciation": "/ˈrabɪd,ˈreɪbɪd/()",
+                "pronounciation": "/ˈrabɪd,ˈreɪbɪd/(रैबिड)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "having excessive enthusiasm for something or someone",
@@ -11269,7 +11269,7 @@
                 "id": "cr002",
                 "name": "Raconteur",
                 "sentence": "A screenwriter is a raconteur who simply puts his stories on paper. ",
-                "pronounciation": "/ˌrakɒnˈtəː/()",
+                "pronounciation": "/ˌrakɒnˈtəː/(रैकान्टर)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "one recognized as being a talented teller of stories",
@@ -11281,7 +11281,7 @@
                 "id": "cr003",
                 "name": "Rail",
                 "sentence": "She railed against the bad social policies.",
-                "pronounciation": "/reɪl/()",
+                "pronounciation": "/reɪl/(रेल)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "a bar or series of bars that serves as a fence or barrier; criticize severely",
@@ -11293,7 +11293,7 @@
                 "id": "cr004",
                 "name": "Raiment",
                 "sentence": "The bride’s raiment was so detailed it took four months to sew.",
-                "pronounciation": "/ˈreɪm(ə)nt/()",
+                "pronounciation": "/ˈreɪm(ə)nt/(रेमन्ट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "fine or decorative garments; provide with clothes or put clothes on",
@@ -11305,7 +11305,7 @@
                 "id": "cr005",
                 "name": "Rampant",
                 "sentence": "Unfortunately, underage drinking is rampant in the college town.",
-                "pronounciation": "/ˈramp(ə)nt/()",
+                "pronounciation": "/ˈramp(ə)nt/(रैम्पन्ट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "unrestrained and violent; (esp. of something unwelcome) flourishing or spreading unchecked ",
@@ -11317,7 +11317,7 @@
                 "id": "cr006",
                 "name": "Rarefied",
                 "sentence": "Only a couple of audience members were not confused by the scientist’s rarefied concept.",
-                "pronounciation": "/ˈrɛːrɪfʌɪd/()",
+                "pronounciation": "/ˈrɛːrɪfʌɪd/(रेरफाइड)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "having low density(of air); relevant to only a select group; of high moral or intellectual value",
@@ -11329,7 +11329,7 @@
                 "id": "cr007",
                 "name": "Rash",
                 "sentence": "John made a rash decision and purchased a used vehicle without having it inspected.",
-                "pronounciation": "/raʃ/()",
+                "pronounciation": "/raʃ/(रैश)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "acting without thinking; a series of unexpected and unpleasant occurrences",
@@ -11341,7 +11341,7 @@
                 "id": "cr008",
                 "name": "Rationalize",
                 "sentence": "It was hard to rationalize why someone would set the neighborhood church on fire.",
-                "pronounciation": "/ˈraʃ(ə)n(ə)lʌɪz/()",
+                "pronounciation": "/ˈraʃ(ə)n(ə)lʌɪz/(रैशनलाइज़)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "weed out unwanted things; employ logic or reason; defend or make excuses for by reasoning",
@@ -11353,7 +11353,7 @@
                 "id": "cr009",
                 "name": "Raucous",
                 "sentence": "With a raucous laugh and an evil grin, the purse snatcher grabbed my purse and ran.",
-                "pronounciation": "/ˈrɔːkəs/()",
+                "pronounciation": "/ˈrɔːkəs/(रॉकस)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "making disturbingly harsh and loud noise; behaving in a noisy and disorderly way",
@@ -11365,7 +11365,7 @@
                 "id": "cr010",
                 "name": "Raze",
                 "sentence": "The commercial builder has plans to raze the buildings and develop the area into a series of strip malls.",
-                "pronounciation": "/reɪz/()",
+                "pronounciation": "/reɪz/(रेज़)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "to demolish; completely destroy",
@@ -11377,7 +11377,7 @@
                 "id": "cr011",
                 "name": "Realm",
                 "sentence": "Jane’s career as a fortuneteller started with her curiosity about the psychic realm.",
-                "pronounciation": "/rɛlm/()",
+                "pronounciation": "/rɛlm/(रेल्म)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": " a kingdom; domain that you are interested or have experience in ",
@@ -11389,7 +11389,7 @@
                 "id": "cr012",
                 "name": "Rebuke",
                 "sentence": "Good parents praise their children more than they rebuke them.",
-                "pronounciation": "/rɪˈbjuːk/()",
+                "pronounciation": "/rɪˈbjuːk/(रिब्यूक)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "to criticize sharply or a sharp criticism",
@@ -11401,7 +11401,7 @@
                 "id": "cr013",
                 "name": "Recalcitrant",
                 "sentence": "Because of its two recalcitrant members, the committee got very little work done.",
-                "pronounciation": "/rɪˈkalsɪtr(ə)nt/()",
+                "pronounciation": "/rɪˈkalsɪtr(ə)nt/(रिकैल्सिट्रन्ट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "stubborn; having an obstinately uncooperative attitude towards authority or discipline",
@@ -11413,7 +11413,7 @@
                 "id": "cr014",
                 "name": "Recant",
                 "sentence": "The judge ordered the magazine to recant the false statements it made about the actress.",
-                "pronounciation": "/rɪˈkant/()",
+                "pronounciation": "/rɪˈkant/(रीकैन्ट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "to retract a public statement",
@@ -11425,7 +11425,7 @@
                 "id": "cr015",
                 "name": "Recluse",
                 "sentence": "Despite her reputation as a recluse, Samantha held regular gatherings to entertain close friends.",
-                "pronounciation": "/rɪˈkluːs/()",
+                "pronounciation": "/rɪˈkluːs/(रिक्लूज़)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "a person who lives alone and avoids other people; a hermit",
@@ -11437,7 +11437,7 @@
                 "id": "cr016",
                 "name": "Recoil",
                 "sentence": "Seeing the snake made me recoil in fear.",
-                "pronounciation": "/rɪˈkɔɪl/()",
+                "pronounciation": "/rɪˈkɔɪl/(रीकॉइल)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "to quickly move back;rebound",
@@ -11449,7 +11449,7 @@
                 "id": "cr017",
                 "name": "Recondite",
                 "sentence": "To me, my daughter’s foolish actions are recondite and not understandable at all.",
-                "pronounciation": "/ˈrɛk(ə)ndʌɪt,rɪˈkɒndʌɪt/()",
+                "pronounciation": "/ˈrɛk(ə)ndʌɪt,rɪˈkɒndʌɪt/(रेकन्डाइट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "not understood or known by many people",
@@ -11461,7 +11461,7 @@
                 "id": "cr018",
                 "name": "Redolent",
                 "sentence": "The candy shop was redolent with the rich smell of chocolate.",
-                "pronounciation": "/ˈrɛdəl(ə)nt/()",
+                "pronounciation": "/ˈrɛdəl(ə)nt/(रेडलन्ट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "filled with a scent or odor",
@@ -11473,7 +11473,7 @@
                 "id": "cr019",
                 "name": "Redress",
                 "sentence": "The company hopes to redress the victim’s injury by paying out a million dollar settlement.",
-                "pronounciation": "/rɪˈdrɛs/()",
+                "pronounciation": "/rɪˈdrɛs/(रिड्रेस)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "to make something right or the payment for a wrong",
@@ -11485,7 +11485,7 @@
                 "id": "cr020",
                 "name": "Refractory",
                 "sentence": "How long do you think it will take the trainer to tame the refractory dog?",
-                "pronounciation": "/rɪˈfrakt(ə)ri/()",
+                "pronounciation": "/rɪˈfrakt(ə)ri/(रफ्रैक्टरी)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "not responsive or difficult to manage; resistant to a process or stimulus",
@@ -11497,7 +11497,7 @@
                 "id": "cr021",
                 "name": "Refute",
                 "sentence": "The evidence provided by the prosecutor will refute the defendant’s claim of innocence.",
-                "pronounciation": "/rɪˈfjuːt/()",
+                "pronounciation": "/rɪˈfjuːt/(रिफ्यूट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "to prove wrong by argument or evidence",
@@ -11509,7 +11509,7 @@
                 "id": "cr022",
                 "name": "Relegate",
                 "sentence": "They aim to prevent women from being relegated to a secondary role.",
-                "pronounciation": "/ˈrɛlɪɡeɪt/()",
+                "pronounciation": "/ˈrɛlɪɡeɪt/(रेलगेट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "to put (someone or something) in a lower or less important position, rank",
@@ -11521,7 +11521,7 @@
                 "id": "cr023",
                 "name": "Remiss",
                 "sentence": "If Carol had not been remiss while babysitting, she would have noticed the baby was ill.",
-                "pronounciation": "/rɪˈmɪs/()",
+                "pronounciation": "/rɪˈmɪs/(रिमिस)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "lacking care or attention to duty; negligent",
@@ -11533,7 +11533,7 @@
                 "id": "cr024",
                 "name": "Remote",
                 "sentence": "Because it is such a remote area, there are no paved roads or electricity in the area.",
-                "pronounciation": "/rɪˈməʊt/()",
+                "pronounciation": "/rɪˈməʊt/(रिमोट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "situated in a distant or secluded place; separate or apart in time; very unlikely",
@@ -11545,7 +11545,7 @@
                 "id": "cr025",
                 "name": "Remuneration",
                 "sentence": "Nowadays, most corporate leaders are earning a great deal of remuneration doing very little work.",
-                "pronounciation": "/rɪˌmjuːnəˈreɪʃ(ə)n/()",
+                "pronounciation": "/rɪˌmjuːnəˈreɪʃ(ə)n/(रिम्यूनरेशन)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "compensation for goods or services",
@@ -11557,7 +11557,7 @@
                 "id": "cr026",
                 "name": "Repent",
                 "sentence": "Jordan felt the need to repent for sins committed when he was a child.",
-                "pronounciation": "/rɪˈpɛnt/()",
+                "pronounciation": "/rɪˈpɛnt/(रिपेन्ट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "to feel sorrow or regret for what one has done",
@@ -11569,7 +11569,7 @@
                 "id": "cr027",
                 "name": "Repertoire",
                 "sentence": "Before we hired the magician, we asked him to show us a few tricks in his repertoire.",
-                "pronounciation": "/ˈrɛpətwɑː/()",
+                "pronounciation": "/ˈrɛpətwɑː/(रेपर्ट्वार)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "the entire range of skills or aptitudes or devices used in a particular field or occupation",
@@ -11581,7 +11581,7 @@
                 "id": "cr028",
                 "name": "Replenish",
                 "sentence": "In order to replenish the water supply, I needed to dig deeper within the aquifer.",
-                "pronounciation": "/rɪˈplɛnɪʃ/()",
+                "pronounciation": "/rɪˈplɛnɪʃ/(रिप्लेनिश)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "to refill; restore or fill (something) up again",
@@ -11593,7 +11593,7 @@
                 "id": "cr029",
                 "name": "Replete",
                 "sentence": "I received a low score on my essay because the paper was replete with mistakes.",
-                "pronounciation": "/rɪˈpliːt/()",
+                "pronounciation": "/rɪˈpliːt/(रिप्लीट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "having much or plenty of something; fill to satisfaction",
@@ -11605,7 +11605,7 @@
                 "id": "cr030",
                 "name": "Repose",
                 "sentence": "When you begin to meditate, you need to sit in repose and try to empty your mind of all thoughts.",
-                "pronounciation": "/rɪˈpəʊz/()",
+                "pronounciation": "/rɪˈpəʊz/(रिपोज़)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "a state of rest, sleep, or tranquility; be situated or kept in a particular place",
@@ -11617,7 +11617,7 @@
                 "id": "cr031",
                 "name": "Reprehensible",
                 "sentence": "Your conduct is reprehensible and will not be tolerated!",
-                "pronounciation": "/ˌrɛprɪˈhɛnsɪb(ə)l/()",
+                "pronounciation": "/ˌrɛprɪˈhɛnsɪb(ə)l/(रेप्रिहेन्सबल)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "highly unacceptable action; deserving severe disapproval or criticism",
@@ -11629,7 +11629,7 @@
                 "id": "cr032",
                 "name": "Repress",
                 "sentence": "The patient takes the medicine to repress his violent mood swings.",
-                "pronounciation": "/rɪˈprɛs/()",
+                "pronounciation": "/rɪˈprɛs/(रीप्रेस)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "to prevent from coming forth; subdue (someone or something) by force",
@@ -11641,7 +11641,7 @@
                 "id": "cr033",
                 "name": "Reprimand",
                 "sentence": "The policeman’s warning was my reprimand for speeding in rainy weather.",
-                "pronounciation": "/ˈrɛprɪmɑːnd/()",
+                "pronounciation": "/ˈrɛprɪmɑːnd/(रेप्रमैन्ड)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "an act of disapproval, generally done in an official manner",
@@ -11653,7 +11653,7 @@
                 "id": "cr034",
                 "name": "Reproach",
                 "sentence": "The politician’s sordid actions have brought reproach to the entire government.",
-                "pronounciation": "/rɪˈprəʊtʃ/()",
+                "pronounciation": "/rɪˈprəʊtʃ/(रिप्रोच)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "criticism, disgrace or shame; the expression of disapproval or disappointment",
@@ -11665,7 +11665,7 @@
                 "id": "cr035",
                 "name": "Reprobate",
                 "sentence": "The serial killer was a reprobate who did not care about anyone. ",
-                "pronounciation": "/ˈrɛprəbeɪt/()",
+                "pronounciation": "/ˈrɛprəbeɪt/(रेप्रबेट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "a wicked or evil person; an unprincipled person; express or feel disapproval of",
@@ -11677,7 +11677,7 @@
                 "id": "cr036",
                 "name": "Repudiate",
                 "sentence": "Because I want to avoid the conflict between my two sisters, I repudiate their argument.",
-                "pronounciation": "/rɪˈpjuːdɪeɪt/()",
+                "pronounciation": "/rɪˈpjuːdɪeɪt/(रिप्यूडीएट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "to reject; refuse to support",
@@ -11689,7 +11689,7 @@
                 "id": "cr037",
                 "name": "Repugnant",
                 "sentence": "The racist words were repugnant to everyone in the auditorium.",
-                "pronounciation": "/rɪˈpʌɡnənt/()",
+                "pronounciation": "/rɪˈpʌɡnənt/(रिपग्नन्ट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "repulsive or offensive; extremely distasteful",
@@ -11701,7 +11701,7 @@
                 "id": "cr038",
                 "name": "Repulse",
                 "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "/rɪˈpʌls/()",
+                "pronounciation": "/rɪˈpʌls/(रिपल्स)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "to repel or drive back; cause to feel intense distaste and aversion",
@@ -11713,7 +11713,7 @@
                 "id": "cr039",
                 "name": "Repute",
                 "sentence": "Pollution could bring the authority's name into bad repute",
-                "pronounciation": "/rɪˈpjuːt/()",
+                "pronounciation": "/rɪˈpjuːt/(रिप्यूट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "be generally regarded as; the opinion or reputation generally held of something or someone",
@@ -11725,7 +11725,7 @@
                 "id": "cr040",
                 "name": "Requisite",
                 "sentence": "We cannot complete your payroll request without the requisite forms.",
-                "pronounciation": "/ˈrɛkwɪzɪt/()",
+                "pronounciation": "/ˈrɛkwɪzɪt/(रेक्वज़ट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "something that is considered or viewed as mandatory",
@@ -11737,7 +11737,7 @@
                 "id": "cr041",
                 "name": "Rescind",
                 "sentence": "Once their union demands were met, the workers agreed to rescind the strike.",
-                "pronounciation": "/rɪˈsɪnd/()",
+                "pronounciation": "/rɪˈsɪnd/(रिसिन्ड)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "to take back; cancel",
@@ -11749,7 +11749,7 @@
                 "id": "cr042",
                 "name": "Resolution",
                 "sentence": "a firm decision to do or not to do something ",
-                "pronounciation": "/rɛzəˈluːʃ(ə)n/()",
+                "pronounciation": "/rɛzəˈluːʃ(ə)n/(रेज़लूशन)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "He had promised his son a new bike for Christmas and nothing would break his resolution. ",
@@ -11761,7 +11761,7 @@
                 "id": "cr043",
                 "name": "Resolve",
                 "sentence": "The air conditioning unit will not work until the maintenance man can resolve the problem.",
-                "pronounciation": "/rɪˈzɒlv/()",
+                "pronounciation": "/rɪˈzɒlv/(रिज़ाल्व)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "reach a decision; to fix an issue or problem; settle conclusively",
@@ -11773,7 +11773,7 @@
                 "id": "cr044",
                 "name": "Resourceful",
                 "sentence": "The more resourceful you are, the better able you are to deal with unexpected situations.",
-                "pronounciation": "/rɪˈsɔːsfʊl,rɪˈzɔːsfʊl/()",
+                "pronounciation": "/rɪˈsɔːsfʊl,rɪˈzɔːsfʊl/(रीसॉर्स्फल)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "able to overcome difficulties or to cleverly make do with what is available to create a solution",
@@ -11785,7 +11785,7 @@
                 "id": "cr045",
                 "name": "Respite",
                 "sentence": "Gardening is the perfect hobby for those who need respite from hectic city life.",
-                "pronounciation": "/ˈrɛspʌɪt/()",
+                "pronounciation": "/ˈrɛspʌɪt/(रेस्पिट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "brief interval of rest or relief",
@@ -11797,7 +11797,7 @@
                 "id": "cr046",
                 "name": "Restrictive",
                 "sentence": "When the woman was being strangled by the murderer, her restrictive breathing made her suffocate.",
-                "pronounciation": "/rɪˈstrɪktɪv/()",
+                "pronounciation": "/rɪˈstrɪktɪv/(रिस्ट्रिक्टिव)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "to be limited; imposing restrictions on someone's activities or freedom",
@@ -11809,7 +11809,7 @@
                 "id": "cr047",
                 "name": "Reticent",
                 "sentence": "When asked if he broke the lamp, the child was reticent and refused to make eye contact.",
-                "pronounciation": "/ˈrɛtɪs(ə)nt/()",
+                "pronounciation": "/ˈrɛtɪs(ə)nt/(रेटिसन्ट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "not revealing one's thoughts or feelings readily; uncommunicative",
@@ -11821,7 +11821,7 @@
                 "id": "cr048",
                 "name": "Retort",
                 "sentence": "She could never think of a clever retort to counter Ben's string of jokes and witticisms.",
-                "pronounciation": "/rɪˈtɔːt/()",
+                "pronounciation": "/rɪˈtɔːt/(रिटॉर्ट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "answer back; a sharp, angry, or witty reply",
@@ -11833,7 +11833,7 @@
                 "id": "cr049",
                 "name": "Retrospect",
                 "sentence": "Unfortunately the teacher realized, in retrospect, she hadn't prepared her students well for the national test.",
-                "pronounciation": "/ˈrɛtrəspɛkt/()",
+                "pronounciation": "/ˈrɛtrəspɛkt/(रेट्रस्पेक्ट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "a review of past occurrences",
@@ -11845,7 +11845,7 @@
                 "id": "cr050",
                 "name": "Revere",
                 "sentence": "Environmentalists say that we should revere Mother Nature and take care of our natural resources.",
-                "pronounciation": "/rɪˈvɪə/()",
+                "pronounciation": "/rɪˈvɪə/(रिविर)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "feel deep respect or admiration for (something)",
@@ -11857,7 +11857,7 @@
                 "id": "cr051",
                 "name": "Reverent",
                 "sentence": "During the funeral, humble and reverent silence filled the air of the sanctuary. ",
-                "pronounciation": "/ˈrɛv(ə)r(ə)nt/()",
+                "pronounciation": "/ˈrɛv(ə)r(ə)nt/(रेवरन्ट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "showing deeply rooted respect and devotion",
@@ -11869,7 +11869,7 @@
                 "id": "cr052",
                 "name": "Revert",
                 "sentence": "The supreme court has decided to revert the lower court’s decision and free the inmate.",
-                "pronounciation": "/rɪˈvəːt/()",
+                "pronounciation": "/rɪˈvəːt/(रिवर्ट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "to reverse or turn back",
@@ -11881,7 +11881,7 @@
                 "id": "cr053",
                 "name": "Revile",
                 "sentence": "Individuals who are arrogant will often look for ways to revile those they view as beneath them. ",
-                "pronounciation": "/rɪˈvʌɪl/()",
+                "pronounciation": "/rɪˈvʌɪl/(रिवाइल)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "to attack with abusive language",
@@ -11893,7 +11893,7 @@
                 "id": "cr054",
                 "name": "Rhetoric",
                 "sentence": "The protestors’ rhetoric is filled with anger towards the government.",
-                "pronounciation": "/ˈrɛtərɪk/()",
+                "pronounciation": "/ˈrɛtərɪk/(रेटरिक)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "persuasive or impressive language which is often insincere",
@@ -11905,7 +11905,7 @@
                 "id": "cr055",
                 "name": "Rife",
                 "sentence": "The beach is rife with young people during the summer months.",
-                "pronounciation": "/rʌɪf/()",
+                "pronounciation": "/rʌɪf/(राइफ)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "in a great quantity; most frequent or common",
@@ -11917,7 +11917,7 @@
                 "id": "cr056",
                 "name": "Rift",
                 "sentence": "The rift between the spouses made for quiet mealtimes.",
-                "pronounciation": "/rɪft/()",
+                "pronounciation": "/rɪft/(रिफ्ट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "a crack, split, or break in something; a serious break in friendly relations",
@@ -11929,7 +11929,7 @@
                 "id": "cr057",
                 "name": "Roster",
                 "sentence": "Each roster listed the student’s name as well as grade and school of choice.",
-                "pronounciation": "/ˈrɒstə/()",
+                "pronounciation": "/ˈrɒstə/(रास्टर)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "a list of people's names, often with including the jobs they have been assigned",
@@ -11941,7 +11941,7 @@
                 "id": "cr058",
                 "name": "Rudimentary",
                 "sentence": "He has only received a rudimentary education.",
-                "pronounciation": "/ˌruːdɪˈmɛnt(ə)ri/()",
+                "pronounciation": "/ˌruːdɪˈmɛnt(ə)ri/(रूडमेन्टरी)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "basic; minimal; being in the earliest stages of development",
@@ -11953,7 +11953,7 @@
                 "id": "cr059",
                 "name": "Rue",
                 "sentence": "Sarah will rue not finishing her assignment when she receives a failing grade on the project. ",
-                "pronounciation": "/ruː/()",
+                "pronounciation": "/ruː/(रू)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "to experience regret or sorrow;(French) a street or road in France",
@@ -11965,7 +11965,7 @@
                 "id": "cr060",
                 "name": "Ruminate",
                 "sentence": "His sudden death made us all ruminate on the true value of time.",
-                "pronounciation": "/ˈruːmɪneɪt/()",
+                "pronounciation": "/ˈruːmɪneɪt/(रूमनेट)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "to think deeply about something; ",
@@ -11977,7 +11977,7 @@
                 "id": "cr061",
                 "name": "Rustic",
                 "sentence": "The restaurant has a rustic charm that reminds me of my grandmother’s kitchen.",
-                "pronounciation": "/ˈrʌstɪk/()",
+                "pronounciation": "/ˈrʌstɪk/(रस्टक)",
                 "alphabet" : "R",
                 "phone": {
                     "meaning": "having a country or simple style; characteristic of rural life",
@@ -11989,7 +11989,7 @@
                 "id": "cs001",
                 "name": "Sabbatical",
                 "sentence": "Because I rely too much on technology, I decided to take a sabbatical from all social media.",
-                "pronounciation": "/səˈbatɪk(ə)l/()",
+                "pronounciation": "/səˈbatɪk(ə)l/(सबैटिकल)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "extended period of leave; a period of paid leave granted to a university teacher",
@@ -12001,7 +12001,7 @@
                 "id": "cs002",
                 "name": "Sage",
                 "sentence": "Since Andy was about saving money for his retirement, he sought advice from a financial sage.",
-                "pronounciation": "/seɪdʒ/()",
+                "pronounciation": "/seɪdʒ/(सेज)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "a wise individual who gives helpful advice; aromatic fresh or dried grey-green leaves ",
@@ -12013,7 +12013,7 @@
                 "id": "cs003",
                 "name": "Salient",
                 "sentence": "The salient feature on Johnny’s face is his huge nose.",
-                "pronounciation": "/ˈseɪlɪənt/()",
+                "pronounciation": "/ˈseɪlɪənt/(सेलीअन्ट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "most important or prominent;(of an angle) pointing outwards",
@@ -12025,7 +12025,7 @@
                 "id": "cs004",
                 "name": "Salubrious",
                 "sentence": "Vegetables are salubrious foods which provide essential nutrients.",
-                "pronounciation": "/səˈluːbrɪəs/()",
+                "pronounciation": "/səˈluːbrɪəs/(सलूब्रीअस)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "something that is good for you or is beneficial to mind or body",
@@ -12035,9 +12035,9 @@
         },
         {
                 "id": "cs005",
-                "name": "Salvation",
+                "name": "सैल्वेशन",
                 "sentence": "The sick and elderly woman believed death was her salvation from years of misery.",
-                "pronounciation": "/salˈveɪʃ(ə)n/()",
+                "pronounciation": "/salˈveɪʃ(ə)n/(सैल्वेशन)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "a thing that rescues a person or object from a dangerous situation",
@@ -12049,7 +12049,7 @@
                 "id": "cs006",
                 "name": "Sanctimonious",
                 "sentence": "My sanctimonious aunt tends to look down upon people who do not go to church every Sunday.",
-                "pronounciation": "/ˌsaŋ(k)tɪˈməʊnɪəs/()",
+                "pronounciation": "/ˌsaŋ(k)tɪˈməʊnɪəs/(सैंगक्टमोनीअस)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "pretending to be better than others on a moral level; excessively pious",
@@ -12061,7 +12061,7 @@
                 "id": "cs007",
                 "name": "Sanction",
                 "sentence": "The government will never sanction drinking and driving because it is unsafe.",
-                "pronounciation": "/ˈsaŋ(k)ʃ(ə)n/()",
+                "pronounciation": "/ˈsaŋ(k)ʃ(ə)n/(सैंगक्शन)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "give official permission or approval",
@@ -12073,7 +12073,7 @@
                 "id": "cs008",
                 "name": "Sanctuary",
                 "sentence": "For many people, the church is a sanctuary which provides them with comfort.",
-                "pronounciation": "/ˈsaŋ(k)tjʊəri/()",
+                "pronounciation": "/ˈsaŋ(k)tjʊəri/(सैंगक्चूएरी)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "a place where one goes to be safe or to escape from life",
@@ -12085,7 +12085,7 @@
                 "id": "cs009",
                 "name": "Sanguine",
                 "sentence": "The bank manager did not feel sanguine about recovering the loan.",
-                "pronounciation": "/ˈsaŋɡwɪn/()",
+                "pronounciation": "/ˈsaŋɡwɪn/(सैंगग्विन)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "optimistic, hopeful, or confident about the future",
@@ -12097,7 +12097,7 @@
                 "id": "cs010",
                 "name": "Satiate",
                 "sentence": "Hopefully this feast I am preparing will satiate your hunger.",
-                "pronounciation": "/ˈseɪʃɪeɪt/()",
+                "pronounciation": "/ˈseɪʃɪeɪt/(सेशिएट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "satisfied to the full; sated; to satisfy fully",
@@ -12109,7 +12109,7 @@
                 "id": "cs011",
                 "name": "Satiety",
                 "sentence": "Sarah reached satiety and felt content after tasting every item on the buffet.",
-                "pronounciation": "/səˈtʌɪɪti/()",
+                "pronounciation": "/səˈtʌɪɪti/(सटाइइटी)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "the state of being satisfied or full after consuming food",
@@ -12121,7 +12121,7 @@
                 "id": "cs012",
                 "name": "Saturate",
                 "sentence": "Japan's electronics industry began to saturate the world markets.",
-                "pronounciation": "/ˈsatʃəreɪt/()",
+                "pronounciation": "/ˈsatʃəreɪt/(सैचरेट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "cause(something) to unite with the greatest possible amount of another substance; oversupply",
@@ -12133,7 +12133,7 @@
                 "id": "cs013",
                 "name": "Savor",
                 "sentence": "Since it’s my last cookie, I will eat it slowly and savor the taste.",
-                "pronounciation": "/ˈseɪvə/()",
+                "pronounciation": "/ˈseɪvə/(सेवर)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "to take delight in something for a long period of time",
@@ -12145,7 +12145,7 @@
                 "id": "cs014",
                 "name": "Schism",
                 "sentence": "The schism that divided the nation into two separate countries was caused by religious differences.",
-                "pronounciation": "/ˈskɪz(ə)m,ˈsɪz(ə)m/()",
+                "pronounciation": "/ˈskɪz(ə)m,ˈsɪz(ə)m/(सिज़म)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "a split or separation within a group or organization",
@@ -12157,7 +12157,7 @@
                 "id": "cs015",
                 "name": "Scion",
                 "sentence": "He was the scion of a wealthy family.",
-                "pronounciation": "/ˈsʌɪən/()",
+                "pronounciation": "/ˈsʌɪən/(साइअन)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "a descendent of a notable family ;a young shoot of a plant(esp. one cut for grafting or rooting)",
@@ -12169,7 +12169,7 @@
                 "id": "cs016",
                 "name": "Scoff",
                 "sentence": "The rude little rich girl thought it was fun to scoff at the poor children at her school.",
-                "pronounciation": "/skɒf/()",
+                "pronounciation": "/skɒf/(स्कॉफ)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "to sneer or laugh with scorn; treat with contemptuous disregard ",
@@ -12181,7 +12181,7 @@
                 "id": "cs017",
                 "name": "Scrutinize",
                 "sentence": "As a investor, you should scrutinize the financial records before signing any agreement.",
-                "pronounciation": "/ˈskruːtɪnʌɪz/()",
+                "pronounciation": "/ˈskruːtɪnʌɪz/(स्क्रूटनाइज़)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "examine or inspect closely",
@@ -12193,7 +12193,7 @@
                 "id": "cs018",
                 "name": "Scurrilous",
                 "sentence": "Your scurrilous remarks are not going to make me stop seeing my boyfriend!",
-                "pronounciation": "/ˈskʌrɪləs/()",
+                "pronounciation": "/ˈskʌrɪləs/(स्करलस)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "something that is said or done to ruin a person’s reputation",
@@ -12205,7 +12205,7 @@
                 "id": "cs019",
                 "name": "Scurry",
                 "sentence": "The mouse tried to scurry under the door.",
-                "pronounciation": "/ˈskʌri/()",
+                "pronounciation": "/ˈskʌri/(Scurry)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "rushing about hastily in an undignified way; ",
@@ -12217,7 +12217,7 @@
                 "id": "cs020",
                 "name": "Secrete",
                 "sentence": "The pancreas secretes insulin which is needed to regulate blood sugar. ",
-                "pronounciation": "/sɪˈkriːt/()",
+                "pronounciation": "/sɪˈkriːt/(सिक्रीट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "to produce and give off; place out of sight; keep secret",
@@ -12229,7 +12229,7 @@
                 "id": "cs021",
                 "name": "Sedate",
                 "sentence": "When my baby is upset, I can usually sedate her by patting her back. ",
-                "pronounciation": "/sɪˈdeɪt/()",
+                "pronounciation": "/sɪˈdeɪt/(सिडेट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "to soothe or calm; cause to be quiet by administering a sedative to",
@@ -12241,7 +12241,7 @@
                 "id": "cs022",
                 "name": "Sedentary",
                 "sentence": "After my surgery, I had to remain sedentary for several weeks.",
-                "pronounciation": "/ˈsɛd(ə)nt(ə)ri/()",
+                "pronounciation": "/ˈsɛd(ə)nt(ə)ri/(सेडन्टेरी)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "staying or living in one place",
@@ -12253,7 +12253,7 @@
                 "id": "cs023",
                 "name": "Senile",
                 "sentence": "It was clear that Agatha had gone senile after trying to put her cat in the microwave.",
-                "pronounciation": "/ˈsiːnʌɪl/()",
+                "pronounciation": "/ˈsiːnʌɪl/(सीनाइल)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "characteristic of or caused by old age; weaknesses or diseases of old age(esp. memory loss)",
@@ -12265,7 +12265,7 @@
                 "id": "cs024",
                 "name": "Serenity",
                 "sentence": "The beautiful garden filled him with a sense of serenity.",
-                "pronounciation": "/sɪˈrɛnɪti/()",
+                "pronounciation": "/sɪˈrɛnɪti/(सरेनटी)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "untroubled, calm, and peaceful",
@@ -12277,7 +12277,7 @@
                 "id": "cs025",
                 "name": "Servile",
                 "sentence": "Howard insisted his wife carry his umbrella and follow him around in a servile manner.",
-                "pronounciation": "/ˈsəːvʌɪl/()",
+                "pronounciation": "/ˈsəːvʌɪl/(सर्वल)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "submissive; willing to serve others",
@@ -12289,7 +12289,7 @@
                 "id": "cs026",
                 "name": "Shard",
                 "sentence": "As the mirror crashed to the ground, shard after shard of glass scattered throughout the room.",
-                "pronounciation": "/ʃɑːd/()",
+                "pronounciation": "/ʃɑːd/(शार्ड)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "a sharp piece of a broken material such as ceramic, glass, or metal",
@@ -12301,7 +12301,7 @@
                 "id": "cs027",
                 "name": "Shibboleth",
                 "sentence": "“Make America Great” is the shibboleth often repeated by the candidate’s followers.",
-                "pronounciation": "/ˈʃɪbəlɛθ/()",
+                "pronounciation": "/ˈʃɪbəlɛθ/(शिबलिथ)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "a behavior or word that shows someone belongs to a particular class or group",
@@ -12313,19 +12313,19 @@
                 "id": "cs028",
                 "name": "Sinecure",
                 "sentence": "Connie's job was a sinecure that could be done by anyone.",
-                "pronounciation": "/ˈsʌɪnɪkjʊə,ˈsɪnɪkjʊə/()",
+                "pronounciation": "/ˈsʌɪnɪkjʊə,ˈsɪnɪkjʊə/(साइनक्युर)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "a position that requires no work but still gives a payment; a cushy job",
                     "home": "आराम की नौकरी;दायित्वहीन पद ",
-                    "synonym": " cinch, picnic, doddle"
+                    "synonym": "cinch, picnic, doddle"
                 }
         },
         {
                 "id": "cs029",
                 "name": "Singular",
                 "sentence": "The singer’s intriguing and singular voice brought fans from hundreds of miles away.",
-                "pronounciation": "/ˈsɪŋɡjʊlə/()",
+                "pronounciation": "/ˈsɪŋɡjʊlə/(सिंगग्यलर)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "remarkable, extraordinary",
@@ -12337,7 +12337,7 @@
                 "id": "cs030",
                 "name": "Sinister",
                 "sentence": "In less than 48 hours, the police had uncovered the woman’s sinister plan to kill her wealthy father.",
-                "pronounciation": "/ˈsɪnɪstə/()",
+                "pronounciation": "/ˈsɪnɪstə/(सिनिस्टर)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "giving the impression that something harmful or evil is happening; wicked or evil characteristics ",
@@ -12349,7 +12349,7 @@
                 "id": "cs031",
                 "name": "Site",
                 "sentence": "A 15 km long path was made to carry all the building material to destined site",
-                "pronounciation": "/sʌɪt/()",
+                "pronounciation": "/sʌɪt/(साइट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "area of ground on which something is located; assign a location to",
@@ -12361,7 +12361,7 @@
                 "id": "cs032",
                 "name": "Skeptic",
                 "sentence": "The scientist was a religious skeptic and had trouble believing God exists.",
-                "pronounciation": "/ˈskɛptɪk/()",
+                "pronounciation": "/ˈskɛptɪk/(स्केप्टिक)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "a person who doubts that an idea or belief exists or is valid",
@@ -12373,7 +12373,7 @@
                 "id": "cs033",
                 "name": "Skirmish",
                 "sentence": "Several players got into a skirmish following the first play of the game.",
-                "pronounciation": "/ˈskəːmɪʃ/()",
+                "pronounciation": "/ˈskəːmɪʃ/(स्कर्मिश)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "a minor short-term fight; a brief argument",
@@ -12385,7 +12385,7 @@
                 "id": "cs034",
                 "name": "Slovenly",
                 "sentence": "The man’s slovenly dress was a result of him being homeless for a month.",
-                "pronounciation": "/ˈslʌv(ə)nli/()",
+                "pronounciation": "/ˈslʌv(ə)nli/(स्लवन्ली)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "habitually dirty and unkempt; having a dirty appearance",
@@ -12397,7 +12397,7 @@
                 "id": "cs035",
                 "name": "Sojourn",
                 "sentence": "The doctor suggested me to take a sojourn to the mountain for a few days to escape my hectic life.",
-                "pronounciation": "/ˈsɒdʒ(ə)n/()",
+                "pronounciation": "/ˈsɒdʒ(ə)n/(साजन)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "spend a certain length of time; reside temporarily",
@@ -12409,7 +12409,7 @@
                 "id": "cs036",
                 "name": "Solace",
                 "sentence": "When the dancer is sad, she is able to find solace in her music.",
-                "pronounciation": "/ˈsɒlɪs/()",
+                "pronounciation": "/ˈsɒlɪs/(सालस)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "comfort in grief or disappointment;give moral or emotional strength to",
@@ -12421,7 +12421,7 @@
                 "id": "cs037",
                 "name": "Solicit",
                 "sentence": "The prostitute was arrested when she tried to solicit an undercover officer.",
-                "pronounciation": "/səˈlɪsɪt/()",
+                "pronounciation": "/səˈlɪsɪt/(सलिसिट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "ask for or try to obtain (something) from someone; accost someone",
@@ -12433,7 +12433,7 @@
                 "id": "cs038",
                 "name": "Somber",
                 "sentence": "The funeral hall was filled with somber faces.",
-                "pronounciation": "/ˈsɒmbə/()",
+                "pronounciation": "/ˈsɒmbə/(साम्बर)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "grim or miserable;grave or gloomy in character;lacking brightness or color",
@@ -12445,7 +12445,7 @@
                 "id": "cs039",
                 "name": "Sophistry",
                 "sentence": "John tried to use sophistry to hide his illegal actions from the tax agency.",
-                "pronounciation": "/ˈsɒfɪstri/()",
+                "pronounciation": "/ˈsɒfɪstri/(साफिस्ट्री)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "a reason or argument that sounds correct but is actually false",
@@ -12457,7 +12457,7 @@
                 "id": "cs040",
                 "name": "Soporific",
                 "sentence": "The professor’s boring speech was soporific and had everyone in the audience yawning.",
-                "pronounciation": "/ˌsɒpəˈrɪfɪk/()",
+                "pronounciation": "/ˌsɒpəˈrɪfɪk/(सापरिफिक)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "causing or tending to cause sleep",
@@ -12469,7 +12469,7 @@
                 "id": "cs041",
                 "name": "Sordid",
                 "sentence": "To get publicity, the actress created a sordid but fake tale about childhood abuse.",
-                "pronounciation": "/ˈsɔːdɪd/()",
+                "pronounciation": "/ˈsɔːdɪd/(सॉर्डड)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "very bad or dirty",
@@ -12481,7 +12481,7 @@
                 "id": "cs042",
                 "name": "Spate",
                 "sentence": "A spate of new homes has popped up in the area due to a boom in population.",
-                "pronounciation": "/speɪt/()",
+                "pronounciation": "/speɪt/(स्पेट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "a series or large amounts of;a sudden forceful flow or rain",
@@ -12493,7 +12493,7 @@
                 "id": "cs043",
                 "name": "Spear",
                 "sentence": "She speared her last chip with her fork.",
-                "pronounciation": "/spɪə/()",
+                "pronounciation": "/spɪə/(स्पिर)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "to impale or pierce an object; a weapon with a pointed tip",
@@ -12505,7 +12505,7 @@
                 "id": "cs044",
                 "name": "Specious",
                 "sentence": "The intruder tried to give the authorities a specious excuse regarding his presence in the building.",
-                "pronounciation": "/ˈspiːʃəs/()",
+                "pronounciation": "/ˈspiːʃəs/(स्पीशस)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "seems correct or true, but actually wrong or false; deceptive",
@@ -12517,7 +12517,7 @@
                 "id": "cs045",
                 "name": "Spectrum",
                 "sentence": "The insecticide is very powerful and can kill a wide spectrum of insects.",
-                "pronounciation": "/ˈspɛktrəm/()",
+                "pronounciation": "/ˈspɛktrəm/(स्पेक्ट्रम)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "an assorted range of responses, individuals, ideas, etc.; a band of colours",
@@ -12529,7 +12529,7 @@
                 "id": "cs046",
                 "name": "Spontaneous",
                 "sentence": "I didn’t have a suitcase when I arrived at the airport to take a spontaneous trip.",
-                "pronounciation": "/spɒnˈteɪnɪəs/()",
+                "pronounciation": "/spɒnˈteɪnɪəs/(स्पान्टेनीअस)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "natural without planning or thought",
@@ -12541,7 +12541,7 @@
                 "id": "cs047",
                 "name": "Sporadic",
                 "sentence": "The doctor decided to hospitalize my mother because of her sporadic heartbeat.",
-                "pronounciation": "/spəˈradɪk/()",
+                "pronounciation": "/spəˈradɪk/(स्परैडिक)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "occurring occasionally; recurring in scattered and irregular or unpredictable instances",
@@ -12553,7 +12553,7 @@
                 "id": "cs048",
                 "name": "Spurious",
                 "sentence": "To win elections, politicians often make spurious promises to voters.",
-                "pronounciation": "/ˈspjʊərɪəs/()",
+                "pronounciation": "/ˈspjʊərɪəs/(स्प्युरीअस)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "not real or genuine",
@@ -12565,7 +12565,7 @@
                 "id": "cs049",
                 "name": "Squeamish",
                 "sentence": "Because I am squeamish when it comes to violence, I do not watch boxing on television.",
-                "pronounciation": "/ˈskwiːmɪʃ/()",
+                "pronounciation": "/ˈskwiːmɪʃ/(स्क्वीमिश)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "easily made to feel sick or nauseous; easily disgusted ",
@@ -12577,7 +12577,7 @@
                 "id": "cs050",
                 "name": "Stagnant",
                 "sentence": "Two days after the storm, the stagnant water puddles are still in my front yard.",
-                "pronounciation": "/ˈstaɡnənt/()",
+                "pronounciation": "/ˈstaɡnənt/(स्टैग्नन्ट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "not moving or increasing",
@@ -12589,7 +12589,7 @@
                 "id": "cs051",
                 "name": "Staunch",
                 "sentence": "Although he was a staunch follower of Hinduism, his love for humanity made him popular among christians. ",
-                "pronounciation": "/stɔːn(t)ʃ/()",
+                "pronounciation": "/stɔːn(t)ʃ/(स्टान्च)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "very loyal and committed in attitude.",
@@ -12599,9 +12599,9 @@
         },
         {
                 "id": "cs052",
-                "name": "Steep",
+                "name": "स्टीप",
                 "sentence": "There is an elevator for hotel guests who can’t climb the steep stairs.",
-                "pronounciation": "/stiːp/()",
+                "pronounciation": "/stiːp/(स्टीप)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "excessive or high; having a sharp inclination",
@@ -12613,7 +12613,7 @@
                 "id": "cs053",
                 "name": "Stentorian",
                 "sentence": "The stentorian music was so loud it made my head hurt.",
-                "pronounciation": "/stɛnˈtɔːrɪən/()",
+                "pronounciation": "/stɛnˈtɔːrɪən/(स्टेन्टोरीअन)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "incredibly loud",
@@ -12625,7 +12625,7 @@
                 "id": "cs054",
                 "name": "Stereotype",
                 "sentence": "In some areas of France, citizens accept the stereotype of Americans as rude and uncultured people.",
-                "pronounciation": "/ˈstɛrɪə(ʊ)tʌɪp/()",
+                "pronounciation": "/ˈstɛrɪə(ʊ)tʌɪp/(स्टेरीअटाइप)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "an unfair impression that has been developed about a person or race",
@@ -12637,7 +12637,7 @@
                 "id": "cs055",
                 "name": "Stigma",
                 "sentence": "Because Mary views her deafness as a stigma, she often avoids society.",
-                "pronounciation": "/ˈstɪɡmə/()",
+                "pronounciation": "/ˈstɪɡmə/(स्टिग्म)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "a sign of disgrace associated with a particular circumstance, quality, or person",
@@ -12649,7 +12649,7 @@
                 "id": "cs056",
                 "name": "Stint v.",
                 "sentence": "He was born into a wealthy family and never learned to stint.",
-                "pronounciation": "/stɪnt/()",
+                "pronounciation": "/stɪnt/(स्टिन्ट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "supply sparingly and with restricted quantities",
@@ -12661,7 +12661,7 @@
                 "id": "cs057",
                 "name": "Stipulate",
                 "sentence": "The software company’s policies stipulate employees must take two fifteen-minute breaks a day.",
-                "pronounciation": "/ˈstɪpjʊleɪt/()",
+                "pronounciation": "/ˈstɪpjʊleɪt/(स्टिप्यलेट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "to insist upon something as a condition of an agreement",
@@ -12673,7 +12673,7 @@
                 "id": "cs058",
                 "name": "Stolid",
                 "sentence": "He was a stolid man who did not even show his emotions at his mother’s funeral.",
-                "pronounciation": "/ˈstɒlɪd/()",
+                "pronounciation": "/ˈstɒlɪd/(स्टालड)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "having or revealing little emotion or sensibility; not easily aroused or excited",
@@ -12685,7 +12685,7 @@
                 "id": "cs059",
                 "name": "Striated",
                 "sentence": "His striated eyeballs had a vitreous look; they were as hard as marbles.",
-                "pronounciation": "/strʌɪˈeɪtɪd/()",
+                "pronounciation": "/strʌɪˈeɪtɪd/(स्ट्राइइट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "striped or streaked; marked with striae",
@@ -12697,7 +12697,7 @@
                 "id": "cs060",
                 "name": "Strident",
                 "sentence": "Since I had a headache, the bird’s chirping sounded quite strident to me.",
-                "pronounciation": "/ˈstrʌɪd(ə)nt/()",
+                "pronounciation": "/ˈstrʌɪd(ə)nt/(स्ट्राइडन्ट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "loud and harsh; grating",
@@ -12709,7 +12709,7 @@
                 "id": "cs061",
                 "name": "Strife",
                 "sentence": "A tactical team was sent in to end the strife between the two gangs.",
-                "pronounciation": "/strʌɪf/()",
+                "pronounciation": "/strʌɪf/(स्ट्राइफ)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "struggle or conflict",
@@ -12721,7 +12721,7 @@
                 "id": "cs062",
                 "name": "Strut",
                 "sentence": "The rooster would strut in the yard when trying to impress the hens.",
-                "pronounciation": "/strʌt/()",
+                "pronounciation": "/strʌt/(स्ट्रट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "a proud step or walk, with the head upright",
@@ -12733,7 +12733,7 @@
                 "id": "cs063",
                 "name": "Stunt",
                 "sentence": "Knievel performed a stunt where he rode his motorcycle through a flaming circle.",
-                "pronounciation": "/stʌnt/()",
+                "pronounciation": "/stʌnt/(स्टन्ट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "a difficult, brave or clever act; (creator)prevented from attaining full growth",
@@ -12745,7 +12745,7 @@
                 "id": "cs064",
                 "name": "Stupor",
                 "sentence": "When Kurt awoke from his drunken stupor, it was three days later.",
-                "pronounciation": "/ˈstjuːpə/()",
+                "pronounciation": "/ˈstjuːpə/(स्टूपर)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "a condition in which it is difficult to think",
@@ -12757,7 +12757,7 @@
                 "id": "cs065",
                 "name": "Stymie",
                 "sentence": "Some people believe the legalization of marijuana will stymie drug violence.",
-                "pronounciation": "/ˈstʌɪmi/()",
+                "pronounciation": "/ˈstʌɪmi/(स्टाइमी)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "to stand as an obstacle;a thwarting and distressing situation ",
@@ -12769,7 +12769,7 @@
                 "id": "cs066",
                 "name": "Subjugate",
                 "sentence": "Is your goal to take away our freedom and subjugate us by military force?",
-                "pronounciation": "/ˈsʌbdʒʊɡeɪt/()",
+                "pronounciation": "/ˈsʌbdʒʊɡeɪt/(सब्जगेट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "bring under domination or control, esp. by conquest",
@@ -12781,7 +12781,7 @@
                 "id": "cs067",
                 "name": "Subpoena",
                 "sentence": "When the subpoena is issued, James will have no choice but to explain his actions in court.",
-                "pronounciation": "/səˈpiːnə/()",
+                "pronounciation": "/səˈpiːnə/(सपीन)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "a legal document requiring an individual to appear in court",
@@ -12793,7 +12793,7 @@
                 "id": "cs068",
                 "name": "Subservient",
                 "sentence": "The little boy usually became subservient in the presence of bullies.",
-                "pronounciation": "/səbˈsəːvɪənt/()",
+                "pronounciation": "/səbˈsəːvɪənt/(सब्सर्वीअन्ट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "abjectly submissive;characteristic of a slave or servant; obedient to authority",
@@ -12805,7 +12805,7 @@
                 "id": "cs069",
                 "name": "Subside",
                 "sentence": "I'll wait a few minutes until the storm subsides",
-                "pronounciation": "/səbˈsʌɪd/()",
+                "pronounciation": "/səbˈsʌɪd/(सब्साइड)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "become less intense, violent, or severe",
@@ -12817,7 +12817,7 @@
                 "id": "cs070",
                 "name": "Substantiate",
                 "sentence": "The nosey old lady was unable to substantiate the allegation her neighbors were drug dealers.",
-                "pronounciation": "/səbˈstanʃɪeɪt/()",
+                "pronounciation": "/səbˈstanʃɪeɪt/(सब्स्टैन्चीऐट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "to prove the truth of something",
@@ -12829,7 +12829,7 @@
                 "id": "cs071",
                 "name": "Subterfuge",
                 "sentence": "The prisoners resorted to subterfuge, tricking the guards into letting them out of their cells.",
-                "pronounciation": "/ˈsʌbtəfjuːdʒ/()",
+                "pronounciation": "/ˈsʌbtəfjuːdʒ/(सब्टर्फ्यूज)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "trickery or deceit used to manipulate or achieve one’s goals",
@@ -12841,7 +12841,7 @@
                 "id": "cs072",
                 "name": "Subterranean",
                 "sentence": "You can access the subterranean rail system by riding the escalator underground.",
-                "pronounciation": "/ˌsʌbtəˈreɪnɪən/()",
+                "pronounciation": "/ˌsʌbtəˈreɪnɪən/(सब्टरेनीअन)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "beneath the ground or surface",
@@ -12853,7 +12853,7 @@
                 "id": "cs073",
                 "name": "Succinct",
                 "sentence": "Because my students are easily bored, I have to be certain my lessons are succinct.",
-                "pronounciation": "/səkˈsɪŋ(k)t/()",
+                "pronounciation": "/səkˈsɪŋ(k)t/(सक्सिंगक्ट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "expressed in a clear but brief manner",
@@ -12865,7 +12865,7 @@
                 "id": "cs074",
                 "name": "Succulent",
                 "sentence": "The restaurant is famous for its succulent chocolate cake.",
-                "pronounciation": "/ˈsʌkjʊl(ə)nt/()",
+                "pronounciation": "/ˈsʌkjʊl(ə)nt/(सक्यलिन्ट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "having thick fleshy leaves or stems(of plant); delicious; tender, juicy and tasty",
@@ -12877,7 +12877,7 @@
                 "id": "cs075",
                 "name": "Succumb",
                 "sentence": "Although Jerry gave up smoking, there is always a chance he might succumb to his old habit",
-                "pronounciation": "/səˈkʌm/()",
+                "pronounciation": "/səˈkʌm/(सकम)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "to give up or give in",
@@ -12889,7 +12889,7 @@
                 "id": "cs076",
                 "name": "Sullen",
                 "sentence": "After being dumped by her boyfriend, Ellen was sullen for days.",
-                "pronounciation": "/ˈsʌlən/()",
+                "pronounciation": "/ˈsʌlən/(सलन)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "bad tempered and gloomy",
@@ -12901,7 +12901,7 @@
                 "id": "cs077",
                 "name": "Sultry",
                 "sentence": "With a broken air conditioner, the house was too sultry to stay in.",
-                "pronounciation": "/ˈsʌltri/()",
+                "pronounciation": "/ˈsʌltri/(सल्ट्री)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "hot and humid weather",
@@ -12911,9 +12911,9 @@
         },
         {
                 "id": "cs078",
-                "name": "Sumptuous",
+                "name": "सम्प्चूअस",
                 "sentence": "The sumptuous leather coat is sure to cost a great deal of money.",
-                "pronounciation": "/ˈsʌm(p)tjʊəs/()",
+                "pronounciation": "/ˈsʌm(p)tjʊəs/(सम्प्चूअस)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "splendid; of the best quality",
@@ -12925,7 +12925,7 @@
                 "id": "cs079",
                 "name": "Superficial",
                 "sentence": "The building suffered only superficial damage.",
-                "pronounciation": "/ˌsuːpəˈfɪʃ(ə)l/()",
+                "pronounciation": "/ˌsuːpəˈfɪʃ(ə)l/(सूपर्फिशल)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "concerned with only what is on the surface",
@@ -12937,7 +12937,7 @@
                 "id": "cs080",
                 "name": "Superfluous",
                 "sentence": "In the age of technology, sending letters by postal mail seems superfluous to me.",
-                "pronounciation": "/suːˈpəːflʊəs/()",
+                "pronounciation": "/suːˈpəːflʊəs/(सुपर्फ्लूअस)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "unnecessary; more than what is needed",
@@ -12949,7 +12949,7 @@
                 "id": "cs081",
                 "name": "Supersede",
                 "sentence": "The federal court decision will supersede the decision of the lower court.",
-                "pronounciation": "/ˌsuːpəˈsiːd/",
+                "pronounciation": "/ˌsuːpəˈsiːd/(सूपर्सीड)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "to replace someone or something; supplant",
@@ -12961,7 +12961,7 @@
                 "id": "cs082",
                 "name": "Supine",
                 "sentence": "During back massages, most clients recline face down instead of supine.",
-                "pronounciation": "/ˈs(j)uːpʌɪn/()",
+                "pronounciation": "/ˈs(j)uːpʌɪn/(सपाइन)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "lying face upward",
@@ -12973,7 +12973,7 @@
                 "id": "cs083",
                 "name": "Supplication",
                 "sentence": "Bill made a supplication for a miracle as the gunman held a weapon to his head.",
-                "pronounciation": "/ˌsʌplɪˈkeɪʃn/()",
+                "pronounciation": "/ˌsʌplɪˈkeɪʃn/(सुप्प्लिकेशन)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "a plea made to a higher power",
@@ -12985,7 +12985,7 @@
                 "id": "cs084",
                 "name": "Supposition",
                 "sentence": "The racist man formed a negative supposition about his new neighbors because of their ethnicity.",
-                "pronounciation": "/ˌsʌpəˈzɪʃ(ə)n/()",
+                "pronounciation": "/ˌsʌpəˈzɪʃ(ə)n/(सपज़िशन)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "something that is assumed; a suspicion of sorts",
@@ -12997,7 +12997,7 @@
                 "id": "cs085",
                 "name": "Surfeit",
                 "sentence": "Janet made use of the surfeit of holiday lights by decorating all the trees in her front yard.",
-                "pronounciation": "/ˈsəːfɪt/()",
+                "pronounciation": "/ˈsəːfɪt/(सर्फट)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "an overabundant supply; eating until excessively full",
@@ -13009,7 +13009,7 @@
                 "id": "cs086",
                 "name": "Surge",
                 "sentence": "Due to an unexpected surge in temperatures, we will move the graduation party indoors.",
-                "pronounciation": "/səːdʒ/()",
+                "pronounciation": "/səːdʒ/(सर्ज)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "a sudden increase",
@@ -13021,7 +13021,7 @@
                 "id": "cs087",
                 "name": "Surmise",
                 "sentence": "Since Bob and Mary are both book addicts, we jokingly surmise the couple met in a library.",
-                "pronounciation": "/səˈmʌɪz/()",
+                "pronounciation": "/səˈmʌɪz/(सर्माइज़)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "to guess that something is true without having evidence to confirm it",
@@ -13033,7 +13033,7 @@
                 "id": "cs088",
                 "name": "Surreptitious",
                 "sentence": "Your surreptitious drug habits will not stay unknown for long.",
-                "pronounciation": "/ˌsʌrəpˈtɪʃəs/()",
+                "pronounciation": "/ˌsʌrəpˈtɪʃəs/(सरप्टिशस)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "kept secret and marked by quiet and caution",
@@ -13045,7 +13045,7 @@
                 "id": "cs089",
                 "name": "Susceptible",
                 "sentence": "Because James smoked for over 20 years, he is extremely susceptible to respiratory illnesses. ",
-                "pronounciation": "/səˈsɛptɪb(ə)l/()",
+                "pronounciation": "/səˈsɛptɪb(ə)l/(ससेप्टबल)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "vulnerable to an influence; easily influenced by feelings",
@@ -13057,7 +13057,7 @@
                 "id": "cs090",
                 "name": "Symptomatic",
                 "sentence": "Although he managed a C, his slipping grades were symptomatic of a much bigger problem.",
-                "pronounciation": "/sɪm(p)təˈmatɪk/()",
+                "pronounciation": "/sɪm(p)təˈmatɪk/(सिम्प्टमैटिक)",
                 "alphabet" : "S",
                 "phone": {
                     "meaning": "showing symptoms",
@@ -13069,7 +13069,7 @@
                 "id": "ct001",
                 "name": "Taboo",
                 "sentence": "In Jim Bob’s opinion, interracial marriage is taboo because race mixing is a sin.",
-                "pronounciation": "/təˈbuː/()",
+                "pronounciation": "/təˈbuː/(टैबू)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "considered inappropriate because of societal beliefs or emotional dislikes",
@@ -13081,7 +13081,7 @@
                 "id": "ct002",
                 "name": "Tacit",
                 "sentence": "By leaving my keys in my car, I am giving you tacit approval to borrow my car anytime you like.",
-                "pronounciation": "/ˈtasɪt/()",
+                "pronounciation": "/ˈtasɪt/(टैसिट)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "understood or implied without being stated",
@@ -13093,7 +13093,7 @@
                 "id": "ct003",
                 "name": "Taint",
                 "sentence": "A ruptured pipe in the city can taint the entire water supply.",
-                "pronounciation": "/teɪnt/()",
+                "pronounciation": "/teɪnt/(टेन्ट)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "to contaminate or pollute something",
@@ -13105,7 +13105,7 @@
                 "id": "ct004",
                 "name": "Tangential",
                 "sentence": "Although Alan owned a part of the basketball team, he had only a tangential interest in the sport.",
-                "pronounciation": "/tanˈdʒɛnʃ(ə)l/()",
+                "pronounciation": "/tanˈdʒɛnʃ(ə)l/(टैन्जेन्चल)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "not directly related to something,diverging from a previous course or line",
@@ -13117,7 +13117,7 @@
                 "id": "ct005",
                 "name": "Tangible",
                 "sentence": "Because the house is a tangible asset, its value must be listed on your income tax return.",
-                "pronounciation": "/ˈtan(d)ʒɪb(ə)l/()",
+                "pronounciation": "/ˈtan(d)ʒɪb(ə)l/(टैन्जबल)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "capable of being touched",
@@ -13129,7 +13129,7 @@
                 "id": "ct006",
                 "name": "Tantalizing",
                 "sentence": "When Jim looked at the tantalizing menu, he suddenly became hungry.",
-                "pronounciation": "/ˈtantəlʌɪzɪŋ/()",
+                "pronounciation": "/ˈtantəlʌɪzɪŋ/(टैन्टलाइज़िंग)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "displaying something that arouses desire or interest",
@@ -13141,7 +13141,7 @@
                 "id": "ct007",
                 "name": "Tantamount",
                 "sentence": "Taking money from your mother's purse without asking her first is tantamount to stealing.",
-                "pronounciation": "/ˈtantəmaʊnt/()",
+                "pronounciation": "/ˈtantəmaʊnt/(टैन्टमाउन्ट)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "equivalent in seriousness to; virtually the same as",
@@ -13153,7 +13153,7 @@
                 "id": "ct008",
                 "name": "Taut",
                 "sentence": "As I waited for the results of my lab tests, I was taut with anxiety.",
-                "pronounciation": "/tɔːt/()",
+                "pronounciation": "/tɔːt/(टॉट)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "stressed to the point of being nervous",
@@ -13165,7 +13165,7 @@
                 "id": "ct009",
                 "name": "Technology",
                 "sentence": "Modern agriculture depends heavily on engineering and technology.",
-                "pronounciation": "/tɛkˈnɒlədʒi/()",
+                "pronounciation": "/tɛkˈnɒlədʒi/(टेक्नालजी)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "using scientific ideas for practical purposes, specifically in solving industry problems",
@@ -13175,9 +13175,9 @@
         },
         {
                 "id": "ct010",
-                "name": "Temerity",
+                "name": "टमेरटी",
                 "sentence": "Misbehaved children have the temerity to challenge rules.",
-                "pronounciation": "/tɪˈmɛrɪti/()",
+                "pronounciation": "/tɪˈmɛrɪti/(टमेरटी)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "excessive confidence or boldness; audacity",
@@ -13189,7 +13189,7 @@
                 "id": "ct011",
                 "name": "Tenable",
                 "sentence": "During the battle, we were fortunate to be safe behind a tenable castle wall.",
-                "pronounciation": "/ˈtɛnəb(ə)l/()",
+                "pronounciation": "/ˈtɛnəb(ə)l/(टेनबल)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "cable to be protected or maintained",
@@ -13201,7 +13201,7 @@
                 "id": "ct012",
                 "name": "Tenacious",
                 "sentence": "Because Eva was tenacious, she rose each time she fell.",
-                "pronounciation": "/tɪˈneɪʃəs/()",
+                "pronounciation": "/tɪˈneɪʃəs/(टनेशस)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "not readily letting go of or giving up",
@@ -13213,7 +13213,7 @@
                 "id": "ct013",
                 "name": "Tenuous",
                 "sentence": "Although the frozen lake was quite tenuous and unstable, Henry still decided to cross it on foot.",
-                "pronounciation": "/ˈtɛnjʊəs/()",
+                "pronounciation": "/ˈtɛnjʊəs/(टेन्यवस)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "weak and likely to change; having little substance or strength",
@@ -13225,7 +13225,7 @@
                 "id": "ct014",
                 "name": "Terminate",
                 "sentence": "To save the mother, the doctors must terminate the life of the unborn child.",
-                "pronounciation": "/ˈtəːmɪneɪt/()",
+                "pronounciation": "/ˈtəːmɪneɪt/(टर्मनेट)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "to bring something to a close or end",
@@ -13237,7 +13237,7 @@
                 "id": "ct015",
                 "name": "Terminus",
                 "sentence": "The river terminus is close to the park, causing flooding from time to time.",
-                "pronounciation": "/ˈtəːmɪnəs/()",
+                "pronounciation": "/ˈtəːmɪnəs/(टर्मनस)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "the end or final point of something",
@@ -13249,7 +13249,7 @@
                 "id": "ct016",
                 "name": "Terse",
                 "sentence": "When Jessie is angry, she only gives terse responses.",
-                "pronounciation": "/təːs/()",
+                "pronounciation": "/təːs/(टर्स)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "a very short statement or remark",
@@ -13261,7 +13261,7 @@
                 "id": "ct017",
                 "name": "Therapy",
                 "sentence": "Physical therapy was needed since the man hurt his lower back when he fell off his ladder.",
-                "pronounciation": "/ˈθɛrəpi/()",
+                "pronounciation": "/ˈθɛrəpi/(थेरपी)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "remedy or help to mend an ailment or condition",
@@ -13273,7 +13273,7 @@
                 "id": "ct018",
                 "name": "Throng",
                 "sentence": "When the game ended, a throng of fans carried some of the winning players off the field.",
-                "pronounciation": "/θrɒŋ/()",
+                "pronounciation": "/θrɒŋ/(थ्रॉंग)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "a large cluster of individuals",
@@ -13285,7 +13285,7 @@
                 "id": "ct019",
                 "name": "Thwart",
                 "sentence": "The government is determined to thwart any attempt at disturbing our communal peace and harmony.",
-                "pronounciation": "/θwɔːt/()",
+                "pronounciation": "/θwɔːt/(ट्वॉर्ट)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "to hinder or stop something from happening",
@@ -13297,7 +13297,7 @@
                 "id": "ct020",
                 "name": "Timorous",
                 "sentence": "During the storm, the timorous little boy would not come out of his closet.",
-                "pronounciation": "/ˈtɪm(ə)rəs/()",
+                "pronounciation": "/ˈtɪm(ə)rəs/(टिमरस)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "showing or suffering from nervousness or a lack of confidence; frightened",
@@ -13309,7 +13309,7 @@
                 "id": "ct021",
                 "name": "Tinge",
                 "sentence": "Reading the essay became less of a chore when I realized it contained a tinge of humor.;The sadness tinged his life. ",
-                "pronounciation": "/tɪn(d)ʒ/()",
+                "pronounciation": "/tɪn(d)ʒ/(टिंग)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "a small but noticeable amount; a trace of a colour",
@@ -13333,7 +13333,7 @@
                 "id": "ct023",
                 "name": "Tolerate",
                 "sentence": "How could she tolerate such a terrible noise?",
-                "pronounciation": "/ˈtɒləreɪt/()",
+                "pronounciation": "/ˈtɒləreɪt/(टालरेट)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "to put up with or withstand; allow the existence, occurrence of",
@@ -13345,7 +13345,7 @@
                 "id": "ct024",
                 "name": "Torpor",
                 "sentence": "After overeating on Christmas, I fell into a satisfied torpor.",
-                "pronounciation": "/ˈtɔːpə/()",
+                "pronounciation": "/ˈtɔːpə/(टॉर्पर)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "the state of being motionless or inactive",
@@ -13357,7 +13357,7 @@
                 "id": "ct025",
                 "name": "Tortuous",
                 "sentence": "After being in the rain, his tortuous hair looked like a big frizz ball.",
-                "pronounciation": "/ˈtɔːtʃʊəs,ˈtɔːtjʊəs/()",
+                "pronounciation": "/ˈtɔːtʃʊəs,ˈtɔːtjʊəs/(टॉर्चवस)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "containing coils, turns and curves; excessively lengthy and complex",
@@ -13369,7 +13369,7 @@
                 "id": "ct026",
                 "name": "Tractable",
                 "sentence": "If the project becomes too large, it will no longer be tractable by a single manager.",
-                "pronounciation": "/ˈtraktəb(ə)l/()",
+                "pronounciation": "/ˈtraktəb(ə)l/(ट्रैक्टबल)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "controlled or directed with ease",
@@ -13381,7 +13381,7 @@
                 "id": "ct027",
                 "name": "Tradition",
                 "sentence": "A folk song is inherited and perpetuated by oral tradition from one generation to another.",
-                "pronounciation": "/trəˈdɪʃ(ə)n/()",
+                "pronounciation": "/trəˈdɪʃ(ə)n/(ट्रडिशन)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "a cultural custom, ritual, or practice",
@@ -13393,7 +13393,7 @@
                 "id": "ct028",
                 "name": "Tranquil",
                 "sentence": "Since we were the only ones on the beach, we enjoyed a tranquil day.",
-                "pronounciation": "/ˈtraŋkwɪl/()",
+                "pronounciation": "/ˈtraŋkwɪl/(ट्रैंगक्वल)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "relaxed; peaceful",
@@ -13405,7 +13405,7 @@
                 "id": "ct029",
                 "name": "Transgression",
                 "sentence": "The judge will decide the penalty for my transgression.",
-                "pronounciation": "/trɑːnsˈɡrɛʃn,tranzˈɡrɛʃn/()",
+                "pronounciation": "/trɑːnsˈɡrɛʃn,tranzˈɡrɛʃn/(ट्रैन्ज़्ग्रेशन)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "an act that goes against a law; violation of a duty, law, or moral principle",
@@ -13417,7 +13417,7 @@
                 "id": "ct030",
                 "name": "Transient",
                 "sentence": "The snow is transient and will melt as soon as the sun appears.",
-                "pronounciation": "/ˈtranzɪənt/()",
+                "pronounciation": "/ˈtranzɪənt/(ट्रैन्शन्ट)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "lasting only for a short time; impermanent",
@@ -13429,7 +13429,7 @@
                 "id": "ct031",
                 "name": "Tremulous",
                 "sentence": "Her voice was weak and tremulous, but the audience clapped politely when she finished the aria.",
-                "pronounciation": "/ˈtrɛmjʊləs/()",
+                "pronounciation": "/ˈtrɛmjʊləs/(ट्रेम्यलस)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "shaking or quivering; nervous",
@@ -13441,7 +13441,7 @@
                 "id": "ct032",
                 "name": "Trenchant",
                 "sentence": "Sometimes your tone of voice is so trenchant that you come across as being a mean person.",
-                "pronounciation": "/ˈtrɛn(t)ʃ(ə)nt/()",
+                "pronounciation": "/ˈtrɛn(t)ʃ(ə)nt/(ट्रेन्चन्ट)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "sharp or cutting; characterized by or full of force and vigor",
@@ -13453,7 +13453,7 @@
                 "id": "ct033",
                 "name": "Trend",
                 "sentence": "When Twilight came out in theaters, vampire books were the biggest trend in the book industry.",
-                "pronounciation": "/trɛnd/()",
+                "pronounciation": "/trɛnd/(ट्रेन्ड)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "a general direction in which something is developing; fashion; change direction abruptly",
@@ -13465,7 +13465,7 @@
                 "id": "ct034",
                 "name": "Trivial",
                 "sentence": "Although the role seems trivial at first, a good actor can use it to create a huge impact.",
-                "pronounciation": "/ˈtrɪvɪəl/()",
+                "pronounciation": "/ˈtrɪvɪəl/(ट्रिवीअल)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "of little significance or value",
@@ -13477,7 +13477,7 @@
                 "id": "ct035",
                 "name": "Truculent",
                 "sentence": "The aggressive man’s truculence caused him to be arrested and jailed for disorderly conduct.",
-                "pronounciation": " /ˈtrʌk.jə.lənt/()",
+                "pronounciation": " /ˈtrʌk.jə.lənt/(ट्रक्यलन्ट)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "aggressively forceful and hostile behavior",
@@ -13489,7 +13489,7 @@
                 "id": "ct036",
                 "name": "Truncated",
                 "sentence": "Jill truncated her presentation so it would not exceed five minutes.",
-                "pronounciation": "/trʌŋˈkeɪ.tɪd/()",
+                "pronounciation": "/trʌŋˈkeɪ.tɪd/(ट्रंगकेटिड)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "to reduce the length of an item by clipping it;",
@@ -13501,7 +13501,7 @@
                 "id": "ct037",
                 "name": "Turbulent",
                 "sentence": "After my parent’s turbulent marriage came to an end, we finally had peace in our house.",
-                "pronounciation": "/ˈtəːbjʊl(ə)nt/()",
+                "pronounciation": "/ˈtəːbjʊl(ə)nt/(टर्ब्यलन्ट)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "characterized by conflict, disorder, or confusion; not stable or calm",
@@ -13513,7 +13513,7 @@
                 "id": "ct038",
                 "name": "Turpitude",
                 "sentence": "The criminal was sentenced to life in prison for the acts of turpitude he committed. ",
-                "pronounciation": "/ˈtəːpɪtjuːd/()",
+                "pronounciation": "/ˈtəːpɪtjuːd/(टर्पिटूड)",
                 "alphabet" : "T",
                 "phone": {
                     "meaning": "a corrupt, depraved or wicked behaviour/character",
@@ -13525,7 +13525,7 @@
                 "id": "cu001",
                 "name": "Ubiquitous",
                 "sentence": "In new Bollywood movies, group dances have become ubiquitous.",
-                "pronounciation": "/juːˈbɪkwɪtəs/()",
+                "pronounciation": "/juːˈbɪkwɪtəs/(यूबिक्विटस)",
                 "alphabet" : "U",
                 "phone": {
                     "meaning": "present, appearing, or found everywhere",
@@ -13537,7 +13537,7 @@
                 "id": "cu002",
                 "name": "Ultimate",
                 "sentence": "The scholar’s ultimate goal was to get his research published in a medical journal.",
-                "pronounciation": "/ˈʌltɪmət/()",
+                "pronounciation": "/ˈʌltɪmət/(अल्टमिट)",
                 "alphabet" : "U",
                 "phone": {
                     "meaning": "the best achievable; furthest or highest in degree or order; utmost or extreme",
@@ -13549,7 +13549,7 @@
                 "id": "cu003",
                 "name": "Umbrage",
                 "sentence": "Please help students rather than giving them umbrage for not knowing the answer.",
-                "pronounciation": "/ˈʌmbrɪdʒ/()",
+                "pronounciation": "/ˈʌmbrɪdʒ/(अम्ब्रिज)",
                 "alphabet" : "U",
                 "phone": {
                     "meaning": "to take offense; to find offensive",
@@ -13561,7 +13561,7 @@
                 "id": "cu004",
                 "name": "Unconscionable",
                 "sentence": "Allowing blind people the right to drive is not only foolish, but it is unconscionable.",
-                "pronounciation": "/ʌnˈkɒnʃ(ə)nəb(ə)l/()",
+                "pronounciation": "/ʌnˈkɒnʃ(ə)nəb(ə)l/(अन्कान्शनबल)",
                 "alphabet" : "U",
                 "phone": {
                     "meaning": "not right or unreasonable",
@@ -13573,7 +13573,7 @@
                 "id": "cu005",
                 "name": "Unctuous",
                 "sentence": "Because she wanted to borrow his car, Sarah gave her father unctuous praise.",
-                "pronounciation": "/ˈʌŋ(k)tjʊəs/()",
+                "pronounciation": "/ˈʌŋ(k)tjʊəs/(अंगक्चूअस)",
                 "alphabet" : "U",
                 "phone": {
                     "meaning": "not expressing true feelings; pretending to display true feelings; excessively flattering",
@@ -13585,7 +13585,7 @@
                 "id": "cu006",
                 "name": "Undermine",
                 "sentence": "To undermine her opponent’s confidence, she started shouting a war whoop in each ball serving.",
-                "pronounciation": "/ʌndəˈmʌɪn/()",
+                "pronounciation": "/ʌndəˈmʌɪn/(अन्डर्माइन)",
                 "alphabet" : "U",
                 "phone": {
                     "meaning": "to weaken, hinder, sabotage",
@@ -13597,7 +13597,7 @@
                 "id": "cu007",
                 "name": "Universal",
                 "sentence": "The universal remote is said to work for any kind of television set.",
-                "pronounciation": "/juːnɪˈvəːs(ə)l/()",
+                "pronounciation": "/juːnɪˈvəːs(ə)l/(यूनवर्सल)",
                 "alphabet" : "U",
                 "phone": {
                     "meaning": "relating to everyone in the world; applicable to all cases.",
@@ -13609,7 +13609,7 @@
                 "id": "cu008",
                 "name": "Unkempt",
                 "sentence": "Excessive littering has turned this once clean soccer park into an unkempt field.",
-                "pronounciation": "Unkempt",
+                "pronounciation": "/ʌnˈkɛm(p)t/(अन्केम्प्ट)",
                 "alphabet" : "U",
                 "phone": {
                     "meaning": "not clean or tidy",
@@ -13621,7 +13621,7 @@
                 "id": "cu009",
                 "name": "Unmitigated",
                 "sentence": "The plane crash was an unmitigated catastrophe that ended the lives of nearly 200 people.",
-                "pronounciation": "/ʌnˈmɪtɪɡeɪtɪd/()",
+                "pronounciation": "/ʌnˈmɪtɪɡeɪtɪd/(अन्मिटगेटिड)",
                 "alphabet" : "U",
                 "phone": {
                     "meaning": "in its entirety; complete; not diminished or moderated in intensity",
@@ -13633,12 +13633,10 @@
                 "id": "cu010",
                 "name": "Unsavory",
                 "sentence": "Brown and lumpy, the porridge looked unsavory but the taste was quite delectable.",
-                "pronounciation": "/ʌnˈseɪv(ə)ri/()",
+                "pronounciation": "/ʌnˈseɪv(ə)ri/(अन्सेवरी)",
                 "alphabet" : "U",
                 "phone": {
-                    "meaning": "unpleasant to smell or taste
-
-",
+                    "meaning": "unpleasant to smell or taste",
                     "home": "घृणित; बेस्वाद",
                     "synonym": "unpalatable, unappetizing, unpleasant, distasteful"
                 }
@@ -13647,7 +13645,7 @@
                 "id": "cu011",
                 "name": "Unwieldy",
                 "sentence": "The SUV is so unwieldy I cannot properly steer it on the tiny dirt road.",
-                "pronounciation": "/ʌnˈwiːldi/()",
+                "pronounciation": "/ʌnˈwiːldi/(अन्वील्डी)",
                 "alphabet" : "U",
                 "phone": {
                     "meaning": "hard to relocate because of its size",
@@ -13659,7 +13657,7 @@
                 "id": "cu012",
                 "name": "Urbane",
                 "sentence": "When Marsha goes to bars, she often smokes fancy cigarettes to make herself appear urbane.",
-                "pronounciation": "/əːˈbeɪn/()",
+                "pronounciation": "/əːˈbeɪn/(अर्बेन)",
                 "alphabet" : "U",
                 "phone": {
                     "meaning": "marked by sophistication; (person) courteous and refined in manner.",
@@ -13671,7 +13669,7 @@
                 "id": "cu013",
                 "name": "Usurp",
                 "sentence": "Is your ambition driving you to usurp your boss?",
-                "pronounciation": "/jʊˈzəːp/()",
+                "pronounciation": "/jʊˈzəːp/(यूसर्प)",
                 "alphabet" : "U",
                 "phone": {
                     "meaning": "to take over; to seize or use something without authority",
@@ -13683,7 +13681,7 @@
                 "id": "cu014",
                 "name": "Utopia",
                 "sentence": "This world is not a utopia because it contains too much crime and starvation.",
-                "pronounciation": "/juːˈtəʊpɪə/()",
+                "pronounciation": "/juːˈtəʊpɪə/(युटोपीअ)",
                 "alphabet" : "U",
                 "phone": {
                     "meaning": "an imagined place or state of things in which everything is perfect.",
@@ -13695,7 +13693,7 @@
                 "id": "cv001",
                 "name": "Vacillate",
                 "sentence": "Sally is beginning to vacillate about whether or not she wants to get married on Christmas Day.",
-                "pronounciation": "/ˈvasɪleɪt/()",
+                "pronounciation": "/ˈvasɪleɪt/(वैसलेट)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "to waver between different opinions or actions; be indecisive",
@@ -13707,7 +13705,7 @@
                 "id": "cv002",
                 "name": "Valor",
                 "sentence": "The soldier’s valor earned him a medal of honor.",
-                "pronounciation": "/ˈvalə/()",
+                "pronounciation": "/ˈvalə/(वैलर)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "courage in the presence of danger",
@@ -13719,7 +13717,7 @@
                 "id": "cv003",
                 "name": "Vapid",
                 "sentence": "To me, baseball is a vapid sport that quickly puts me to sleep.",
-                "pronounciation": "/ˈvapɪd/()",
+                "pronounciation": "/ˈvapɪd/(वैपिड)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "lacking liveliness; dull",
@@ -13731,7 +13729,7 @@
                 "id": "cv004",
                 "name": "Vehemently",
                 "sentence": "The scorned young woman vehemently rejected her ex-boyfriend’s pleas to forgive him.",
-                "pronounciation": "/ˈviːəməntli/()",
+                "pronounciation": "/ˈviːəməntli/(वीअमन्ट्ली)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "to do something forcefully and often passionately",
@@ -13743,7 +13741,7 @@
                 "id": "cv005",
                 "name": "Veneer",
                 "sentence": "Marcia wears a veneer of friendliness while trying to backstab everyone in the office.",
-                "pronounciation": "/vɪˈnɪə/()",
+                "pronounciation": "/vɪˈnɪə/(वनिर)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "a pleasant appearance that hides the truth",
@@ -13755,7 +13753,7 @@
                 "id": "cv006",
                 "name": "Venerable",
                 "sentence": "The Pope is a venerable leader who is recognized for his commitment to helping others.",
-                "pronounciation": "/ˈvɛn(ə)rəb(ə)l/()",
+                "pronounciation": "/ˈvɛn(ə)rəb(ə)l/(वेनरबल)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "worthy of respect because of age, position, or dignity",
@@ -13767,7 +13765,7 @@
                 "id": "cv007",
                 "name": "Venerate",
                 "sentence": "The Bible says we should venerate our parents and our elders.",
-                "pronounciation": "/ˈvɛnəreɪt/()",
+                "pronounciation": "/ˈvɛnəreɪt/(वेनरेट)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "regard with great respect; revere.",
@@ -13777,9 +13775,9 @@
         },
         {
                 "id": "cv008",
-                "name": "Venial",
+                "name": "वीनीअल",
                 "sentence": "The teacher did not take off points for the venial errors in my paper.",
-                "pronounciation": "/ˈviːnɪəl/()",
+                "pronounciation": "/ˈviːnɪəl/(वीनीअल)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "capable of being excused; warranting only temporal punishment",
@@ -13791,7 +13789,7 @@
                 "id": "cv009",
                 "name": "Venom",
                 "sentence": "The scorpion stores venom in its tail and releases the powerful poison when it stings.",
-                "pronounciation": "/ˈvɛnəm/()",
+                "pronounciation": "/ˈvɛnəm/(वेनम)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "toxin secreted by animals;feeling a need to see others suffer",
@@ -13803,7 +13801,7 @@
                 "id": "cv010",
                 "name": "Veracious",
                 "sentence": "“Honest” Abraham Lincoln was known as a veracious president who stood for truth.",
-                "pronounciation": "/vəˈreɪʃəs/()",
+                "pronounciation": "/vəˈreɪʃəs/(वरेशस)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "honest; always truthful",
@@ -13815,7 +13813,7 @@
                 "id": "cv011",
                 "name": "Verbose",
                 "sentence": "The verbose man took thirty minutes to give me a simple answer.",
-                "pronounciation": "/vəːˈbəʊs/()",
+                "pronounciation": "/vəːˈbəʊs/(वर्बोस)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "described as using an excessive amount of words",
@@ -13827,7 +13825,7 @@
                 "id": "cv012",
                 "name": "Vertigo",
                 "sentence": "Because Kate suffers from vertigo, it is difficult for her to walk in a straight line.",
-                "pronounciation": "/ˈvəːtɪɡəʊ/()",
+                "pronounciation": "/ˈvəːtɪɡəʊ/(वर्टिगो)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "a reeling sensation; a feeling that you are about to fall",
@@ -13839,7 +13837,7 @@
                 "id": "cv013",
                 "name": "Vestige",
                 "sentence": "After the huge fire, only a vestige of the house remained visible among the ashes.",
-                "pronounciation": "/ˈvɛstɪdʒ/()",
+                "pronounciation": "/ˈvɛstɪdʒ/(वेस्टिज)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "the last small part of something that existed before",
@@ -13851,7 +13849,7 @@
                 "id": "cv014",
                 "name": "Vexatious",
                 "sentence": "Vexatious security checks annoyed the who wanted to get to their destination quickly.",
-                "pronounciation": "/vɛkˈseɪʃəs/()",
+                "pronounciation": "/vɛkˈseɪʃəs/(वेक्सेशस)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "annoying; irritating",
@@ -13863,7 +13861,7 @@
                 "id": "cv015",
                 "name": "Viable",
                 "sentence": "Once upon a time, solar power was not viewed as a viable energy source.",
-                "pronounciation": "/ˈvʌɪəb(ə)l/()",
+                "pronounciation": "/ˈvʌɪəb(ə)l/(वाइअबल)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "having the possibility of being achieved or developed",
@@ -13875,7 +13873,7 @@
                 "id": "cv016",
                 "name": "Vigil",
                 "sentence": "The farmer has to keep a vigil and adopt control measures as and when necessary.",
-                "pronounciation": "/ˈvɪdʒɪl/()",
+                "pronounciation": "/ˈvɪdʒɪl/(विजल)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "a period of keeping awake during the time usually spent asleep, especially to keep watch or pray.",
@@ -13887,7 +13885,7 @@
                 "id": "cv017",
                 "name": "Vigilant",
                 "sentence": "All local and other authorities are directed to be vigilant during the protest march.",
-                "pronounciation": "/ˈvɪdʒɪl(ə)nt/()",
+                "pronounciation": "/ˈvɪdʒɪl(ə)nt/(विजलन्ट)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "watchful, especially for danger or disorder",
@@ -13899,7 +13897,7 @@
                 "id": "cv018",
                 "name": "Vilify",
                 "sentence": "The old man is only babbling--don't pay attention",
-                "pronounciation": "/ˈvɪlɪfʌɪ/()",
+                "pronounciation": "/ˈvɪlɪfʌɪ/(विलफाइ)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "to utter slanderous and abusive statements against",
@@ -13911,7 +13909,7 @@
                 "id": "cv019",
                 "name": "Vindicate",
                 "sentence": "Don’t even try to use your charm and good looks to vindicate your obnoxious behavior last night. ",
-                "pronounciation": "/ˈvɪndɪkeɪt/()",
+                "pronounciation": "/ˈvɪndɪkeɪt/(विन्डकेट)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "to clear (someone) from an accusation, suspicion or criticism of blame.",
@@ -13923,7 +13921,7 @@
                 "id": "cv020",
                 "name": "Virile",
                 "sentence": "Throughout his long career, the virile weightlifter won numerous championships.",
-                "pronounciation": "/ˈvɪrʌɪl/()",
+                "pronounciation": "/ˈvɪrʌɪl/(विरल)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "(of a man) having strength, energy, and a strong sex drive.",
@@ -13935,7 +13933,7 @@
                 "id": "cv021",
                 "name": "Virtuosity",
                 "sentence": "The talented singer’s virtuosity landed her a spot at the famed Apollo Theater.",
-                "pronounciation": "/ˌvəːtʃʊˈɒsɪti/()",
+                "pronounciation": "/ˌvəːtʃʊˈɒsɪti/(वर्चवासटी)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "great skill in music or another artform",
@@ -13947,7 +13945,7 @@
                 "id": "cv022",
                 "name": "Virulent",
                 "sentence": "The firemen had to wear masks that would protect them from the virulent fumes.",
-                "pronounciation": "/ˈvɪrʊl(ə)nt/()",
+                "pronounciation": "/ˈvɪrʊl(ə)nt/(विरलन्ट)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "bitterly hostile;extremely deadly and usually spreading very quickly",
@@ -13959,7 +13957,7 @@
                 "id": "cv023",
                 "name": "Viscous",
                 "sentence": "It seemed to take forever for the viscous cough medicine to come out of the bottle.",
-                "pronounciation": "/ˈvɪskəs/()",
+                "pronounciation": "/ˈvɪskəs/(विस्कस)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "having the characteristics of being sticky and/or thick and slow to move",
@@ -13971,7 +13969,7 @@
                 "id": "cv024",
                 "name": "Vitiate",
                 "sentence": "Development programmes have been vitiated by the rise in population.",
-                "pronounciation": "/ˈvɪʃɪeɪt/()",
+                "pronounciation": "/ˈvɪʃɪeɪt/(विशीएट)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "to spoil, make faulty; to reduce the value, quality, or effectiveness of something",
@@ -13983,7 +13981,7 @@
                 "id": "cv025",
                 "name": "Vitriolic",
                 "sentence": "World War II was one of the most vitriolic wars of all time, killing over 50 million worldwide.",
-                "pronounciation": "/ˌvɪtrɪˈɒlɪk/()",
+                "pronounciation": "/ˌvɪtrɪˈɒlɪk/(विट्रीआलिक)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "harsh or corrosive in tone",
@@ -13995,7 +13993,7 @@
                 "id": "cv026",
                 "name": "Vituperative adj.",
                 "sentence": "We cannot be friends if you continue to attack me with vituperative words.",
-                "pronounciation": "/vɪˈtjuːp(ə)rətɪv/()",
+                "pronounciation": "/vɪˈtjuːp(ə)rətɪv/(वाइटूपरटिव)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "bitter and abusive;marked by harshly abusive criticism",
@@ -14007,7 +14005,7 @@
                 "id": "cv027",
                 "name": "Vivacious",
                 "sentence": "The young man drew attention as he entered the party due to his vivacious personality.",
-                "pronounciation": "/vɪˈveɪʃəs,vʌɪˈveɪʃəs/()",
+                "pronounciation": "/vɪˈveɪʃəs,vʌɪˈveɪʃəs/(ववैशस)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "to be bubbly and energetic;attractively lively",
@@ -14019,7 +14017,7 @@
                 "id": "cv028",
                 "name": "Vogue",
                 "sentence": "The vogue is to make realistic films.",
-                "pronounciation": "/vəʊɡ/()",
+                "pronounciation": "/vəʊɡ/(वोग)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "a trend or largely admired fad; the prevailing fashion or style at a particular time",
@@ -14031,7 +14029,7 @@
                 "id": "cv029",
                 "name": "Volatile",
                 "sentence": "Because Mary and Frank have a volatile relationship, they often argue.",
-                "pronounciation": "/ˈvɒlətʌɪl/()",
+                "pronounciation": "/ˈvɒlətʌɪl/(वालटल)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "tending to erupt in violence; easily aroused",
@@ -14043,7 +14041,7 @@
                 "id": "cv030",
                 "name": "Volition",
                 "sentence": "Despite my parents' preference, I've decided to attend an out-of-state college on my own volition.",
-                "pronounciation": "/vəˈlɪʃ(ə)n/()",
+                "pronounciation": "/vəˈlɪʃ(ə)n/(वोलिशन)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "the power to make your own decisions or choices",
@@ -14055,7 +14053,7 @@
                 "id": "cv031",
                 "name": "Voluminous",
                 "sentence": "The voluminous dress seemed to swallow the tiny dancer’s petite frame.",
-                "pronounciation": "/vəˈljuːmɪnəs/()",
+                "pronounciation": "/vəˈljuːmɪnəs/(वलूमनस)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "large in volume or bulk;very lengthy and detailed;very loose or full",
@@ -14067,7 +14065,7 @@
                 "id": "cv032",
                 "name": "Voracious",
                 "sentence": "Since I am a voracious reader, I often read two or three books a day.",
-                "pronounciation": "/vəˈreɪʃəs/()",
+                "pronounciation": "/vəˈreɪʃəs/(वॉरैशस)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "having a large appetite; greedy; engaging in an activity with great eagerness or enthusiasm",
@@ -14079,7 +14077,7 @@
                 "id": "cv033",
                 "name": "Vulnerable",
                 "sentence": "The poorly built castle was vulnerable to attack.",
-                "pronounciation": "/ˈvʌln(ə)rəb(ə)l/()",
+                "pronounciation": "/ˈvʌln(ə)rəb(ə)l/(वल्नरबल)",
                 "alphabet" : "V",
                 "phone": {
                     "meaning": "exposed or in a position that cannot be completely defended; capable of being wounded or hurt",
@@ -14091,7 +14089,7 @@
                 "id": "cw001",
                 "name": "Wan",
                 "sentence": "Bill’s parents thought he was abusing drugs because of his wan complexion.",
-                "pronounciation": "/wɒn/()",
+                "pronounciation": "/wɒn/(वान)",
                 "alphabet" : "W",
                 "phone": {
                     "meaning": "weak or pale in quality or appearance",
@@ -14103,7 +14101,7 @@
                 "id": "cw002",
                 "name": "Wane",
                 "sentence": "John asked his wife for a divorce when his feelings for her started to wane.",
-                "pronounciation": "/weɪn/()",
+                "pronounciation": "/weɪn/(वेन)",
                 "alphabet" : "W",
                 "phone": {
                     "meaning": "a gradual decline (in size or strength or power or number)",
@@ -14115,7 +14113,7 @@
                 "id": "cw003",
                 "name": "Warranted",
                 "sentence": "In the case of the serial killer, the death penalty is warranted as a punishment.",
-                "pronounciation": "/ˈwɒr(ə)ntəd/()",
+                "pronounciation": "/ˈwɒr(ə)ntəd/(वॉरन्टिड)",
                 "alphabet" : "W",
                 "phone": {
                     "meaning": "to make a particular activity necessary; justify or necessitate (a course of action)",
@@ -14127,7 +14125,7 @@
                 "id": "cw004",
                 "name": "Wary",
                 "sentence": "Fluffy gave her owners a wary look when they walked in the door with a new puppy.",
-                "pronounciation": "/ˈwɛːri/()",
+                "pronounciation": "/ˈwɛːri/(वेरी)",
                 "alphabet" : "W",
                 "phone": {
                     "meaning": "feeling or showing caution; guarded; careful",
@@ -14139,7 +14137,7 @@
                 "id": "cw005",
                 "name": "Welter",
                 "sentence": "The classroom was in a welter when the teacher did not show up for class.",
-                "pronounciation": "/ˈwɛltə/()",
+                "pronounciation": "/ˈwɛltə/(वेल्टर)",
                 "alphabet" : "W",
                 "phone": {
                     "meaning": "move in a turbulent fashion; a large number of items in no order; a confused mass",
@@ -14151,7 +14149,7 @@
                 "id": "cw006",
                 "name": "Wheedle",
                 "sentence": "My daughter will pretend to cry if she thinks it will allow her to wheedle out of a consequence.",
-                "pronounciation": "/ˈwiːd(ə)l/()",
+                "pronounciation": "/ˈwiːd(ə)l/(वीडल)",
                 "alphabet" : "W",
                 "phone": {
                     "meaning": "to try and persuade using flattery",
@@ -14163,7 +14161,7 @@
                 "id": "cw007",
                 "name": "Whet",
                 "sentence": "As I went to the kitchen, I realized the smell of food was enough to whet my appetite.",
-                "pronounciation": "/wɛt/()",
+                "pronounciation": "/wɛt/(वेट)",
                 "alphabet" : "W",
                 "phone": {
                     "meaning": "to trigger or make desire;sharpen the blade of (a tool or weapon)",
@@ -14175,7 +14173,7 @@
                 "id": "cw008",
                 "name": "Whimsical",
                 "sentence": "The whimsical music made me feel like a little kid again.",
-                "pronounciation": "/ˈwɪmzɪk(ə)l/()",
+                "pronounciation": "/ˈwɪmzɪk(ə)l/(विम्ज़िकल )",
                 "alphabet" : "W",
                 "phone": {
                     "meaning": "in an amusing or playful manner;acting or behaving in a capricious manner",
@@ -14187,7 +14185,7 @@
                 "id": "cw009",
                 "name": "Wince",
                 "sentence": "As soon as the coach saw his star football player wince, he removed him from the game.",
-                "pronounciation": "/wɪns/()",
+                "pronounciation": "/wɪns/(विन्स)",
                 "alphabet" : "W",
                 "phone": {
                     "meaning": "a reflex response to sudden pain;draw back, as with fear or pain",
@@ -14199,7 +14197,7 @@
                 "id": "cw010",
                 "name": "Wistful",
                 "sentence": "I became wistful when I saw my ex-boyfriend with his new love.",
-                "pronounciation": "ˈwɪs(t)fʊl,ˈwɪs(t)f(ə)l/()",
+                "pronounciation": "ˈwɪs(t)fʊl,ˈwɪs(t)f(ə)l/(विस्ट्फल)",
                 "alphabet" : "W",
                 "phone": {
                     "meaning": "having or showing a feeling of vague or regretful longing; showing pensive sadness",
@@ -14211,7 +14209,7 @@
                 "id": "cw011",
                 "name": "Wrest",
                 "sentence": "She tried to wrest her arm from my hold.",
-                "pronounciation": "/rɛst/()",
+                "pronounciation": "/rɛst/(रेस्ट)",
                 "alphabet" : "W",
                 "phone": {
                     "meaning": "forcibly pull (something) from a person's grasp",
@@ -14223,7 +14221,7 @@
                 "id": "cy001",
                 "name": "Yen",
                 "sentence": "It's no use yenning for the old simplicities.",
-                "pronounciation": "/jɛn/",
+                "pronounciation": "/jɛn/(येन)",
                 "alphabet" : "Y",
                 "phone": {
                     "meaning": "have a desire for something or someone who is not present;feel a longing or yearning",
@@ -14235,7 +14233,7 @@
                 "id": "cz001",
                 "name": "Zealot",
                 "sentence": "The political zealot walked over a thousand miles to get people to sign his petition.",
-                "pronounciation": "/ˈzɛlət/()",
+                "pronounciation": "/ˈzɛlət/(ज़ेलट)",
                 "alphabet" : "Z",
                 "phone": {
                     "meaning": "a person who has very strong opinions about something, and tries to make other people have them too",
@@ -14259,7 +14257,7 @@
                 "id": "cz003",
                 "name": "Zenith",
                 "sentence": "In 1977, punk was at its zenith.",
-                "pronounciation": "/ˈzɛnɪθ/()",
+                "pronounciation": "/ˈzɛnɪθ/(ज़ीनथ)",
                 "alphabet" : "Z",
                 "phone": {
                     "meaning": "the time at which something is most powerful or successful; the point in the sky above the observer",
