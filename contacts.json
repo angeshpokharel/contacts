@@ -5136,7 +5136,7 @@
                 "id": "ce001",
                 "name": "Ebullient",
                 "sentence": "The ebullient song was so uplifting that I danced in my chair.",
-                "pronounciation": "/ɪˈbʌljənt,ɪˈbʊljənt/()",
+                "pronounciation": "/ɪˈbʌljənt,ɪˈbʊljənt/(इबल्यन्ट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "cheerful and full of energy;",
@@ -5148,7 +5148,7 @@
                 "id": "ce002",
                 "name": "Eclectic",
                 "sentence": "The restaurant’s menu was eclectic and included foods from a number of ethnic groups and cultures.",
-                "pronounciation": "/ɪˈklɛktɪk/()",
+                "pronounciation": "/ɪˈklɛktɪk/(इक्लेक्टिक)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "selecting what seems best of various styles or ideas",
@@ -5160,7 +5160,7 @@
                 "id": "ce003",
                 "name": "Edifice",
                 "sentence": "The church on the corner is the oldest edifice in the county.",
-                "pronounciation": "/ˈɛdɪfɪs/()",
+                "pronounciation": "/ˈɛdɪfɪs/(एडफिस)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "a structure that has a roof and walls and stands more or less permanently in one place",
@@ -5172,7 +5172,7 @@
                 "id": "ce004",
                 "name": "Effete",
                 "sentence": "The effete man was scared of his own shadow and hid in the closet during thunderstorms.",
-                "pronounciation": "/ɪˈfiːt/()",
+                "pronounciation": "/ɪˈfiːt/(इफीट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "marked by excessive self-indulgence and moral decay;lacking strength, courage, or spirit",
@@ -5182,9 +5182,9 @@
         },
         {
                 "id": "ce005",
-                "name": "Effervescene",
+                "name": "Effervescence",
                 "sentence": "After the effervescence has ceased, a taste of the liquid will show you that the lemon juice has lost its acid nature, and has acquired in exchange a salty taste.",
-                "pronounciation": "/ˌɛfəˈvɛs(ə)ns/()",
+                "pronounciation": "/ˌɛfəˈvɛs(ə)ns/(एफ्फेरवेसेंस)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "bubbles in a liquid; fizz;vivacity and enthusiasm.",
@@ -5196,7 +5196,7 @@
                 "id": "ce006",
                 "name": "Efficacy",
                 "sentence": "Fortunately, the medicine had the efficacy to reduce the amount of pain John was feeling.",
-                "pronounciation": "/ˈɛfɪkəsi/()",
+                "pronounciation": "/ˈɛfɪkəsi/(एफ्फिकैसी)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "capacity or power to produce a desired effect",
@@ -5208,7 +5208,7 @@
                 "id": "ce007",
                 "name": "Effigy",
                 "sentence": "As soon as the citizens learned their brutal leader was dead, they burned an effigy of his image.",
-                "pronounciation": "/ˈɛfɪdʒi/()",
+                "pronounciation": "/ˈɛfɪdʒi/(एफिजी)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "a representation of a person (especially in the form of sculpture)",
@@ -5220,7 +5220,7 @@
                 "id": "ce008",
                 "name": "Effrontery",
                 "sentence": "I was shocked by the mugger’s effrontery to kiss me after grabbing my bag.",
-                "pronounciation": "/ɪˈfrʌnt(ə)ri/()",
+                "pronounciation": "/ɪˈfrʌnt(ə)ri/(इफ्रन्टरी)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "audacious (even arrogant) behavior that you have no right to",
@@ -5232,7 +5232,7 @@
                 "id": "ce009",
                 "name": "Egoism",
                 "sentence": "Her egoism became apparent among her friends when she kept bragging about everything she did right.",
-                "pronounciation": "/ˈɛɡəʊɪz(ə)m,ˈiːɡəʊɪz(ə)m/()",
+                "pronounciation": "/ˈɛɡəʊɪz(ə)m,ˈiːɡəʊɪz(ə)m/(ईगोइज़म)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "concern for your own interests and welfare",
@@ -5244,7 +5244,7 @@
                 "id": "ce010",
                 "name": "Egotistical",
                 "sentence": "My brother is very egotistical and thinks he is the best baseball player.",
-                "pronounciation": "/ˌɛɡəˈtɪstɪk(ə)l,ˌiːɡəˈtɪstɪk(ə)l/()",
+                "pronounciation": "/ˌɛɡəˈtɪstɪk(ə)l,ˌiːɡəˈtɪstɪk(ə)l/(ईगटिस्टिकल)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "characteristic of false pride; having an exaggerated sense of self-importance",
@@ -5256,7 +5256,7 @@
                 "id": "ce011",
                 "name": "Egregious",
                 "sentence": "The judge said it was the most egregious act he had ever seen!",
-                "pronounciation": "/ɪˈɡriːdʒəs/()",
+                "pronounciation": "/ɪˈɡriːdʒəs/(इग्रीजस)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "conspicuously and outrageously bad or reprehensible",
@@ -5268,19 +5268,19 @@
                 "id": "ce012",
                 "name": "Elapse",
                 "sentence": "Because of the rain delay, thirty minutes would elapse before the Detroit Tigers baseball game would begin",
-                "pronounciation": "/ɪˈlaps/()",
+                "pronounciation": "/ɪˈlaps/(इलैप्स)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "pass by;move by",
                     "home": "बीतना; गुज़रना; चला जाना",
-                    "synonym": "pass,proceed, progress"
+                    "synonym": "pass, proceed, progress"
                 }
         },
         {
                 "id": "ce013",
                 "name": "Elegy",
                 "sentence": "During the funeral, Clay played an instrumental elegy for his brother. ",
-                "pronounciation": "/ˈɛlɪdʒi/()",
+                "pronounciation": "/ˈɛlɪdʒi/(एलिजी)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "a mournful poem; a lament for the dead",
@@ -5292,7 +5292,7 @@
                 "id": "ce014",
                 "name": "Elicit",
                 "sentence": "The comedian hoped his jokes would elicit a great deal of laughter from the audience.",
-                "pronounciation": "/ɪˈlɪsɪt/()",
+                "pronounciation": "/ɪˈlɪsɪt/(इलिसिट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "derive by reason;to draw out or bring forth",
@@ -5304,7 +5304,7 @@
                 "id": "ce015",
                 "name": "Elixir",
                 "sentence": "The salesman was selling an elixir that he said would protect us all from the plague.",
-                "pronounciation": "/ɪˈlɪksə,ɪˈlɪksɪə/()",
+                "pronounciation": "/ɪˈlɪksə,ɪˈlɪksɪə/(इलिक्सर)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "a substance or liquid which is believed to cure illness and give eternal life",
@@ -5316,23 +5316,23 @@
                 "id": "ce016",
                 "name": "Elucidate",
                 "sentence": "An interpreter will elucidate the instructions for all non-English speaking guests.",
-                "pronounciation": "/ɪˈl(j)uːsɪdeɪt/()",
+                "pronounciation": "/ɪˈl(j)uːsɪdeɪt/(इलूसडैट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "make free from confusion or ambiguity; make clear and (more) comprehensible",
                     "home": "बकना; प्रलाप",
-                    "synonym": " illuminate, clarify"
+                    "synonym": "illuminate, clarify"
                 }
         },
         {
                 "id": "ce017",
                 "name": "Elusive",
                 "sentence": "The police are finding it difficult to catch the elusive bank robber.",
-                "pronounciation": "/ɪˈluːsɪv/()",
+                "pronounciation": "/ɪˈluːsɪv/(इलूसिव)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "difficult to describe; difficult to detect or grasp by the mind or analyze",
-                    "home": "मायावी;  निवारणकर्ता",
+                    "home": "मायावी; निवारणकर्ता",
                     "synonym": "evasive, slippery"
                 }
         },
@@ -5340,7 +5340,7 @@
                 "id": "ce018",
                 "name": "Emaciated",
                 "sentence": "The emaciated boy was too weak to fight off his kidnapper.",
-                "pronounciation": "/ɪˈmeɪsɪeɪtɪd/()",
+                "pronounciation": "/ɪˈmeɪsɪeɪtɪd/(इमेशीएटिड )",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "very thin especially from disease or hunger or cold",
@@ -5352,7 +5352,7 @@
                 "id": "ce019",
                 "name": "Embellish",
                 "sentence": "If you want to make your shoes look new, you can always embellish them with some bows or buckles.",
-                "pronounciation": "/ɪmˈbɛlɪʃ,ɛmˈbɛlɪʃ/()",
+                "pronounciation": "/ɪmˈbɛlɪʃ,ɛmˈbɛlɪʃ/(इम्बेलिश)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "make (something) more attractive by the addition of decorative details or features.",
@@ -5364,7 +5364,7 @@
                 "id": "ce020",
                 "name": "Eminent",
                 "sentence": "Everyone was looking forward to taking the class with such an eminent professor.",
-                "pronounciation": "/ˈɛmɪnənt/()",
+                "pronounciation": "/ˈɛmɪnənt/(एमनन्ट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "of imposing height; especially standing out above others",
@@ -5376,7 +5376,7 @@
                 "id": "ce021",
                 "name": "Emissary",
                 "sentence": "The celebrity sent his assistant as an emissary to pick up the movie contract.",
-                "pronounciation": "/ˈɛmɪs(ə)ri/()",
+                "pronounciation": "/ˈɛmɪs(ə)ri/(एमिसेरी)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "someone sent on a mission to represent the interests of someone else",
@@ -5388,7 +5388,7 @@
                 "id": "ce022",
                 "name": "Emit",
                 "sentence": "Dolphins emit bursts of sound to communicate and to locate objects.",
-                "pronounciation": "/ɪˈmɪt/()",
+                "pronounciation": "/ɪˈmɪt/(इमिट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.",
@@ -5400,7 +5400,7 @@
                 "id": "ce023",
                 "name": "Emollient",
                 "sentence": "The lotion was a great emollient for her dry skin.",
-                "pronounciation": "/ɪˈmɒlɪənt/()",
+                "pronounciation": "/ɪˈmɒlɪənt/(इमाल्यन्ट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "having a softening or soothing effect especially to the skin",
@@ -5410,9 +5410,9 @@
         },
         {
                 "id": "ce024",
-                "name": "Emprical",
+                "name": "Empirical",
                 "sentence": "Our data is based on empirical evidence collected in numerous studies.",
-                "pronounciation": "/ɛmˈpɪrɪk(ə)l,ɪmˈpɪrɪk(ə)l/()",
+                "pronounciation": "/ɛmˈpɪrɪk(ə)l,ɪmˈpɪrɪk(ə)l/(एम्पिरिकल)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "based on observation or evidence",
@@ -5424,7 +5424,7 @@
                 "id": "ce025",
                 "name": "Encomium",
                 "sentence": "Paula finds painting so therapeutic that she has written an encomium celebrating the art form.",
-                "pronounciation": "/ɛnˈkəʊmɪəm/()",
+                "pronounciation": "/ɛnˈkəʊmɪəm/(एन्कोमीअम)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "a speech or piece of writing that praises someone or something highly.",
@@ -5436,7 +5436,7 @@
                 "id": "ce026",
                 "name": "Encumbrance",
                 "sentence": "He is a great writer, but his inner critic has always been an encumbrance to his own satisfaction with his work.",
-                "pronounciation": "/ɪnˈkʌmbr(ə)ns,ɛnˈkʌmbr(ə)ns/()",
+                "pronounciation": "/ɪnˈkʌmbr(ə)ns,ɛnˈkʌmbr(ə)ns/(एन्कम्ब्रन्स)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "any obstruction that impedes or is burdensome",
@@ -5448,7 +5448,7 @@
                 "id": "ce027",
                 "name": "Endemic",
                 "sentence": "Many of the birds that were once endemic to Africa are now being bred in the United States.",
-                "pronounciation": "/ɛnˈdɛmɪk/()",
+                "pronounciation": "/ɛnˈdɛmɪk/(एन्डेमिक)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "native to or confined to a certain region",
@@ -5458,9 +5458,9 @@
         },
         {
                 "id": "ce028",
-                "name": "Enervet",
+                "name": "Enervate",
                 "sentence": "The alcohol appeared to enervet Jason's ability to focus at work",
-                "pronounciation": "/ˈɛnəveɪt/()",
+                "pronounciation": "/ˈɛnəveɪt/(एनर्वेट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "lacking physical, mental, or moral vigor",
@@ -5472,7 +5472,7 @@
                 "id": "ce029",
                 "name": "Engender",
                 "sentence": "The best teachers are those who engender their students to believe in their own successes.",
-                "pronounciation": "/ɪnˈdʒɛndə,ɛnˈdʒɛndə/()",
+                "pronounciation": "/ɪnˈdʒɛndə,ɛnˈdʒɛndə/(इन्जेन्डर)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "to cause a feeling or attitude to exist",
@@ -5484,7 +5484,7 @@
                 "id": "ce030",
                 "name": "Engrossed",
                 "sentence": "According to him, poetry is the expression of a soul engrossed in the enjoyment of ideals.",
-                "pronounciation": "/ɪnˈɡroʊst/()",
+                "pronounciation": "/ɪnˈɡroʊst/(इन्ग्रोस्ट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "giving or marked by complete attention to",
@@ -5496,7 +5496,7 @@
                 "id": "ce031",
                 "name": "Enhance",
                 "sentence": "The saleswoman told me the blue dress would enhance my lovely blue eyes.",
-                "pronounciation": "/ɪnˈhɑːns,ɛnˈhɑːns/()",
+                "pronounciation": "/ɪnˈhɑːns,ɛnˈhɑːns/(एन्हैन्स)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "increase;make better or more attractive",
@@ -5508,7 +5508,7 @@
                 "id": "ce032",
                 "name": "Enigma",
                 "sentence": "For years, my distant mother-in-law has been an enigma to me.",
-                "pronounciation": "/ɪˈnɪɡmə/()",
+                "pronounciation": "/ɪˈnɪɡmə/(अनिग्म)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "something that baffles understanding and cannot be explained;a difficult problem",
@@ -5520,7 +5520,7 @@
                 "id": "ce033",
                 "name": "Ennui",
                 "sentence": "Despite his ennui, Kurt was able to push past his boredom and finish his homework.",
-                "pronounciation": "/ɒnˈwiː/()",
+                "pronounciation": "/ɒnˈwiː/(एनूई)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "the feeling of being bored by something tedious",
@@ -5532,7 +5532,7 @@
                 "id": "ce034",
                 "name": "Entourage",
                 "sentence": "Donald was escorted into the press meeting by his large entourage, that accompanies him wherever he goes.",
-                "pronounciation": "/ˈɒntʊrɑːʒ,ˌɒntʊ(ə)ˈrɑːʒ/()",
+                "pronounciation": "/ˈɒntʊrɑːʒ,ˌɒntʊ(ə)ˈrɑːʒ/(आन्टुराश़)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "the group following and attending to some important person",
@@ -5544,7 +5544,7 @@
                 "id": "ce035",
                 "name": "Entreaty",
                 "sentence": "And his embrace comes not from love, but from entreaty.",
-                "pronounciation": "/ɪnˈtriːti,ɛnˈtriːti/()",
+                "pronounciation": "/ɪnˈtriːti,ɛnˈtriːti/(एन्ट्रीटी)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "earnest or urgent request",
@@ -5556,7 +5556,7 @@
                 "id": "ce036",
                 "name": "Enunciate",
                 "sentence": "When Will was intoxicated, he was hard to understand because he did not enunciate his statements.",
-                "pronounciation": "/ɪˈnʌnsɪeɪt/()",
+                "pronounciation": "/ɪˈnʌnsɪeɪt/(इनन्सीएट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "speak, pronounce, or utter in a certain way;express or state clearly",
@@ -5568,7 +5568,7 @@
                 "id": "ce037",
                 "name": "Ephemeral",
                 "sentence": "The thunderstorm was ephemeral, starting suddenly and gone within seconds.",
-                "pronounciation": "/ɪˈfɛm(ə)r(ə)l,ɪˈfiːm(ə)r(ə)l/()",
+                "pronounciation": "/ɪˈfɛm(ə)r(ə)l,ɪˈfiːm(ə)r(ə)l/(इफेमरल)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "lasting a very short time",
@@ -5580,7 +5580,7 @@
                 "id": "ce038",
                 "name": "Epistemology",
                 "sentence": "After Tim became interested in epistemology, he began to wonder how his brain processed information from his environment.",
-                "pronounciation": "/ɪˌpɪstɪˈmɒlədʒi,ɛˌpɪstɪˈmɒlədʒi/()",
+                "pronounciation": "/ɪˌpɪstɪˈmɒlədʒi,ɛˌpɪstɪˈmɒlədʒi/(इपिस्टमालजी)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "the philosophical theory of knowledge",
@@ -5592,7 +5592,7 @@
                 "id": "ce039",
                 "name": "Epithet",
                 "sentence": "Gwen earned the epithet of “fastest woman on earth” after winning four gold medals in track in the last Olympics.",
-                "pronounciation": "/ˈɛpɪθɛt/()",
+                "pronounciation": "/ˈɛpɪθɛt/(एपथेट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "a defamatory or abusive word or phrase; descriptive word or phrase",
@@ -5604,7 +5604,7 @@
                 "id": "ce040",
                 "name": "Epitome",
                 "sentence": "The cheetah is the epitome of a fast-running animal.",
-                "pronounciation": "/ɪˈpɪtəmi,ɛˈpɪtəmi/()",
+                "pronounciation": "/ɪˈpɪtəmi,ɛˈpɪtəmi/(इपिटमी)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "a standard or typical example;a brief abstract (as of an article or book)",
@@ -5616,7 +5616,7 @@
                 "id": "ce041",
                 "name": "Equanimity",
                 "sentence": "His equanimity allowed him to keep a clear head and escape the burning building.",
-                "pronounciation": "/ˌɛkwəˈnɪmɪti,ˌiːkwəˈnɪmɪti/()",
+                "pronounciation": "/ˌɛkwəˈnɪmɪti,ˌiːkwəˈnɪmɪti/(ईक्वनिमिटी)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "steadiness of mind under stress",
@@ -5628,19 +5628,19 @@
                 "id": "ce042",
                 "name": "Equivocate",
                 "sentence": "The prosecutor hoped he could equivocate enough to trick the suspect into confessing.",
-                "pronounciation": "/ɪˈkwɪvəkeɪt/()",
+                "pronounciation": "/ɪˈkwɪvəkeɪt/(इक्विवकेट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "be deliberately ambiguous or unclear in order to mislead or withhold information",
                     "home": "टालमटोल करना;गोल-मोल बात कहना",
-                    "synonym": "	prevaricate,hedge"
+                    "synonym": "prevaricate,hedge"
                 }
         },
         {
                 "id": "ce043",
                 "name": "Errant",
                 "sentence": "The errant student was given a warning for not going directly to class.",
-                "pronounciation": "/ˈɛr(ə)nt/()",
+                "pronounciation": "/ˈɛr(ə)nt/(एरन्ट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "uncontrolled motion that is irregular or unpredictable;not following the appropriate course",
@@ -5652,7 +5652,7 @@
                 "id": "ce044",
                 "name": "Erudite",
                 "sentence": "The room was full of erudite scholars who made the discussion on astronomy fun and interesting.",
-                "pronounciation": "/ˈɛrʊdʌɪt/()",
+                "pronounciation": "/ˈɛrʊdʌɪt/(एर्युडाइट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "having or showing profound knowledge",
@@ -5664,7 +5664,7 @@
                 "id": "ce045",
                 "name": "Eruption",
                 "sentence": "The volcano’s sudden eruption left the city in ruins, covered in lava and ash.",
-                "pronounciation": "/ɪˈrʌpʃ(ə)n/()",
+                "pronounciation": "/ɪˈrʌpʃ(ə)n/(इरप्शन)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "the sudden occurrence of a violent discharge of steam and volcanic material;symptom consisting of a breaking out and becoming visible",
@@ -5676,7 +5676,7 @@
                 "id": "ce046",
                 "name": "Eschew",
                 "sentence": "True vegetarians eschew food items that come from living animals.",
-                "pronounciation": "/ɪsˈtʃuː,ɛsˈtʃuː/()",
+                "pronounciation": "/ɪsˈtʃuː,ɛsˈtʃuː/(एस्चू)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "avoid and stay away from deliberately; stay clear of",
@@ -5688,7 +5688,7 @@
                 "id": "ce047",
                 "name": "Esoteric",
                 "sentence": "The medical research was so esoteric that only a few physicians could actually understand the results.",
-                "pronounciation": "/ˌɛsəˈtɛrɪk,ˌiːsəˈtɛrɪk/()",
+                "pronounciation": "/ˌɛsəˈtɛrɪk,ˌiːsəˈtɛrɪk/(एसटेरिक)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "confined to and understandable by only an enlightened inner circle",
@@ -5700,7 +5700,7 @@
                 "id": "ce048",
                 "name": "Etymology",
                 "sentence": "The etymology of most medical terms can be found in the Latin language.",
-                "pronounciation": "/ˌɛtɪˈmɒlədʒi/()",
+                "pronounciation": "/ˌɛtɪˈmɒlədʒi/(एटमालजी)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "the study of the sources and development of words; a history of a word",
@@ -5712,7 +5712,7 @@
                 "id": "ce049",
                 "name": "Eulogy",
                 "sentence": "When Pam said a tender eulogy for her twin sister, everyone in the church cried.",
-                "pronounciation": "/ˈjuːlədʒi/()",
+                "pronounciation": "/ˈjuːlədʒi/(यूलजी)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "a formal expression of praise for someone who has died recently",
@@ -5724,31 +5724,31 @@
                 "id": "ce050",
                 "name": "Euphemism",
                 "sentence": "The foreign students in the class were confused by the teacher’s use of a euphemism.",
-                "pronounciation": "/ˈjuːfəmɪz(ə)m/()",
+                "pronounciation": "/ˈjuːfəmɪz(ə)m/(यूफमिज़म)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "an inoffensive or indirect expression that is substituted for one that is considered offensive or too harsh",
                     "home": "व्यंजना",
-                    "synonym": " politeness, understatement"
+                    "synonym": "politeness, understatement"
                 }
         },
         {
                 "id": "ce051",
                 "name": "Evaluate",
                 "sentence": "When a tree fell on our house the insurance company adjuster said he would evaluate the damage and pay us accordingly.",
-                "pronounciation": "/ɪˈvaljʊeɪt/()",
+                "pronounciation": "/ɪˈvaljʊeɪt/(इवैल्यूएट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "form a critical opinion of;to draw conclusions from by examining: to assess",
                     "home": "आंकना;मूल्यांकन",
-                    "synonym": "	assess,judge"
+                    "synonym": "assess,judge"
                 }
         },
         {
                 "id": "ce052",
                 "name": "Evanescent",
                 "sentence": "When the temperature rises, the snow becomes evanescent as it turns into water.",
-                "pronounciation": "/ɛvəˈnɛs(ə)nt,iːvəˈnɛs(ə)nt/()",
+                "pronounciation": "/ɛvəˈnɛs(ə)nt,iːvəˈnɛs(ə)nt/(एवनेसन्ट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "tending to vanish like vapor",
@@ -5760,7 +5760,7 @@
                 "id": "ce053",
                 "name": "Evince",
                 "sentence": "If he claims to evince a knowledge about how to repair your car, don’t let him get near it!",
-                "pronounciation": "/ɪˈvɪns/()",
+                "pronounciation": "/ɪˈvɪns/(इविन्स)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "give expression to;to show clearly; to make plain",
@@ -5772,7 +5772,7 @@
                 "id": "ce054",
                 "name": "Exacerbate",
                 "sentence": "My headache started to exacerbate when my daughter played her loud music.",
-                "pronounciation": "/ɪɡˈzasəbeɪt,ɛkˈsasəbeɪt/()",
+                "pronounciation": "/ɪɡˈzasəbeɪt,ɛkˈsasəbeɪt/(इग्ज़ैसर्बेट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "make worse; exasperate or irritate",
@@ -5784,7 +5784,7 @@
                 "id": "ce055",
                 "name": "Excoriate",
                 "sentence": "In his speech, the president will excoriate the dictator’s actions and state his plans for military intervention.",
-                "pronounciation": "/ɪkˈskɔːrɪeɪt,ɛkˈskɔːrɪeɪt/()",
+                "pronounciation": "/ɪkˈskɔːrɪeɪt,ɛkˈskɔːrɪeɪt/(एक्स्कॉरीऐट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "express strong disapproval of;tear or wear off the skin or make sore by abrading",
@@ -5796,7 +5796,7 @@
                 "id": "ce056",
                 "name": "Excruciating",
                 "sentence": "Because I was experiencing excruciating pain, my doctor gave me a strong analgesic.",
-                "pronounciation": "/ɪkˈskruːʃɪeɪtɪŋ/()",
+                "pronounciation": "/ɪkˈskruːʃɪeɪtɪŋ/(इक्स्क्रूशीऐटिंग)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "extremely painful",
@@ -5808,7 +5808,7 @@
                 "id": "ce057",
                 "name": "Exculpate",
                 "sentence": "The photographic evidence revealed by the security camera was essential to exculpate the suspect.",
-                "pronounciation": "/ˈɛkskʌlpeɪt/()",
+                "pronounciation": "/ˈɛkskʌlpeɪt/(एक्स्कल्पेट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "pronounce not guilty of criminal charges",
@@ -5820,7 +5820,7 @@
                 "id": "ce058",
                 "name": "Exhort",
                 "sentence": "While I cannot force you to drive the speed limit, I exhort you to do so or else you might end up in jail.",
-                "pronounciation": "/ɪɡˈzɔːt,ɛɡˈzɔːt/()",
+                "pronounciation": "/ɪɡˈzɔːt,ɛɡˈzɔːt/(इग्ज़ॉर्ट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "force or impel in an indicated direction; spur on or encourage especially by cheers and shouts",
@@ -5832,7 +5832,7 @@
                 "id": "ce059",
                 "name": "Exigency",
                 "sentence": "Until my attacker is found, I consider having a bodyguard to be an exigency.",
-                "pronounciation": "/ˈɛksɪdʒ(ə)nsi/()",
+                "pronounciation": "/ˈɛksɪdʒ(ə)nsi/(एक्सिजन्सी)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "a sudden unforeseen crisis (usually involving danger) that requires immediate action; a pressing or urgent situation",
@@ -5844,7 +5844,7 @@
                 "id": "ce060",
                 "name": "Exonerate",
                 "sentence": "The job of the defense attorney is to exonerate his clients and keep them out of jail.",
-                "pronounciation": "/ɪɡˈzɒnəreɪt/()",
+                "pronounciation": "/ɪɡˈzɒnəreɪt/(इग्ज़ानरेट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "pronounce not guilty of criminal charges",
@@ -5856,7 +5856,7 @@
                 "id": "ce061",
                 "name": "Expatriate",
                 "sentence": "My uncle is an expatriate who left the country of his birth to live in France.",
-                "pronounciation": "/ɪksˈpatrɪət/()",
+                "pronounciation": "/ɪksˈpatrɪət/(एक्स्पेट्रीएट )",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "a person who is voluntarily absent from home or country",
@@ -5868,19 +5868,19 @@
                 "id": "ce062",
                 "name": "Expedient",
                 "sentence": "While I could have taken the train to New York City, I found it more expedient to fly there.",
-                "pronounciation": "/ɪkˈspiːdɪənt/()",
+                "pronounciation": "/ɪkˈspiːdɪənt/(इक्स्पीडीअन्ट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "a means to an end; not necessarily a principled or ethical one",
                     "home": "उपाय;ढंग; प्रणाली",
-                    "synonym": "	measure, means, method,tactic"
+                    "synonym": "measure, means, method,tactic"
                 }
         },
         {
                 "id": "ce063",
                 "name": "Expedite",
                 "sentence": "If you would like to expedite the shipping of your order, please pay the express shipping fee.",
-                "pronounciation": "/ˈɛkspɪdʌɪt/()",
+                "pronounciation": "/ˈɛkspɪdʌɪt/(एक्स्पिडाइट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "process fast and efficiently;speed up the progress of; facilitate",
@@ -5892,7 +5892,7 @@
                 "id": "ce064",
                 "name": "Exploit",
                 "sentence": "By hiding her money in a foreign bank, Megan hopes to exploit the country’s low tax rates.",
-                "pronounciation": "/ɪkˈsplɔɪt,ɛkˈsplɔɪt/()",
+                "pronounciation": "/ɪkˈsplɔɪt,ɛkˈsplɔɪt/(इक्स्प्लॉइट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "make full use of and derive benefit from (a resource).",
@@ -5904,7 +5904,7 @@
                 "id": "ce065",
                 "name": "Expunge",
                 "sentence": "I would like to expunge my ex-husband from my memory.",
-                "pronounciation": "/ɪkˈspʌn(d)ʒ,ɛkˈspʌn(d)ʒ/()",
+                "pronounciation": "/ɪkˈspʌn(d)ʒ,ɛkˈspʌn(d)ʒ/(इक्स्पन्ज)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "remove by erasing or crossing out or as if by drawing a line",
@@ -5916,7 +5916,7 @@
                 "id": "ce066",
                 "name": "Expurgate",
                 "sentence": "The rapper was told that if he did not expurgate the offensive lyrics from his new song, it would never be played on the radio.",
-                "pronounciation": "/ˈɛkspəːɡeɪt/()",
+                "pronounciation": "/ˈɛkspəːɡeɪt/(एक्स्पर्गेट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "edit by omitting or modifying parts considered indelicate",
@@ -5928,7 +5928,7 @@
                 "id": "ce067",
                 "name": "Extant",
                 "sentence": "The extant writings of the ancient philosopher are still quite popular with philosophy students.",
-                "pronounciation": "/ɪkˈstant/()",
+                "pronounciation": "/ɪkˈstant/(एक्स्टन्ट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "still in existence; not extinct or destroyed or lost",
@@ -5940,7 +5940,7 @@
                 "id": "ce068",
                 "name": "Extinct",
                 "sentence": "Even though dinosaurs are extinct, people can learn more about them by visiting a museum.",
-                "pronounciation": "/ɪkˈstɪŋkt/()",
+                "pronounciation": "/ɪkˈstɪŋkt/(इक्स्टिंगक्ट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "no longer in existence; lost or especially having died out leaving no living representatives",
@@ -5952,7 +5952,7 @@
                 "id": "ce069",
                 "name": "Extol",
                 "sentence": "I got angry when my mother would extol my brother’s accomplishments and ignore all the good things I did.",
-                "pronounciation": "/ɪkˈstəʊl/()",
+                "pronounciation": "/ɪkˈstəʊl/(इक्स्टोल)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "praise, glorify, or honor",
@@ -5964,7 +5964,7 @@
                 "id": "ce070",
                 "name": "Extortion",
                 "sentence": "The criminal committed extortion when he threatened to hurt the victim’s family if she didn’t give him money.",
-                "pronounciation": "/ɪkˈstɔːʃ(ə)n/()",
+                "pronounciation": "/ɪkˈstɔːʃ(ə)n/(इक्स्टॉर्शन)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "the practice of obtaining money from someone through force, threats, or abuse of power",
@@ -5976,7 +5976,7 @@
                 "id": "ce071",
                 "name": "Extraneous",
                 "sentence": "The extraneous noise from the street was keeping us awake all night, so we moved to a different apartment.",
-                "pronounciation": "/ɪkˈstreɪnɪəs/()",
+                "pronounciation": "/ɪkˈstreɪnɪəs/(एक्स्ट्रैनीअस)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "not belonging to that in which it is contained; introduced from an outside source",
@@ -5988,7 +5988,7 @@
                 "id": "ce072",
                 "name": "Extrapolation",
                 "sentence": "He estimate his income tax bill by extrapolation from figures submit in previous year.",
-                "pronounciation": "/ɪkstrapəˈleɪʃ(ə)n/()",
+                "pronounciation": "/ɪkstrapəˈleɪʃ(ə)n/(इक्स्ट्रैपलैशन)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "an inference about the future based on known facts and observations;calculation of the value of a function outside the range of known values",
@@ -6000,7 +6000,7 @@
                 "id": "ce073",
                 "name": "Extrinsic",
                 "sentence": "We were sure that the spy’s motivations were extrinsic in nature, and not motivated by any natural love for his country.",
-                "pronounciation": "/ɪkˈstrɪnsɪk/()",
+                "pronounciation": "/ɪkˈstrɪnsɪk/(एक्स्ट्रिन्सिक)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "not forming an essential part of a thing or arising or originating from the outside",
@@ -6012,7 +6012,7 @@
                 "id": "ce074",
                 "name": "Exult",
                 "sentence": "After winning first place in the contest, his family took him out to exult in the victory.",
-                "pronounciation": "/ɪɡˈzʌlt,ɛɡˈzʌlt/()",
+                "pronounciation": "/ɪɡˈzʌlt,ɛɡˈzʌlt/(इग्ज़ल्ट)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "to express great joy; feel extreme happiness or elation",
@@ -6024,7 +6024,7 @@
                 "id": "ce075",
                 "name": "Exultation",
                 "sentence": "The soccer team yelled in exultation as David scored the winning goal.",
-                "pronounciation": "/ˌɛɡz(ʌ)lˈteɪʃn/()",
+                "pronounciation": "/ˌɛɡz(ʌ)lˈteɪʃn/(एग्ज़ल्टेशन)",
                 "alphabet" : "E",
                 "phone": {
                     "meaning": "the utterance of sounds expressing great joy; a feeling of extreme joy",
@@ -6036,7 +6036,7 @@
                 "id": "cf001",
                 "name": "Fabricate",
                 "sentence": "The journalist got fired when his editor learned of his plan to fabricate a story about the president.",
-                "pronounciation": "/ˈfabrɪkeɪt/()",
+                "pronounciation": "/ˈfabrɪkeɪt/(फैब्रकेट)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "make up something artificial or untrue; put together out of artificial or natural components or parts",
@@ -6048,7 +6048,7 @@
                 "id": "cf002",
                 "name": "Facade",
                 "sentence": "I often find myself putting up a facade when I’m around my troubled brother.",
-                "pronounciation": "/fəˈsɑːd/()",
+                "pronounciation": "/fəˈsɑːd/(फसाड)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "the face or front of a building; a showy misrepresentation intended to conceal something unpleasant",
@@ -6060,7 +6060,7 @@
                 "id": "cf003",
                 "name": "Facet",
                 "sentence": "The diamond was cut to have many facets, giving it a certain glimmer in natural sunlight.",
-                "pronounciation": "/ˈfasɪt,ˈfasɛt/()",
+                "pronounciation": "/ˈfasɪt,ˈfasɛt/(फैसट)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "a distinct feature or element in a problem; a smooth surface",
@@ -6072,7 +6072,7 @@
                 "id": "cf004",
                 "name": "Facetious",
                 "sentence": "The teacher described her most troublesome student as a facetious young man.",
-                "pronounciation": "/fəˈsiːʃəs/()",
+                "pronounciation": "/fəˈsiːʃəs/(फसीशस)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "cleverly amusing in tone",
@@ -6084,7 +6084,7 @@
                 "id": "cf005",
                 "name": "Facile",
                 "sentence": "Since Jack had studied for the exam, he earned a perfect score on the facile test.",
-                "pronounciation": "/ˈfasʌɪl,ˈfasɪl/()",
+                "pronounciation": "/ˈfasʌɪl,ˈfasɪl/(फैसल)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "expressing yourself readily, clearly, effectively; arrived at without due care or effort; lacking depth",
@@ -6096,7 +6096,7 @@
                 "id": "cf006",
                 "name": "Facilitate",
                 "sentence": "The translator will facilitate the conversation between the immigrant and the attorney.",
-                "pronounciation": "/fəˈsɪlɪteɪt/()",
+                "pronounciation": "/fəˈsɪlɪteɪt/(फसिलटैट)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "make easier; increase the likelihood of (a response) ;be of use",
@@ -6108,7 +6108,7 @@
                 "id": "cf007",
                 "name": "Factitious",
                 "sentence": "A fourth sort consists of the very bad or wholly factitious pieces.",
-                "pronounciation": "/fakˈtɪʃəs/()",
+                "pronounciation": "/fakˈtɪʃəs/(फैक्टिशस)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "not produced by natural forces",
@@ -6120,19 +6120,19 @@
                 "id": "cf008",
                 "name": "Fallacious",
                 "sentence": "His argument is based on fallacious reasoning.",
-                "pronounciation": "/fəˈleɪʃəs/()",
+                "pronounciation": "/fəˈleɪʃəs/(फलेशस)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "based on an incorrect or misleading notion or information; intended to deceive",
                     "home": "अशुद्ध; झूठा; दोषयुक्त",
-                    "synonym": " incorrect, faulty, flawed"
+                    "synonym": "incorrect, faulty, flawed"
                 }
         },
         {
                 "id": "cf009",
                 "name": "Falter",
                 "sentence": "Carrie had a feeling that Scott intended to kiss her, and she hoped that this time he wouldn’t falter.",
-                "pronounciation": "/ˈfɔːltə,ˈfɒltə/()",
+                "pronounciation": "/ˈfɔːltə,ˈfɒltə/(फॉल्टर)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "speak haltingly; walk unsteadily; move hesitatingly, as if about to give way be; unsure or weak",
@@ -6144,7 +6144,7 @@
                 "id": "cf010",
                 "name": "Fastidious",
                 "sentence": "Your friends will be few if you do not change your habit of being fastidious.",
-                "pronounciation": "/faˈstɪdɪəs/()",
+                "pronounciation": "/faˈstɪdɪəs/(फैस्टिडीअस)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "giving careful attention to detail; hard to please; excessively concerned with cleanliness",
@@ -6156,7 +6156,7 @@
                 "id": "cf011",
                 "name": "Fatal",
                 "sentence": "Without an antidote to treat the patient, the poisonous snakebite would prove fatal.",
-                "pronounciation": "/ˈfeɪt(ə)l/()",
+                "pronounciation": "/ˈfeɪt(ə)l/(फेटल)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "controlled or decreed by fate; predetermined having momentous consequences; of decisive importance",
@@ -6168,7 +6168,7 @@
                 "id": "cf012",
                 "name": "Fatuous",
                 "sentence": "It was a fatuous choice to carry so many glass cups at once.",
-                "pronounciation": "/ˈfatjʊəs/()",
+                "pronounciation": "/ˈfatjʊəs/(फैचूअस)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "devoid of intelligence",
@@ -6180,7 +6180,7 @@
                 "id": "cf013",
                 "name": "Fawning",
                 "sentence": "Even the female reporters were smiling wildly and fawning over the handsome actor.",
-                "pronounciation": "/ˈfɔːnɪŋ/()",
+                "pronounciation": "/ˈfɔːnɪŋ/(फॉनिंग)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "attempting to win favor by flattery; attempting to win favor from influential people by flattery",
@@ -6192,7 +6192,7 @@
                 "id": "cf014",
                 "name": "Feasible",
                 "sentence": "If waking up early isn't feasible for you, then why did you take the morning shift?",
-                "pronounciation": "/ˈfiːzɪb(ə)l/()",
+                "pronounciation": "/ˈfiːzɪb(ə)l/(फीज़बल)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "capable of being done with means at hand and circumstances as they are",
@@ -6204,7 +6204,7 @@
                 "id": "cf015",
                 "name": "Feint",
                 "sentence": "The basketball player exhibited a clever feint when he pretended to pass the ball and then leaped up for the game-winning shot.",
-                "pronounciation": "/feɪnt/()",
+                "pronounciation": "/feɪnt/(फेन्ट)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "any distracting or deceptive maneuver (as a mock attack)",
@@ -6216,7 +6216,7 @@
                 "id": "cf016",
                 "name": "Felicitous",
                 "sentence": "When my girlfriends and I get together, we always enjoy felicitous conversation.",
-                "pronounciation": "/fɪˈlɪsɪtəs/()",
+                "pronounciation": "/fɪˈlɪsɪtəs/(फिलिसटस)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "exhibiting an agreeably appropriate manner or style; marked by good fortune",
@@ -6228,7 +6228,7 @@
                 "id": "cf017",
                 "name": "Felon",
                 "sentence": "An action against any one thenceforth calling him traitor or felon.",
-                "pronounciation": "/ˈfɛlən/()",
+                "pronounciation": "/ˈfɛlən/(फेलन)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "someone who has committed a crime or has been legally convicted of a crime",
@@ -6240,7 +6240,7 @@
                 "id": "cf018",
                 "name": "Feral",
                 "sentence": "The animal trainer believes he can teach the feral cat how to behave in a friendly manner.",
-                "pronounciation": "/ˈfɛr(ə)l,ˈfɪərəl/()",
+                "pronounciation": "/ˈfɛr(ə)l,ˈfɪərəl/(फीरल)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "wild and menacing",
@@ -6252,7 +6252,7 @@
                 "id": "cf019",
                 "name": "Ferment",
                 "sentence": "The union leader hopes to ferment dissatisfaction amid the workers to force management to increase salaries.",
-                "pronounciation": "/fəˈmɛnt/()",
+                "pronounciation": "/fəˈmɛnt/(फर्मेन्ट)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "agitation and excitement among a group of people, typically concerning major change and leading to trouble or violence.",
@@ -6264,7 +6264,7 @@
                 "id": "cf020",
                 "name": "Fervid",
                 "sentence": "Because I am concerned about my daughter’s education, I am a fervid supporter of education reform.",
-                "pronounciation": "/ˈfəːvɪd/()",
+                "pronounciation": "/ˈfəːvɪd/(फर्विड)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "characterized by intense emotion;extremely hot",
@@ -6276,7 +6276,7 @@
                 "id": "cf021",
                 "name": "Fervor",
                 "sentence": "The teacher used his religious fervor as the basis for his refusal to teach his students about the evolution of mankind.",
-                "pronounciation": "/ˈfəːvə/()",
+                "pronounciation": "/ˈfəːvə/(फर्वर)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "feelings of great warmth and intensity;the state of being emotionally aroused and worked up",
@@ -6288,7 +6288,7 @@
                 "id": "cf022",
                 "name": "Fetter",
                 "sentence": "Whenever the man took his dog outside, he would place a fetter around the animal’s neck and tie it to a tree.",
-                "pronounciation": "/ˈfɛtə/()",
+                "pronounciation": "/ˈfɛtə/(फेटर)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "a chain or manacle used to restrain a prisoner, typically placed around the ankles.",
@@ -6300,7 +6300,7 @@
                 "id": "cf023",
                 "name": "Fiasco",
                 "sentence": "The president must accept some blame for this economic fiasco.",
-                "pronounciation": "/fɪˈaskəʊ/()",
+                "pronounciation": "/fɪˈaskəʊ/(फीऐस्को)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "a sudden and violent collapse",
@@ -6312,7 +6312,7 @@
                 "id": "cf024",
                 "name": "Fiat",
                 "sentence": "The dictator rules his country by fiat and expects everyone to obey his orders.",
-                "pronounciation": "/ˈfiːat/()",
+                "pronounciation": "/ˈfiːat/(फ़िएट)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "a legally binding command or decision entered on the court record (as if issued by a court or judge)",
@@ -6324,7 +6324,7 @@
                 "id": "cf025",
                 "name": "Flabbergasted",
                 "sentence": "Sally was flabbergasted when she learned the company wanted to buy her business for fifteen million dollars.",
-                "pronounciation": "/ˈflæb.ɚ.ɡæs.tɪd/()",
+                "pronounciation": "/ˈflæb.ɚ.ɡæs.tɪd/(फ्लैबर्गैस्टिड)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "as if struck dumb with astonishment and surprise",
@@ -6336,7 +6336,7 @@
                 "id": "cf026",
                 "name": "Flag",
                 "sentence": "You're not allowed to swim when the red flag is flying.",
-                "pronounciation": "/flaɡ/()",
+                "pronounciation": "/flaɡ/(फ्लैग)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "a small piece of cloth attached at one edge to a pole and used as a marker or signal",
@@ -6348,7 +6348,7 @@
                 "id": "cf027",
                 "name": "Flagrant",
                 "sentence": "After the basketball player committed a flagrant foul, he was kicked out of the game.",
-                "pronounciation": "/ˈfleɪɡr(ə)nt/()",
+                "pronounciation": "/ˈfleɪɡr(ə)nt/(फ्लेग्रन्ट)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "conspicuously and outrageously bad or reprehensible",
@@ -6360,7 +6360,7 @@
                 "id": "cf028",
                 "name": "Flamboyant",
                 "sentence": "When Janice showed me her ring, I realized the flamboyant diamond was bigger than her finger.",
-                "pronounciation": "/flamˈbɔɪənt/()",
+                "pronounciation": "/flamˈbɔɪənt/(फ्लैम्बॉइअन्ट)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "tending to attract attention because of their exuberance, confidence, and stylishness.",
@@ -6372,7 +6372,7 @@
                 "id": "cf029",
                 "name": "Flay",
                 "sentence": "They strip them bare, flay them and cut away the flesh about the foot.",
-                "pronounciation": "/fleɪ/()",
+                "pronounciation": "/fleɪ/(फ्ले)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "strip the skin off",
@@ -6384,7 +6384,7 @@
                 "id": "cf030",
                 "name": "Fledgling",
                 "sentence": "Jill is a fledgling skater who must work on her turns more.",
-                "pronounciation": "/ˈflɛdʒlɪŋ/()",
+                "pronounciation": "/ˈflɛdʒlɪŋ/(फ्लेज्लिंग)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "young and inexperienced;(of a young bird) having acquired its flight feathers",
@@ -6396,7 +6396,7 @@
                 "id": "cf031",
                 "name": "Flout",
                 "sentence": "People find themselves in trouble because they think they’re clever enough to flout the law without getting caught.",
-                "pronounciation": "/flaʊt/()",
+                "pronounciation": "/flaʊt/(फ्लाउट)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "treat with contemptuous disregard; laugh at with contempt and derision",
@@ -6408,7 +6408,7 @@
                 "id": "cf032",
                 "name": "Fluctuate",
                 "sentence": "Because of technical difficulties, the sound of the music may fluctuate during the concert.",
-                "pronounciation": "/ˈflʌktʃʊeɪt/()",
+                "pronounciation": "/ˈflʌktʃʊeɪt/(फ्लक्चूएट)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "be unstable;move or sway in a rising and falling or wavelike pattern",
@@ -6420,7 +6420,7 @@
                 "id": "cf033",
                 "name": "Foist",
                 "sentence": "The government has decided to foist yet another tax increase on the public.",
-                "pronounciation": "/fɔɪst/()",
+                "pronounciation": "/fɔɪst/(फॉइस्ट)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "insert surreptitiously or without warrant; to force onto another",
@@ -6432,7 +6432,7 @@
                 "id": "cf034",
                 "name": "Foment",
                 "sentence": "Despite popular beliefs, the police are here to keep people calm, not to foment violence.",
-                "pronounciation": "/fə(ʊ)ˈmɛnt/()",
+                "pronounciation": "/fə(ʊ)ˈmɛnt/(फोमेन्ट)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "chatter idly or foolishly; make continuous sounds like water running gently over rounded stone",
@@ -6444,7 +6444,7 @@
                 "id": "cf035",
                 "name": "Forestall",
                 "sentence": "Liquor stores are required to check identification for anyone who looks under thirty in order to forestall underage driving.",
-                "pronounciation": "/fɔːˈstɔːl/()",
+                "pronounciation": "/fɔːˈstɔːl/(फॉर्स्टॉल)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "keep from happening or arising; make impossible;act in advance of; deal with ahead of time",
@@ -6456,7 +6456,7 @@
                 "id": "cf036",
                 "name": "Formidable",
                 "sentence": "Growing tomato crops during a severe drought proved to be formidable for one farmer.",
-                "pronounciation": "/ˈfɔːmɪdəb(ə)l",
+                "pronounciation": "/ˈfɔːmɪdəb(ə)l/(फॉर्मिडबल)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "inspiring fear;extremely impressive in strength or excellence",
@@ -6468,7 +6468,7 @@
                 "id": "cf037",
                 "name": "Forthright",
                 "sentence": "Janice was happy to find a forthright man who always told her the truth.",
-                "pronounciation": "/ˈfɔːθrʌɪt/()",
+                "pronounciation": "/ˈfɔːθrʌɪt/(फोर्थ्राइट)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "characterized by directness in manner or speech; without subtlety or evasion",
@@ -6480,7 +6480,7 @@
                 "id": "cf038",
                 "name": "Fortuitous",
                 "sentence": "Mark proved to be fortuitous by selecting all six winning lotto numbers.",
-                "pronounciation": "/fɔːˈtjuːɪtəs/()",
+                "pronounciation": "/fɔːˈtjuːɪtəs/(फॉर्टूइटस)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "occurring by happy chance; having no cause or apparent cause",
@@ -6492,7 +6492,7 @@
                 "id": "cf039",
                 "name": "Fracas",
                 "sentence": "The husband and wife were fined by the judge for starting a fracas in court.",
-                "pronounciation": "/ˈfrakɑː/()",
+                "pronounciation": "/ˈfrakɑː/(फ्रेकस)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "a noisy disagreement or commotion",
@@ -6504,7 +6504,7 @@
                 "id": "cf040",
                 "name": "Fractious",
                 "sentence": "The inexperienced teacher found the fractious students difficult to control.",
-                "pronounciation": "/ˈfrakʃəs/()",
+                "pronounciation": "/ˈfrakʃəs/(फ्रैक्शस)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "unpredictably difficult in operation; likely to be troublesome;easily irritated or annoyed",
@@ -6516,7 +6516,7 @@
                 "id": "cf041",
                 "name": "Frail",
                 "sentence": "The frail old lady was having a hard time carrying her suitcase to her room, so I offered my help.",
-                "pronounciation": "/freɪl/()",
+                "pronounciation": "/freɪl/(फ्रेल)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "wanting in moral strength, courage, or will; having the attributes of man as opposed;physically weak",
@@ -6528,7 +6528,7 @@
                 "id": "cf042",
                 "name": "Fraught",
                 "sentence": "The talk of war is fraught with difficult discussions about cost and manpower.",
-                "pronounciation": "/frɔːt/()",
+                "pronounciation": "/frɔːt/(फ्रॉट)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "filled with or attended with;marked by distress",
@@ -6540,7 +6540,7 @@
                 "id": "cf043",
                 "name": "Fray",
                 "sentence": "When America was attacked at Pearl Harbor, they urried to enter the fray.",
-                "pronounciation": "/freɪ/()",
+                "pronounciation": "/freɪ/(फ्रे)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "a noisy fight,battle, or skirmish",
@@ -6552,7 +6552,7 @@
                 "id": "cf044",
                 "name": "Frenetic",
                 "sentence": "After the concert, the frenetic crowd surged through the exit doors and began to dance in the street.",
-                "pronounciation": "/frəˈnɛtɪk/()",
+                "pronounciation": "/frəˈnɛtɪk/(फ्रनेटिक)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "excessively agitated; distraught with fear or other violent emotion",
@@ -6564,7 +6564,7 @@
                 "id": "cf045",
                 "name": "Frenzy",
                 "sentence": "The mental patient was known to go into frenzy if he didn’t get his snack on time.",
-                "pronounciation": "/ˈfrɛnzi/()",
+                "pronounciation": "/ˈfrɛnzi/(फ्रेन्ज़ी)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "state of violent mental agitation",
@@ -6576,7 +6576,7 @@
                 "id": "cf046",
                 "name": "Fret",
                 "sentence": "After she lost the part in the school play, she would sit and fret about her situation.",
-                "pronounciation": "/frɛt/()",
+                "pronounciation": "/frɛt/(फ्रेट)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "be constantly or visibly anxious.",
@@ -6588,7 +6588,7 @@
                 "id": "cf047",
                 "name": "Frugal",
                 "sentence": "Being frugal allowed me to save $40 on my heating bill this month.",
-                "pronounciation": "/ˈfruːɡ(ə)l/()",
+                "pronounciation": "/ˈfruːɡ(ə)l/(फ्रूगल)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "avoiding waste;careful in spending money",
@@ -6600,7 +6600,7 @@
                 "id": "cf048",
                 "name": "Frugality",
                 "sentence": "With this single garment Christ is teaching us the virtue of simplicity and frugality.",
-                "pronounciation": "/fruːˈɡalɪti/()",
+                "pronounciation": "/fruːˈɡalɪti/(फ्रूगैलटी)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "prudence in avoiding waste",
@@ -6612,7 +6612,7 @@
                 "id": "cf049",
                 "name": "Frustrate",
                 "sentence": "Low test scores and a new method of teaching seem to frustrate the students of the class.",
-                "pronounciation": "/frʌˈstreɪt/()",
+                "pronounciation": "/frʌˈstreɪt/(फ्रस्ट्रेट)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "treat cruelly; hinder or prevent (the efforts, plans, or desires) of",
@@ -6624,7 +6624,7 @@
                 "id": "cf050",
                 "name": "Fulsome",
                 "sentence": "In an attempt to earn a promotion, Sarah offended her boss with her fulsome compliments.",
-                "pronounciation": "/ˈfʊls(ə)m/()",
+                "pronounciation": "/ˈfʊls(ə)m/(फुल्सम)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "unpleasantly and excessively suave or ingratiating in manner or speech",
@@ -6636,7 +6636,7 @@
                 "id": "cf051",
                 "name": "Furtive",
                 "sentence": "Students who cheat on tests employ their furtive tactics to avoid getting caught.",
-                "pronounciation": "/ˈfəːtɪv/()",
+                "pronounciation": "/ˈfəːtɪv/(फर्टिव)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "marked by quiet and caution and secrecy; taking pains to avoid being observed",
@@ -6648,7 +6648,7 @@
                 "id": "cf052",
                 "name": "Futile",
                 "sentence": "The losing team made a valiant but futile effort to catch up to their opponent.",
-                "pronounciation": "/ˈfjuːtʌɪl/()",
+                "pronounciation": "/ˈfjuːtʌɪl/(फ्यूटल)",
                 "alphabet" : "F",
                 "phone": {
                     "meaning": "unproductive of success;producing no result or effect",
@@ -6660,7 +6660,7 @@
                 "id": "cg001",
                 "name": "Gainsay",
                 "sentence": "Since Jack told the truth on the witness stand, no one was able to gainsay his statement.",
-                "pronounciation": "/ɡeɪnˈseɪ/()",
+                "pronounciation": "/ɡeɪnˈseɪ/(गेन्से)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "take exception to;to contradict or deny",
@@ -6672,7 +6672,7 @@
                 "id": "cg002",
                 "name": "Galvanize",
                 "sentence": "The infection will galvanize your white blood cells and trigger your immune reactions.",
-                "pronounciation": "/ˈɡalvənʌɪz/()",
+                "pronounciation": "/ˈɡalvənʌɪz/(गैल्वनाइज़)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "shock or excite (someone) into taking action;to inspire people to work towards change",
@@ -6684,7 +6684,7 @@
                 "id": "cg003",
                 "name": "Gamut",
                 "sentence": "The company has a gamut of products ranging from infant toys to electrical wall outlets.",
-                "pronounciation": "/ˈɡamət/()",
+                "pronounciation": "/ˈɡamət/(गैमट)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "a complete extent or range;the entire scale of musical notes",
@@ -6696,7 +6696,7 @@
                 "id": "cg004",
                 "name": "Garbled",
                 "sentence": "I got a garbled message on my answerphone from my daughter.",
-                "pronounciation": "/ˈɡɑːb(ə)ld/()",
+                "pronounciation": "/ˈɡɑːb(ə)ld/(गार्बल्ड)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "confused and distorted; unclear.",
@@ -6708,7 +6708,7 @@
                 "id": "cg005",
                 "name": "Garrulous",
                 "sentence": "Mom, who is usually loud and garrulous, was surprisingly quiet as a mouse this morning.",
-                "pronounciation": "/ˈɡar(j)ʊləs/()",
+                "pronounciation": "/ˈɡar(j)ʊləs/(गेरलस)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "excessively talkative, especially on trivial matters.",
@@ -6720,7 +6720,7 @@
                 "id": "cg006",
                 "name": "Gaudy",
                 "sentence": "When Crystal returned from the nail salon, she showed me her gaudy nails that were painted bright orange.",
-                "pronounciation": "/ˈɡɔːdi/()",
+                "pronounciation": "/ˈɡɔːdi/(गॉडी)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "(used especially of clothes) marked by conspicuous display; tastelessly showy",
@@ -6732,7 +6732,7 @@
                 "id": "cg007",
                 "name": "Gaunt",
                 "sentence": "I could not stop thinking about the extent of my supervisor’s illness when I saw how gaunt he had become.",
-                "pronounciation": "/ɡɔːnt/()",
+                "pronounciation": "/ɡɔːnt/(गॉन्ट)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "very thin especially from disease or hunger or cold",
@@ -6744,7 +6744,7 @@
                 "id": "cg008",
                 "name": "Genocide",
                 "sentence": "Armed troops are being sent to end the dictator’s genocide that has resulted in the deaths of over twenty thousand people.",
-                "pronounciation": "/ˈdʒɛnəsʌɪd/()",
+                "pronounciation": "/ˈdʒɛnəsʌɪd/(जेनसाइड)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "systematic killing of a racial or cultural group",
@@ -6756,7 +6756,7 @@
                 "id": "cg009",
                 "name": "Genre",
                 "sentence": "Though he did not normally enjoy movies in the horror genre, he found the trailer quite compelling.",
-                "pronounciation": "/ˈʒɒ̃rə,ˈ(d)ʒɒnrə/()",
+                "pronounciation": "/ˈʒɒ̃rə,ˈ(d)ʒɒnrə/(गेनर)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "a kind of literary or artistic work;an expressive style of music ;a style of expressing yourself in writing",
@@ -6768,7 +6768,7 @@
                 "id": "cg010",
                 "name": "Germane",
                 "sentence": "I do not have to answer your questions because they are not germane to the case!",
-                "pronounciation": "/dʒəːˈmeɪn/()",
+                "pronounciation": "/dʒəːˈmeɪn/(जर्मेन)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "relevant and appropriate",
@@ -6780,7 +6780,7 @@
                 "id": "cg011",
                 "name": "Gesticulate",
                 "sentence": "The deaf woman tried frantically to gesticulate her fears to the police interpreter.",
-                "pronounciation": "/dʒɛˈstɪkjʊleɪt/()",
+                "pronounciation": "/dʒɛˈstɪkjʊleɪt/(जेस्टिक्यलेट)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "show, express or direct through movement",
@@ -6792,7 +6792,7 @@
                 "id": "cg012",
                 "name": "Glean",
                 "sentence": "The researchers were able to glean a great deal of information about the medicine’s effects during the experiment.",
-                "pronounciation": "/ɡliːn/()",
+                "pronounciation": "/ɡliːn/(ग्लीन)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "gather, as of natural products",
@@ -6804,7 +6804,7 @@
                 "id": "cg013",
                 "name": "Glib",
                 "sentence": "How could he have been so glib about such a traumatic event?",
-                "pronounciation": "/ɡlɪb/()",
+                "pronounciation": "/ɡlɪb/(ग्लिब)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "artfully persuasive in speech;marked by lack of intellectual depth",
@@ -6816,7 +6816,7 @@
                 "id": "cg014",
                 "name": "Goad",
                 "sentence": "My mother is going to try and goad her dog into getting off the bed by offering him a treat.",
-                "pronounciation": "/ɡəʊd/()",
+                "pronounciation": "/ɡəʊd/(गोड)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "provoke or annoy (someone) so as to stimulate an action or reaction.",
@@ -6828,7 +6828,7 @@
                 "id": "cg015",
                 "name": "Gouge",
                 "sentence": "The refrigerator legs, left a gouge in the vinyl flooring when I moved it out to clean behind it.",
-                "pronounciation": "/ɡaʊdʒ,ɡuːdʒ/()",
+                "pronounciation": "/ɡaʊdʒ,ɡuːdʒ/(गाउज)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "a hole, dent or tear in something",
@@ -6840,7 +6840,7 @@
                 "id": "cg016",
                 "name": "Grandiloquent",
                 "sentence": "The city girl’s grandiloquent talk was confusing to the people in the country town.",
-                "pronounciation": "/ɡranˈdɪləkwənt/()",
+                "pronounciation": "/ɡranˈdɪləkwənt/(ग्रैन्डिलक्वन्ट)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "prone to using sophisticated language in order to impress people",
@@ -6852,7 +6852,7 @@
                 "id": "cg017",
                 "name": "Gratuity",
                 "sentence": "I refuse to leave a gratuity when I receive bad service at a restaurant.",
-                "pronounciation": "/ɡrəˈtjuːɪti/()",
+                "pronounciation": "/ɡrəˈtjuːɪti/(ग्रटूइटी)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "an award (as for meritorious service) given without claim or obligation",
@@ -6864,7 +6864,7 @@
                 "id": "cg018",
                 "name": "Gregarious",
                 "sentence": "If you want to be more approachable, show a gregarious smile.",
-                "pronounciation": "/ɡrɪˈɡɛːrɪəs/()",
+                "pronounciation": "/ɡrɪˈɡɛːrɪəs/(ग्रिगेरीअस)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "fond of the company of others; sociable",
@@ -6876,7 +6876,7 @@
                 "id": "cg019",
                 "name": "Grimace",
                 "sentence": "It is said that it takes more muscles to grimace than it does to smile.",
-                "pronounciation": "/ˈɡrɪməs,ɡrɪˈmeɪs/()",
+                "pronounciation": "/ˈɡrɪməs,ɡrɪˈmeɪs/(ग्रिमस)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "a facial expression that usually indicates strong dislike or pain",
@@ -6888,7 +6888,7 @@
                 "id": "cg020",
                 "name": "Grotesque",
                 "sentence": "It’s odd how we can find some grotesque things so fascinating.",
-                "pronounciation": "/ɡrə(ʊ)ˈtɛsk/()",
+                "pronounciation": "/ɡrə(ʊ)ˈtɛsk/(ग्रोटेस्क)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "distorted and unnatural in shape or size; abnormal and hideous",
@@ -6900,7 +6900,7 @@
                 "id": "cg021",
                 "name": "Grouse",
                 "sentence": "our biggest grouse was about the noise of construction work",
-                "pronounciation": "/ɡraʊs/()",
+                "pronounciation": "/ɡraʊs/(ग्राउस)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "complain about something trivial; grumble",
@@ -6912,7 +6912,7 @@
                 "id": "cg022",
                 "name": "Guileless",
                 "sentence": "The guileless nerd really believed the prom queen had a crush on him.",
-                "pronounciation": "/ˈɡʌɪlləs/()",
+                "pronounciation": "/ˈɡʌɪlləs/(गाइल्लस)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "devoid of guile; innocent and without deception.",
@@ -6924,7 +6924,7 @@
                 "id": "cg023",
                 "name": "Guise",
                 "sentence": "A fresh coat of paint will give our old house the guise of being brand new.",
-                "pronounciation": "/ɡʌɪz/()",
+                "pronounciation": "/ɡʌɪz/(गीज़)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "an external form, appearance, or manner of presentation, typically concealing the true nature of something.",
@@ -6936,7 +6936,7 @@
                 "id": "cg024",
                 "name": "Gullible",
                 "sentence": "The gullible woman gave all her money to a fake charity.",
-                "pronounciation": "/ˈɡʌləb(ə)l/()",
+                "pronounciation": "/ˈɡʌləb(ə)l/(गुलिबल)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "easily tricked because of being too trusting; naive and easily deceived or tricked",
@@ -6948,7 +6948,7 @@
                 "id": "cg025",
                 "name": "Gusto",
                 "sentence": "Jim loves playing football and attacks every game with gusto.",
-                "pronounciation": "/ˈɡʌstəʊ/()",
+                "pronounciation": "/ˈɡʌstəʊ/(गस्टो)",
                 "alphabet" : "G",
                 "phone": {
                     "meaning": "vigorous and enthusiastic enjoyment in doing something",
